@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+	
+	<ItemGroup>
+		<PackageReference Include="LangChain" Version="0.17.0" />
+		<PackageReference Include="LangChain.Databases.Sqlite" Version="0.17.1-dev.11" />
+		<PackageReference Include="LangChain.DocumentLoaders.Pdf" Version="0.17.1-dev.51" />
+		<PackageReference Include="LangChain.Providers.Automatic1111" Version="0.17.1-dev.48" />
+		<PackageReference Include="LangChain.Providers.Ollama" Version="0.17.1-dev.48" />
+		<PackageReference Include="LangChain.Providers.OpenAI" Version="0.17.1-dev.48" />
+		<PackageReference Include="LangChain.Splitters.CSharp" Version="0.17.1-dev.51" />
+		
+	</ItemGroup>
+	
+</Project>

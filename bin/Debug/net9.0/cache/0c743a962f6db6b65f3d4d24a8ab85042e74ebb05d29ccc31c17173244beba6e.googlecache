@@ -1,0 +1,571 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - suhu inti matahari",
+        "totalResults": "443000",
+        "searchTerms": "suhu inti matahari",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - suhu inti matahari",
+        "totalResults": "443000",
+        "searchTerms": "suhu inti matahari",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ]
+  },
+  "context": {
+    "title": "LangSearch"
+  },
+  "searchInformation": {
+    "searchTime": 0.4879,
+    "formattedSearchTime": "0.49",
+    "totalResults": "443000",
+    "formattedTotalResults": "443,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Inti matahari - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+      "htmlTitle": "\u003cb\u003eInti matahari\u003c/b\u003e - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+      "link": "https://id.wikipedia.org/wiki/Inti_matahari",
+      "displayLink": "id.wikipedia.org",
+      "snippet": "Inti matahari adalah bagian matahari yang mempunyai suhu sekitar 15 juta derajat celcius. ... Suhu dan tekanan yang sangat tinggi ini memungkinkan terjadinya ...",
+      "htmlSnippet": "\u003cb\u003eInti matahari\u003c/b\u003e adalah bagian \u003cb\u003ematahari\u003c/b\u003e yang mempunyai \u003cb\u003esuhu\u003c/b\u003e sekitar 15 juta derajat celcius. ... \u003cb\u003eSuhu\u003c/b\u003e dan tekanan yang sangat tinggi ini memungkinkan terjadinya&nbsp;...",
+      "formattedUrl": "https://id.wikipedia.org/wiki/Inti_matahari",
+      "htmlFormattedUrl": "https://id.wikipedia.org/wiki/\u003cb\u003eInti\u003c/b\u003e_\u003cb\u003ematahari\u003c/b\u003e",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sun_diagram.svg/1200px-Sun_diagram.svg.png",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Inti matahari - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+            "og:image:height": "1200",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Siklus CNO - Wikipédia",
+      "htmlTitle": "Siklus CNO - Wikipédia",
+      "link": "https://jv.wikipedia.org/wiki/Siklus_CNO",
+      "displayLink": "jv.wikipedia.org",
+      "snippet": "Ning kondisi suhu inti Matahari, namung 1,7% 4He kang diprodhuksi nalika prosès mekanisme daur karbon iki, nanging ning sakjeroning lintang-lintang kang ...",
+      "htmlSnippet": "Ning kondisi \u003cb\u003esuhu inti Matahari\u003c/b\u003e, namung 1,7% \u003csup\u003e4\u003c/sup\u003eHe kang diprodhuksi nalika prosès mekanisme daur karbon iki, nanging ning sakjeroning lintang-lintang kang&nbsp;...",
+      "formattedUrl": "https://jv.wikipedia.org/wiki/Siklus_CNO",
+      "htmlFormattedUrl": "https://jv.wikipedia.org/wiki/Siklus_CNO",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/CNO_Cycle.svg/1200px-CNO_Cycle.svg.png",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Siklus CNO - Wikipédia",
+            "og:image:height": "1200",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mesin Fusi Nuklir Cina Lampaui Suhu Inti Matahari | Republika Online",
+      "htmlTitle": "Mesin Fusi Nuklir Cina Lampaui \u003cb\u003eSuhu Inti Matahari\u003c/b\u003e | Republika Online",
+      "link": "https://tekno.republika.co.id/berita/o29mzj368/mesin-fusi-nuklir-cina-lampaui-suhu-inti-matahari",
+      "displayLink": "tekno.republika.co.id",
+      "snippet": "Feb 9, 2016 ... Sebagai gambaran, suhu di inti matahari mencapai 15 juta derajat Celcius. Sponsored. Mempertahankan suhu yang sangat tinggi untuk waktu lama ...",
+      "htmlSnippet": "Feb 9, 2016 \u003cb\u003e...\u003c/b\u003e Sebagai gambaran, \u003cb\u003esuhu\u003c/b\u003e di \u003cb\u003einti matahari\u003c/b\u003e mencapai 15 juta derajat Celcius. Sponsored. Mempertahankan \u003cb\u003esuhu\u003c/b\u003e yang sangat tinggi untuk waktu lama&nbsp;...",
+      "formattedUrl": "https://tekno.republika.co.id/.../mesin-fusi-nuklir-cina-lampaui-suhu-inti-m...",
+      "htmlFormattedUrl": "https://tekno.republika.co.id/.../mesin-fusi-nuklir-cina-lampaui-\u003cb\u003esuhu\u003c/b\u003e-\u003cb\u003einti\u003c/b\u003e-\u003cb\u003em\u003c/b\u003e...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp7LxMjlnA_9nqEPfgGLqjevwWrb3MENPCFJ5FjJUCon9ikuuA_HquXRE&s",
+            "width": "274",
+            "height": "184"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://static.republika.co.id/uploads/images/headline_slide/mesin-fusi-east-_160209125122-259.jpg",
+            "theme-color": "#000000",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2016-02-09T12:52:31+07:00",
+            "og:image:width": "610",
+            "og:site_name": "Republika Online",
+            "twitter:url": "https://tekno.republika.co.id/berita/o29mzj368/mesin-fusi-nuklir-cina-lampaui-suhu-inti-matahari",
+            "og:image:type": "image/jpeg",
+            "title": "Mesin Fusi Nuklir Cina Lampaui Suhu Inti Matahari - Republika Online",
+            "twitter:image": "https://static.republika.co.id/uploads/images/headline_slide/mesin-fusi-east-_160209125122-259.jpg",
+            "article:section2": "Sains Trendtek",
+            "kanal": "trendtek",
+            "twitter:site": "@republikaonline",
+            "news_keywords": "pembangkit nuklir, cina, suhu matahari",
+            "alexaverifyid": "1uwFK2hX0m-t6B78rU2zj7tZwDk",
+            "twitter:title": "Mesin Fusi Nuklir Cina Lampaui Suhu Inti Matahari",
+            "article:section": "Trendtek",
+            "og:type": "article",
+            "og:title": "Mesin Fusi Nuklir Cina Lampaui Suhu Inti Matahari | Republika Online",
+            "og:image:height": "409",
+            "googlebot-news": "index,follow",
+            "fb:pages": "225952730433",
+            "facebook-domain-verification": "xkjqampxoyh3p4uzv0wkvp89txeicp",
+            "subkanal": "sains-trendtek",
+            "fb:app_id": "417808724973321",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:url": "https://republika.co.id/berita/trendtek/sains-trendtek/16/02/09/o29mzj368-mesin-fusi-nuklir-cina-lampaui-suhu-inti-matahari",
+            "google-play-app": "app-id=com.republika.mobile"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.republika.co.id/uploads/images/headline_slide/mesin-fusi-east-_160209125122-259.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Penjelasan Sains, Suhu Inti Matahari Mencapai 15 Juta Derajat ...",
+      "htmlTitle": "Penjelasan Sains, \u003cb\u003eSuhu Inti Matahari\u003c/b\u003e Mencapai 15 Juta Derajat ...",
+      "link": "https://www.tribunnews.com/sains/2022/05/01/penjelasan-sains-suhu-inti-matahari-mencapai-15-juta-derajat-celcius",
+      "displayLink": "www.tribunnews.com",
+      "snippet": "May 1, 2022 ... Adapun suhu inti Matahari berkisar 15 juta derajat Celsius, dan permukaannya memiliki suhu sekitar 5.500 derajat Celsius. Dilansir dari Space, ...",
+      "htmlSnippet": "May 1, 2022 \u003cb\u003e...\u003c/b\u003e Adapun \u003cb\u003esuhu inti Matahari\u003c/b\u003e berkisar 15 juta derajat Celsius, dan permukaannya memiliki suhu sekitar 5.500 derajat Celsius. Dilansir dari Space,&nbsp;...",
+      "formattedUrl": "https://www.tribunnews.com/.../penjelasan-sains-suhu-inti-matahari-mencap...",
+      "htmlFormattedUrl": "https://www.tribunnews.com/.../penjelasan-sains-\u003cb\u003esuhu\u003c/b\u003e-\u003cb\u003einti\u003c/b\u003e-\u003cb\u003ematahari\u003c/b\u003e-mencap...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVdmhwD8gSFuH7CdPBJbKZB0-1OWHYuFYVM-9CrYa5tYfmBYL_KrCFOCo&s",
+            "width": "285",
+            "height": "177"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://asset-2.tstatic.net/tribunnews/foto/bank/originals/20140108_152751_ilustrasi-badai-matahari.jpg,max-image-preview:large",
+            "og:image:width": "1400",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Tribunnews.com",
+            "actionjixie": "visit",
+            "dailymotion-domain-verification": "dmcznis3fkyltm2tk",
+            "og:image:type": "image/jpeg",
+            "og:description": "Anda mungkin pernah bertanya-tanya seberapa panas Matahari, yang kerap dimanfaatkan guna membantu pekerjaan manusia ini.",
+            "twitter:creator": "@tribunnews",
+            "og:image:secure_url": "https://asset-2.tstatic.net/tribunnews/foto/bank/originals/20140108_152751_ilustrasi-badai-matahari.jpg,max-image-preview:large",
+            "twitter:image": "https://asset-2.tstatic.net/tribunnews/foto/bank/originals/20140108_152751_ilustrasi-badai-matahari.jpg,max-image-preview:large",
+            "news_keywords": "Tata Surya, Matahari, alam semesta, hidrogen, sinar matahari, Sains",
+            "og:type": "article",
+            "twitter:title": "Penjelasan Sains, Suhu Inti Matahari Mencapai 15 Juta Derajat Celcius - Tribunnews.com",
+            "og:title": "Penjelasan Sains, Suhu Inti Matahari Mencapai 15 Juta Derajat Celcius - Tribunnews.com",
+            "og:image:height": "768",
+            "google": "notranslate",
+            "googlebot-news": "index,follow",
+            "fb:pages": "1287166527989728",
+            "twitter:image:src": "https://asset-2.tstatic.net/tribunnews/foto/bank/originals/20140108_152751_ilustrasi-badai-matahari.jpg,max-image-preview:large",
+            "fb:app_id": "114488588566911",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "width=device-width, target-densityDpi=medium-dpi, initial-scale=1.0, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0",
+            "twitter:description": "Anda mungkin pernah bertanya-tanya seberapa panas Matahari, yang kerap dimanfaatkan guna membantu pekerjaan manusia ini.",
+            "og:url": "https://www.tribunnews.com/sains/2022/05/01/penjelasan-sains-suhu-inti-matahari-mencapai-15-juta-derajat-celcius"
+          }
+        ],
+        "webpage": [
+          {
+            "image": "https://asset-1.tstatic.net/img/tribunx/TribunX_small.png"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://asset-2.tstatic.net/tribunnews/foto/bank/images/20140108_152751_ilustrasi-badai-matahari.jpg"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Home",
+            "name": "Home",
+            "position": "1"
+          },
+          {
+            "item": "Sains",
+            "name": "Sains",
+            "position": "2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Berita Suhu Inti Matahari Terbaru Hari Ini - Bobo",
+      "htmlTitle": "Berita \u003cb\u003eSuhu Inti Matahari\u003c/b\u003e Terbaru Hari Ini - Bobo",
+      "link": "https://bobo.grid.id/tag/suhu-inti-matahari",
+      "displayLink": "bobo.grid.id",
+      "snippet": "Mengapa Planet Terdekat dari Matahari Tidak Meleleh Kepanasan ... Tag: suhu inti matahari. Mengapa Planet Terdekat dari Matahari Tidak Meleleh ...",
+      "htmlSnippet": "Mengapa Planet Terdekat dari Matahari Tidak Meleleh Kepanasan ... Tag: \u003cb\u003esuhu inti matahari\u003c/b\u003e. Mengapa Planet Terdekat dari Matahari Tidak Meleleh&nbsp;...",
+      "formattedUrl": "https://bobo.grid.id/tag/suhu-inti-matahari",
+      "htmlFormattedUrl": "https://bobo.grid.id/tag/\u003cb\u003esuhu\u003c/b\u003e-\u003cb\u003einti\u003c/b\u003e-\u003cb\u003ematahari\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6L1h2_jisoTyCxtPwniv-ypElhkH2zVKVnGNNYIlsoINdiuidsMaz_oF0&s",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "website": [
+          {
+            "image": "http://cdn.grid.id/crop/0x0:0x0/750x500/photo/2018/06/06/1955107075.jpg",
+            "keywords": "suhu inti matahari, berita suhu inti matahari, suhu inti matahari hari ini, suhu inti matahari terbaru, gridid",
+            "name": "Berita Suhu Inti Matahari Terbaru Hari Ini - Bobo",
+            "description": "Mengapa Planet Terdekat dari Matahari Tidak Meleleh Kepanasan?"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "http://cdn.grid.id/crop/0x0:0x0/750x500/photo/2018/06/06/1955107075.jpg",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#8bc63f",
+            "og:site_name": "Bobo",
+            "language": "id",
+            "og:description": "Mengapa Planet Terdekat dari Matahari Tidak Meleleh Kepanasan?",
+            "twitter:creator": "@grid_id",
+            "geo.country": "id",
+            "twitter:image": "http://cdn.grid.id/crop/0x0:0x0/750x500/photo/2018/06/06/1955107075.jpg",
+            "twitter:site": "@grid_id",
+            "sso_api": "https://account.grid.id/",
+            "content_site": "Bobo",
+            "og:type": "article",
+            "twitter:title": "Berita Suhu Inti Matahari Terbaru Hari Ini - Bobo",
+            "og:title": "Berita Suhu Inti Matahari Terbaru Hari Ini - Bobo",
+            "googlebot-news": "index,follow",
+            "fb:pages": "155115492793",
+            "msapplication-navbutton-color": "#8bc63f",
+            "fb:app_id": "1246251635468723",
+            "apple-mobile-web-app-status-bar-style": "#8bc63f",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Mengapa Planet Terdekat dari Matahari Tidak Meleleh Kepanasan?",
+            "apple-mobile-web-app-capable": "yes",
+            "content_url": "https://bobo.grid.id",
+            "og:url": "https://bobo.grid.id",
+            "geo.placename": "Indonesia",
+            "base": "https://bobo.grid.id/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "http://cdn.grid.id/crop/0x0:0x0/750x500/photo/2018/06/06/1955107075.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mesin Fusi China Pecah Rekor, Salip Suhu Inti Matahari Asli ...",
+      "htmlTitle": "Mesin Fusi China Pecah Rekor, Salip \u003cb\u003eSuhu Inti Matahari\u003c/b\u003e Asli ...",
+      "link": "https://www.liputan6.com/global/read/4574800/mesin-fusi-china-pecah-rekor-salip-suhu-inti-matahari-asli-hinggga-8-kali-lipat",
+      "displayLink": "www.liputan6.com",
+      "snippet": "Jun 4, 2021 ... Pada hari Jumat 4 Juni 2021, mesin fusi Akademi Ilmu Pengetahuan China mencapai 120 juta derajat Celcius (216 juta derajat Fahrenheit) dan ...",
+      "htmlSnippet": "Jun 4, 2021 \u003cb\u003e...\u003c/b\u003e Pada hari Jumat 4 Juni 2021, mesin fusi Akademi Ilmu Pengetahuan China mencapai 120 juta derajat Celcius (216 juta derajat Fahrenheit) dan&nbsp;...",
+      "formattedUrl": "https://www.liputan6.com/.../mesin-fusi-china-pecah-rekor-salip-suhu-inti-...",
+      "htmlFormattedUrl": "https://www.liputan6.com/.../mesin-fusi-china-pecah-rekor-salip-\u003cb\u003esuhu\u003c/b\u003e-\u003cb\u003einti\u003c/b\u003e-...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR864wGm2OpSNrlemD9auEmQ9MeNEDgd8zA-fzgFI1mfTKJc4akoUbiKUip&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "organization": [
+          {
+            "logo": "https://cdn0-production-assets-kly.akamaized.net/mobile_logos/188/original/040541100_1740988466-Liputan6.png",
+            "url": "https://www.liputan6.com"
+          }
+        ],
+        "metatags": [
+          {
+            "p:domain_verify": "7e8445b49f34d4359b5590ca50e38f8b",
+            "og:image": "https://cdn1-production-images-kly.akamaized.net/fkghutQGi9f0khok1S6crvQuPNE=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2409435/original/058201100_1542282091-MC_1_2.jpg",
+            "msapplication-config": "https://cdn-production-assets-kly.akamaized.net/assets/images/favicons/new-logo/browserconfig.xml",
+            "article:published_time": "2021-06-06T19:30:02+07:00",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#ffffff",
+            "og:site_name": "liputan6.com",
+            "twitter:url": "https://www.liputan6.com/global/read/4574800/mesin-fusi-china-pecah-rekor-salip-suhu-inti-matahari-asli-hinggga-8-kali-lipat",
+            "adx:sections": "global/sains",
+            "language": "id",
+            "title": "Mesin Fusi China Pecah Rekor, Salip Suhu Inti Matahari Asli hinggga 8 Kali Lipat - Global Liputan6.com",
+            "msapplication-tileimage": "https://cdn-production-assets-kly.akamaized.net/assets/images/favicons/new-logo/ms-icon-144x144.png",
+            "og:description": "Pada hari Jumat 4 Juni 2021, mesin fusi Akademi Ilmu Pengetahuan China mencapai 120 juta derajat Celcius (216 juta derajat Fahrenheit) dan bertahan selama 101 detik.",
+            "twitter:creator": "@liputan6dotcom",
+            "geo.country": "id",
+            "twitter:image": "https://cdn1-production-images-kly.akamaized.net/fkghutQGi9f0khok1S6crvQuPNE=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2409435/original/058201100_1542282091-MC_1_2.jpg",
+            "ahrefs-site-verification": "f0fc43bd1544ebba3e78fc1e77762d498b5372669d65bdbcf5752af599a5d05b",
+            "twitter:site": "@liputan6dotcom",
+            "article:modified_time": "2021-06-06T19:30:02+07:00",
+            "msapplication-tilecolor": "#da532c",
+            "og:type": "article",
+            "twitter:title": "Mesin Fusi China Pecah Rekor, Salip Suhu Inti Matahari Asli hinggga 8 Kali Lipat",
+            "twitter:domain": "liputan6.com",
+            "msvalidate.01": "8A609C27D3037D0B7DB2F607B5A691B8",
+            "author": "Liputan6.com",
+            "og:title": "Mesin Fusi China Pecah Rekor, Salip Suhu Inti Matahari Asli hinggga 8 Kali Lipat",
+            "googlebot-news": "index,follow",
+            "og:updated_time": "2021-06-06T19:30:02+07:00",
+            "fb:app_id": "467800444454528",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Pada hari Jumat 4 Juni 2021, mesin fusi Akademi Ilmu Pengetahuan China mencapai 120 juta derajat Celcius (216 juta derajat Fahrenheit) dan bertahan selama 101 detik.",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.liputan6.com/global/read/4574800/mesin-fusi-china-pecah-rekor-salip-suhu-inti-matahari-asli-hinggga-8-kali-lipat",
+            "device": "mobile-smart",
+            "geo.placename": "Indonesia"
+          }
+        ],
+        "webpage": [
+          {
+            "description": "Liputan6.com, Beijing - China telah mencapai tonggak baru dalam eksperimen kemanusiaan untuk memanfaatkan kekuatan bintang-bintang. Pada hari Jumat 4 Juni 2021, 'matahari buatan' atau sebuah..."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn1-production-images-kly.akamaized.net/fkghutQGi9f0khok1S6crvQuPNE=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2409435/original/058201100_1542282091-MC_1_2.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Berapakah Suhu di Permukaan Matahari? Ini Penjelasannya ...",
+      "htmlTitle": "Berapakah \u003cb\u003eSuhu\u003c/b\u003e di Permukaan \u003cb\u003eMatahari\u003c/b\u003e? Ini Penjelasannya ...",
+      "link": "https://kumparan.com/ragam-info/berapakah-suhu-di-permukaan-matahari-ini-penjelasannya-22ZVjNo0PHT",
+      "displayLink": "kumparan.com",
+      "snippet": "Apr 18, 2024 ... Sementara pada bagian inti matahari suhunya dapat mencapai sekitar 15.000.000°C. Untuk mengetahui besaran suhu tersebut, para ilmuwan melakukan ...",
+      "htmlSnippet": "Apr 18, 2024 \u003cb\u003e...\u003c/b\u003e Sementara pada bagian \u003cb\u003einti matahari\u003c/b\u003e suhunya dapat mencapai sekitar 15.000.000°C. Untuk mengetahui besaran \u003cb\u003esuhu\u003c/b\u003e tersebut, para ilmuwan melakukan&nbsp;...",
+      "formattedUrl": "https://kumparan.com/.../berapakah-suhu-di-permukaan-matahari-ini-penjel...",
+      "htmlFormattedUrl": "https://kumparan.com/.../berapakah-\u003cb\u003esuhu\u003c/b\u003e-di-permukaan-\u003cb\u003ematahari\u003c/b\u003e-ini-penjel...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWO_W23r9-kF2kO0GkxSE-y4FeYQoCo0I5xOqdzu7Wj0sY0vfsGoj9N9Y&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=1175997267, app-argument=kumparan://kumparan.com/ragam-info/berapakah-suhu-di-permukaan-matahari-ini-penjelasannya-22ZVjNo0PHT",
+            "og:image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,f_jpg,q_auto,w_600,h_315,c_lpad,b_white/g_south,l_og_user_zprw89/co_rgb:ffffff,g_south_west,l_text:Heebo_20_bold:Konten%20dari%20Pengguna%0DRagam%20Info,x_140,y_26/01h1jrx5b6q548k75emxa29gcv.jpg",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "600",
+            "theme-color": "#00A5AF",
+            "og:site_name": "kumparan",
+            "og:card": "summary",
+            "apple-mobile-web-app-title": "kumparan",
+            "msapplication-tileimage": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best/v1567743613/logo-192_ra4tu7.png",
+            "twitter:creator": "@kumparan",
+            "og:description": "Oleh Ragam Info",
+            "twitter:image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,f_jpg,q_auto,w_600,h_315,c_lpad,b_white/g_south,l_og_ugc_mansdf/co_rgb:ffffff,g_south_west,l_text:Heebo_20_bold:Konten%20dari%20Pengguna | Ragam%20Info,x_60,y_53/01h1jrx5b6q548k75emxa29gcv.jpg",
+            "twitter:site": "@kumparan",
+            "news_keywords": "Matahari, Berita Terkini Matahari, Berita Terbaru Matahari, Berita Hari Ini Matahari, Matahari, Suhu Panas, Berita Terkini Suhu Panas, Berita Terbaru Suhu Panas, Berita Hari Ini Suhu Panas, Suhu Panas, Ilmuwan, Berita Terkini Ilmuwan, Berita Terbaru Ilmuwan, Berita Hari Ini Ilmuwan, Ilmuwan",
+            "og:site": "kumparan",
+            "application-name": "kumparan",
+            "msapplication-tilecolor": "#00a5af",
+            "twitter:title": "Berapakah Suhu di Permukaan Matahari? Ini Penjelasannya",
+            "og:type": "article",
+            "msvalidate.01": "1ECA242BBBAF6E5377CEA14061AFF776",
+            "og:title": "Berapakah Suhu di Permukaan Matahari? Ini Penjelasannya",
+            "og:image:height": "315",
+            "googlebot-news": "index,follow",
+            "yandex-verification": "bcea1e52eeb7eb85",
+            "msapplication-navbutton-color": "#00a5af",
+            "fb:pages": "1924315711129121",
+            "fb:app_id": "261539327577949",
+            "apple-mobile-web-app-status-bar-style": "white",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=2",
+            "twitter:description": "Oleh Ragam Info",
+            "apple-mobile-web-app-capable": "yes",
+            "og:locale": "id_ID",
+            "mobile-web-app-capable": "yes",
+            "og:creator": "kumparan",
+            "og:url": "https://kumparan.com/ragam-info/berapakah-suhu-di-permukaan-matahari-ini-penjelasannya-22ZVjNo0PHT"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,f_jpg,q_auto,w_600,h_315,c_lpad,b_white/g_south,l_og_user_zprw89/co_rgb:ffffff,g_south_west,l_text:Heebo_20_bold:Konten%20dari%20Pengguna%0DRagam%20Info,x_140,y_26/01h1jrx5b6q548k75emxa29gcv.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Kenapa Matahari Bisa Terbakar Tanpa Oksigen? (Fusi Nuklir ...",
+      "htmlTitle": "Kenapa \u003cb\u003eMatahari\u003c/b\u003e Bisa Terbakar Tanpa Oksigen? (Fusi Nuklir ...",
+      "link": "https://kokbisachannel.wordpress.com/2017/07/26/kenapa-matahari-bisa-terbakar-tanpa-oksigen-fusi-nuklir-explained/",
+      "displayLink": "kokbisachannel.wordpress.com",
+      "snippet": "Jul 26, 2017 ... Padahal, suhu permukaan matahari hampir menyamai suhu api terpanas bumi. ... Karena suhu inti yang super duper panas, atom-atom hidrogen bakal ...",
+      "htmlSnippet": "Jul 26, 2017 \u003cb\u003e...\u003c/b\u003e Padahal, \u003cb\u003esuhu\u003c/b\u003e permukaan \u003cb\u003ematahari\u003c/b\u003e hampir menyamai \u003cb\u003esuhu\u003c/b\u003e api terpanas bumi. ... Karena \u003cb\u003esuhu inti\u003c/b\u003e yang super duper panas, atom-atom hidrogen bakal&nbsp;...",
+      "formattedUrl": "https://kokbisachannel.wordpress.com/.../kenapa-matahari-bisa-terbakar-tan...",
+      "htmlFormattedUrl": "https://kokbisachannel.wordpress.com/.../kenapa-\u003cb\u003ematahari\u003c/b\u003e-bisa-terbakar-tan...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwrUxpnxh5rDR1sAanyadRTMhHS3YdIeG2f8_GfkiRaFE8H1E7cNWQ7Cq_&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://kokbisachannel.wordpress.com/wp-content/uploads/2015/11/logo.jpg",
+            "og:type": "article",
+            "article:published_time": "2017-07-26T15:09:05+00:00",
+            "og:image:width": "1000",
+            "twitter:card": "summary",
+            "og:title": "Kenapa Matahari Bisa Terbakar Tanpa Oksigen? (Fusi Nuklir Explained)",
+            "og:image:height": "1000",
+            "og:description": "Jauuuh di luar angkasa sana, matahari tampak seperti bola api raksasa. Tapi setelah 5 miliar tahun menyala, kenapa belum padam juga ya? Lebih aneh lagi, gimana caranya matahari bisa menyala di luar…",
+            "article:publisher": "https://www.facebook.com/WordPresscom",
+            "twitter:image": "https://kokbisachannel.wordpress.com/wp-content/uploads/2015/11/logo.jpg",
+            "twitter:text:title": "Kenapa Matahari Bisa Terbakar Tanpa Oksigen? (Fusi Nuklir Explained)",
+            "fb:app_id": "249643311490",
+            "article:modified_time": "2017-07-26T15:09:05+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:url": "https://kokbisachannel.wordpress.com/2017/07/26/kenapa-matahari-bisa-terbakar-tanpa-oksigen-fusi-nuklir-explained/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://kokbisachannel.wordpress.com/wp-content/uploads/2015/11/logo.jpg"
+          }
+        ],
+        "hatomfeed": [
+          {}
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Misteri Matahari : Energi, Suhu, dan Fenomena Terkait",
+      "htmlTitle": "Misteri \u003cb\u003eMatahari\u003c/b\u003e : Energi, \u003cb\u003eSuhu\u003c/b\u003e, dan Fenomena Terkait",
+      "link": "https://jptam.org/index.php/jptam/article/download/15753/11841/28865",
+      "displayLink": "jptam.org",
+      "snippet": "Di inti Matahari, terjadi reaksi termonuklir yang mengubah hidrogen menjadi helium, melepaskan energi dalam bentuk cahaya dan panas. Dengan suhu inti yang ...",
+      "htmlSnippet": "Di \u003cb\u003einti Matahari\u003c/b\u003e, terjadi reaksi termonuklir yang mengubah hidrogen menjadi helium, melepaskan energi dalam bentuk cahaya dan panas. Dengan \u003cb\u003esuhu inti\u003c/b\u003e yang&nbsp;...",
+      "formattedUrl": "https://jptam.org/index.php/jptam/article/download/15753/11841/28865",
+      "htmlFormattedUrl": "https://jptam.org/index.php/jptam/article/download/15753/11841/28865",
+      "pagemap": {
+        "metatags": [
+          {
+            "moddate": "D:20240620093007+07'00'",
+            "creator": "Microsoft® Word 2016",
+            "creationdate": "D:20240620093007+07'00'",
+            "author": "crystal",
+            "producer": "Microsoft® Word 2016"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "7 Lapisan Matahari, Ada yang Memiliki Suhu Mencapai 15 Juta ...",
+      "htmlTitle": "7 Lapisan \u003cb\u003eMatahari\u003c/b\u003e, Ada yang Memiliki \u003cb\u003eSuhu\u003c/b\u003e Mencapai 15 Juta ...",
+      "link": "https://www.kompas.com/tren/read/2023/06/23/191500165/7-lapisan-matahari-ada-yang-memiliki-suhu-mencapai-15-juta-derajat-celsius?page=all",
+      "displayLink": "www.kompas.com",
+      "snippet": "Jun 23, 2023 ... Solar core atau inti Matahari memiliki suhu lebih dari 15 juta derajat celsius dan 10 kali lebih padat dari timah. Di sini, tekanan kuat dari ...",
+      "htmlSnippet": "Jun 23, 2023 \u003cb\u003e...\u003c/b\u003e Solar core atau \u003cb\u003einti Matahari\u003c/b\u003e memiliki \u003cb\u003esuhu\u003c/b\u003e lebih dari 15 juta derajat celsius dan 10 kali lebih padat dari timah. Di sini, tekanan kuat dari&nbsp;...",
+      "formattedUrl": "https://www.kompas.com/.../7-lapisan-matahari-ada-yang-memiliki-suhu-m...",
+      "htmlFormattedUrl": "https://www.kompas.com/.../7-lapisan-\u003cb\u003ematahari\u003c/b\u003e-ada-yang-memiliki-\u003cb\u003esuhu\u003c/b\u003e-m...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhXqSLW8DPeYyIM91Af5gKcqs99yb5oBUzlj8f8PvZE4jXyF5TRsb4qkp8&s",
+            "width": "318",
+            "height": "159"
+          }
+        ],
+        "metatags": [
+          {
+            "content_author": "Muhammad Zaenuddin",
+            "og:image": "https://asset.kompas.com/crops/QnD4d9kX5IF8Js5H1mMyn8GNXPM=/0x0:549x366/780x390/filters:watermark(data/photo/2020/03/10/5e6775d554370.png,0,-0,1)/data/photo/2023/06/23/649514c0b61e0.jpg",
+            "theme-color": "#000",
+            "twitter:card": "summary_large_image",
+            "article:published_time": "2023-06-23T12:15:00+00:00",
+            "og:site_name": "KOMPAS.com",
+            "content_editor": "Muhammad Zaenuddin",
+            "content_category": "Tren",
+            "content_total_pages": "2",
+            "content_tag": "urutan lapisan matahari dari inti hingga lapisan terluar",
+            "content_total_words": "652",
+            "content_current_page": "all",
+            "content_lipsus": "Pengetahuan Umum",
+            "dailymotion-domain-verification": "dmpiwida7prf9ms8x",
+            "content_tags": "urutan lapisan matahari dari inti hingga lapisan terluar, urutan lapisan matahari dari yang paling dalam, lapisan matahari yang tampak paling menyilaukan, lapisan matahari, lapisan-lapisan matahari",
+            "subscription": "False",
+            "og:description": "Matahari memiliki sejumlah lapisan, mulai dari inti matahari di bagian dalam hingga lapisan paling luar, yakni korona atau atmosfer matahari.",
+            "twitter:creator": "@kompascom",
+            "twitter:image": "https://asset.kompas.com/crops/QnD4d9kX5IF8Js5H1mMyn8GNXPM=/0x0:549x366/780x390/filters:watermark(data/photo/2020/03/10/5e6775d554370.png,0,-0,1)/data/photo/2023/06/23/649514c0b61e0.jpg",
+            "twitter:site": "@kompascom",
+            "content_type": "Standard",
+            "content_author_id": "4162",
+            "content_subcategory": "Tren",
+            "content_editor_id": "4162",
+            "content_lipsus_id": "8130",
+            "og:type": "article",
+            "twitter:title": "7 Lapisan Matahari, Ada yang Memiliki Suhu Mencapai 15 Juta Derajat Celsius",
+            "author": "PT. Kompas Cyber Media",
+            "og:title": "7 Lapisan Matahari, Ada yang Memiliki Suhu Mencapai 15 Juta Derajat Celsius",
+            "googlebot-news": "index, follow",
+            "msapplication-navbutton-color": "#000",
+            "fb:app_id": "324557847592228",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "content_publisheddate": "2023-06-23 19:15:00",
+            "viewport": "width=device-width, target-densityDpi=medium-dpi, initial-scale=1.0, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0",
+            "content_location": "Berita",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Matahari memiliki sejumlah lapisan, mulai dari inti matahari di bagian dalam hingga lapisan paling luar, yakni korona atau atmosfer matahari.",
+            "og:url": "https://www.kompas.com/tren/read/2023/06/23/191500165/7-lapisan-matahari-ada-yang-memiliki-suhu-mencapai-15-juta-derajat-celsius"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://asset.kompas.com/crops/QnD4d9kX5IF8Js5H1mMyn8GNXPM=/0x0:549x366/780x390/filters:watermark(data/photo/2020/03/10/5e6775d554370.png,0,-0,1)/data/photo/2023/06/23/649514c0b61e0.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,515 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - Apa itu langchain?",
+        "totalResults": "8950",
+        "searchTerms": "Apa itu langchain?",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - Apa itu langchain?",
+        "totalResults": "8950",
+        "searchTerms": "Apa itu langchain?",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ]
+  },
+  "context": {
+    "title": "LangSearch"
+  },
+  "searchInformation": {
+    "searchTime": 0.456596,
+    "formattedSearchTime": "0.46",
+    "totalResults": "8950",
+    "formattedTotalResults": "8,950"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Apa itu LangChain? - Penjelasan LangChain - AWS",
+      "htmlTitle": "\u003cb\u003eApa itu LangChain\u003c/b\u003e? - Penjelasan \u003cb\u003eLangChain\u003c/b\u003e - AWS",
+      "link": "https://aws.amazon.com/id/what-is/langchain/",
+      "displayLink": "aws.amazon.com",
+      "snippet": "LangChain adalah kerangka kerja sumber terbuka untuk membangun aplikasi berdasarkan model bahasa besar (LLM). LLM adalah model deep learning besar yang ...",
+      "htmlSnippet": "\u003cb\u003eLangChain\u003c/b\u003e adalah kerangka kerja sumber terbuka untuk membangun aplikasi berdasarkan model bahasa besar (LLM). LLM adalah model deep learning besar yang&nbsp;...",
+      "formattedUrl": "https://aws.amazon.com/id/what-is/langchain/",
+      "htmlFormattedUrl": "https://aws.amazon.com/id/what-is/\u003cb\u003elangchain\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaVZGvcAgv9Oirf7tgdpQwwrWTTzf-qNV3LJMW9j-aAKWvjJ-yywWs0bYE&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png",
+            "twitter:title": "Apa itu LangChain? - Penjelasan LangChain - AWS",
+            "twitter:card": "summary",
+            "og:type": "company",
+            "og:site_name": "Amazon Web Services, Inc.",
+            "msvalidate.01": "6F92E52A288E266E30C2797ECB5FCCF3",
+            "og:title": "Apa itu LangChain? - Penjelasan LangChain - AWS",
+            "shenma-site-verification": "79b94bb338f010af876605819a332e19_1617844070",
+            "fb:pages": "153063591397681",
+            "twitter:image": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png",
+            "facebook-domain-verification": "ucogvbvio3zpukhjxw4pcprci7qylr",
+            "360-site-verification": "cbe5c6f0249e273e71fffd6d6580ce09",
+            "baidu-site-verification": "pjxJUyWxae",
+            "twitter:site": "@awscloud",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "sogou_site_verification": "Ow8cCy3Hgq",
+            "twitter:description": "Apa itu LangChain, bagaimana dan mengapa bisnis menggunakan LangChain, serta cara menggunakan LangChain dengan AWS.",
+            "og:url": "https://aws.amazon.com/id/what-is/langchain/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Apa itu LangChain? | IBM",
+      "htmlTitle": "\u003cb\u003eApa itu LangChain\u003c/b\u003e? | IBM",
+      "link": "https://www.ibm.com/id-id/think/topics/langchain",
+      "displayLink": "www.ibm.com",
+      "snippet": "LangChain adalah kerangka kerja orkestrasi sumber terbuka untuk pengembangan aplikasi yang menggunakan model bahasa besar (LLM), seperti chatbot dan agen ...",
+      "htmlSnippet": "\u003cb\u003eLangChain\u003c/b\u003e adalah kerangka kerja orkestrasi sumber terbuka untuk pengembangan aplikasi yang menggunakan model bahasa besar (LLM), seperti chatbot dan agen&nbsp;...",
+      "formattedUrl": "https://www.ibm.com/id-id/think/topics/langchain",
+      "htmlFormattedUrl": "https://www.ibm.com/id-id/think/topics/\u003cb\u003elangchain\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC8dXaa_-tOk6-bP1HrAhVfBRR0T1o2uEUqE8hqwKlaZBeiBNCS74wbqY&s",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "template": "article",
+            "og:image": "https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/stock-assets/getty/image/photography/07/39/a7s00269.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg",
+            "ibm.com.search.appid": "thinkhub",
+            "ibm.search.facet.field_hierarchy_01": "Taksonomi : Topik / AI dan ML / Kecerdasan Buatan / Model AI / Model bahasa besar",
+            "og:type": "website",
+            "ibm.search.facet.field_keyword_09": "https://prod-cloud-publish.aem.ibm.net/content/dam/connectedassets-adobe-cms/worldwide-content/stock-assets/getty/image/photography/07/39/a7s00269.component.crop-thumbnail-16-by-9-retina.ts=0.jpg/content/adobe-cms/id/id/think/topics/langchain/jcr:content/root/leadspace_container/leadspace_article",
+            "ibm.search.facet.field_hierarchy_03": "Taksonomi : Format Konten / Artikel",
+            "countrycode": "id",
+            "ibm.search.facet.field_hierarchy_04": "Taksonomi : Jenis Konten / Penjelasan",
+            "og:title": "Apa itu LangChain? | IBM",
+            "ibm.search.facet.field_text_01": "31 Oktober 2023",
+            "dcterms.date": "2023-10-31T00:00:00.000",
+            "og:description": "LangChain adalah kerangka kerja orkestrasi sumber terbuka untuk pengembangan aplikasi yang menggunakan model bahasa besar (LLM), seperti chatbot dan agen virtual. ",
+            "searchtitle": "Apa itu LangChain?",
+            "ibm.search.facet.field_text_03": "Penjelasan",
+            "languagecode": "id",
+            "ibm.com.search.scopes": "thinkhub",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "id-ID",
+            "ibm.search.facet.field_keyword_01": "Model bahasa besar",
+            "og:url": "https://www.ibm.com/id-id/think/topics/langchain",
+            "focusarea": "Data Platform SDRs"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/stock-assets/getty/image/photography/07/39/a7s00269.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Apa Itu LangChain? Cara Kerja & Fiturnya",
+      "htmlTitle": "\u003cb\u003eApa Itu LangChain\u003c/b\u003e? Cara Kerja &amp; Fiturnya",
+      "link": "https://aihub.id/pengetahuan-dasar/apa-itu-langchain",
+      "displayLink": "aihub.id",
+      "snippet": "Feb 4, 2025 ... LangChain adalah framework open source yang memungkinkan pengembang untuk membangun dan mengintegrasikan large language models (LLM) dengan ...",
+      "htmlSnippet": "Feb 4, 2025 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eLangChain\u003c/b\u003e adalah framework open source yang memungkinkan pengembang untuk membangun dan mengintegrasikan large language models (LLM) dengan&nbsp;...",
+      "formattedUrl": "https://aihub.id/pengetahuan-dasar/apa-itu-langchain",
+      "htmlFormattedUrl": "https://aihub.id/pengetahuan-dasar/\u003cb\u003eapa\u003c/b\u003e-\u003cb\u003eitu\u003c/b\u003e-\u003cb\u003elangchain\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ-8bHzgDPBsRWoEB80d2gpGFj1ItgZj2jjpLFVEwoqAg8gXEAno1nPGMO&s",
+            "width": "273",
+            "height": "184"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://b.acaraseru.com/images/aafb6032-d519-47cd-b7dc-ba226916d8e5/l-ilustrasi-langchain-framework.jpg",
+            "twitter:card": "summary",
+            "twitter:title": "Apa Itu LangChain? Cara Kerja & Fiturnya",
+            "og:type": "website",
+            "theme-color": "#ffffff",
+            "og:site_name": "Indonesia Artificial Intelligence Hub",
+            "og:title": "Apa Itu LangChain? Cara Kerja & Fiturnya",
+            "google-adsense-account": "ca-pub-7427015901385128",
+            "msapplication-tileimage": "/ms-icon-144x144.png",
+            "og:description": "LangChain adalah alat powerful untuk integrasi Large Language Models (LLM) dalam aplikasi AI, mempermudah akses data eksternal dan alur kerja",
+            "twitter:image": "https://b.acaraseru.com/images/aafb6032-d519-47cd-b7dc-ba226916d8e5/l-ilustrasi-langchain-framework.jpg",
+            "twitter:image:alt": "Apa Itu LangChain? Cara Kerja & Fiturnya",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "twitter:description": "LangChain adalah alat powerful untuk integrasi Large Language Models (LLM) dalam aplikasi AI, mempermudah akses data eksternal dan alur kerja",
+            "og:url": "http://aihub.id/pengetahuan-dasar/apa-itu-langchain"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://b.acaraseru.com/images/aafb6032-d519-47cd-b7dc-ba226916d8e5/l-ilustrasi-langchain-framework.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Membangun aplikasi yang didukung LLM menggunakan LangChain ...",
+      "htmlTitle": "Membangun aplikasi yang didukung LLM menggunakan \u003cb\u003eLangChain\u003c/b\u003e ...",
+      "link": "https://cloud.google.com/bigtable/docs/langchain?hl=id",
+      "displayLink": "cloud.google.com",
+      "snippet": "LangChain adalah framework orkestrasi LLM yang membantu developer membangun aplikasi AI generatif atau alur kerja retrieval-augmented generation (RAG). Platform ...",
+      "htmlSnippet": "\u003cb\u003eLangChain\u003c/b\u003e adalah framework orkestrasi LLM yang membantu developer membangun aplikasi AI generatif atau alur kerja retrieval-augmented generation (RAG). Platform&nbsp;...",
+      "formattedUrl": "https://cloud.google.com/bigtable/docs/langchain?hl=id",
+      "htmlFormattedUrl": "https://cloud.google.com/bigtable/docs/\u003cb\u003elangchain\u003c/b\u003e?hl=id",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMRiHKpPA2zLBNZT1THo5ik96_tYukNDVK-q7UbCvRPaadGEw2DpXf1wE&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "document": [
+          {
+            "keywords": "E__product__Bigtable E__product__GoogleCloud E__category__GoogleCloudDocsDatabases E__category__Databases E__product__CloudDatabases E__category__CloudDatabasesAndAnalytics E__category__Cloud E__category__Interest E__category__GoogleCloudUseCases E__category__UseCases K__product__Bigtable K__product__GoogleCloud",
+            "keyword": "E__product__Bigtable"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=id",
+            "og:type": "website",
+            "theme-color": "#039be5",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "google-signin-client-id": "721724668570-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com",
+            "og:site_name": "Google Cloud",
+            "og:title": "Membangun aplikasi yang didukung LLM menggunakan LangChain  |  Bigtable Documentation  |  Google Cloud",
+            "og:image:height": "630",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "id",
+            "google-signin-scope": "profile email https://www.googleapis.com/auth/developerprofiles https://www.googleapis.com/auth/developerprofiles.award https://www.googleapis.com/auth/cloud-platform https://www.googleapis.com/auth/webhistory",
+            "og:url": "https://cloud.google.com/bigtable/docs/langchain?hl=id"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png?hl=id"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Introduction | 🦜️ LangChain",
+      "htmlTitle": "Introduction | 🦜️   \u003cb\u003eLangChain\u003c/b\u003e",
+      "link": "https://python.langchain.com/docs/introduction/",
+      "displayLink": "python.langchain.com",
+      "snippet": "LangChain is a framework for developing applications powered by large language models (LLMs). LangChain simplifies every stage of the LLM application lifecycle.",
+      "htmlSnippet": "\u003cb\u003eLangChain\u003c/b\u003e is a framework for developing applications powered by large language models (LLMs). \u003cb\u003eLangChain\u003c/b\u003e simplifies every stage of the LLM application lifecycle.",
+      "formattedUrl": "https://python.langchain.com/docs/introduction/",
+      "htmlFormattedUrl": "https://python.\u003cb\u003elangchain\u003c/b\u003e.com/docs/introduction/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbt5chP1jmHByXcIg-Izy5ExLVSbe26Eib6vmBYnT0LDtNQmjgOplSaQLV&s",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://python.langchain.com/img/brand/theme-image.png",
+            "twitter:card": "summary_large_image",
+            "docsearch:version": "current",
+            "og:title": "Introduction | 🦜️🔗 LangChain",
+            "docusaurus_version": "current",
+            "docsearch:language": "en",
+            "og:description": "LangChain is a framework for developing applications powered by large language models (LLMs).",
+            "twitter:image": "https://python.langchain.com/img/brand/theme-image.png",
+            "docusaurus_tag": "docs-default-current",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "og:locale": "en",
+            "docusaurus_locale": "en",
+            "docsearch:docusaurus_tag": "docs-default-current",
+            "og:url": "https://python.langchain.com/docs/introduction/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://python.langchain.com/img/brand/theme-image.png"
+          }
+        ],
+        "listitem": [
+          {
+            "name": "Introduction",
+            "position": "1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Apa itu LangChain? Contoh dan definisi | Google Cloud",
+      "htmlTitle": "\u003cb\u003eApa itu LangChain\u003c/b\u003e? Contoh dan definisi | Google Cloud",
+      "link": "https://cloud.google.com/use-cases/langchain?hl=id",
+      "displayLink": "cloud.google.com",
+      "snippet": "LangChain adalah framework orkestrasi open source yang menyederhanakan pembuatan aplikasi dengan model bahasa besar (LLM). Vertex AI menyediakan alat dan ...",
+      "htmlSnippet": "\u003cb\u003eLangChain\u003c/b\u003e adalah framework orkestrasi open source yang menyederhanakan pembuatan aplikasi dengan model bahasa besar (LLM). Vertex AI menyediakan alat dan&nbsp;...",
+      "formattedUrl": "https://cloud.google.com/use-cases/langchain?hl=id",
+      "htmlFormattedUrl": "https://cloud.google.com/use-cases/\u003cb\u003elangchain\u003c/b\u003e?hl=id",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVQyWs5Uso3eBwGJxz7yY-ItXN2aDgKeFgK1iz7jf83Vnzzf6TBA60Pv8&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
+            "theme-color": "#039be5",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Apa itu LangChain? Contoh dan definisi",
+            "og:site_name": "Google Cloud",
+            "twitter:url": "/use-cases/langchain",
+            "og:title": "Apa itu LangChain? Contoh dan definisi",
+            "og:description": "LangChain adalah sekumpulan alat untuk Python dan JavaScript yang menyederhanakan aplikasi kompleks yang didukung LLM seperti chatbot. Pelajari lebih lanjut dengan Google Cloud.",
+            "twitter:image": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png",
+            "referrer": "origin",
+            "track-metadata-page_publishing_platform": "bricks",
+            "track-metadata-page_hosting_platform": "cgc_boq",
+            "twitter:site": "@googlecloud",
+            "viewport": "initial-scale=1, width=device-width",
+            "twitter:description": "LangChain adalah sekumpulan alat untuk Python dan JavaScript yang menyederhanakan aplikasi kompleks yang didukung LLM seperti chatbot. Pelajari lebih lanjut dengan Google Cloud.",
+            "track-metadata-page_template": "PAGE_TEMPLATE_TYPE_SEO_TOPIC",
+            "og:url": "/use-cases/langchain"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Introduction | 🦜️ Langchain",
+      "htmlTitle": "Introduction | 🦜️   \u003cb\u003eLangchain\u003c/b\u003e",
+      "link": "https://js.langchain.com/docs/introduction/",
+      "displayLink": "js.langchain.com",
+      "snippet": "LangChain is a framework for developing applications powered by large language models (LLMs). LangChain simplifies every stage of the LLM application lifecycle.",
+      "htmlSnippet": "\u003cb\u003eLangChain\u003c/b\u003e is a framework for developing applications powered by large language models (LLMs). \u003cb\u003eLangChain\u003c/b\u003e simplifies every stage of the LLM application lifecycle.",
+      "formattedUrl": "https://js.langchain.com/docs/introduction/",
+      "htmlFormattedUrl": "https://js.\u003cb\u003elangchain\u003c/b\u003e.com/docs/introduction/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlD-y8k0vjrTP7F39US4Vw-kdmXDEIKc24_mht8_LWZEjukIlSPxVCQ4E&s",
+            "width": "311",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://js.langchain.com/img/brand/theme-image.png",
+            "twitter:card": "summary_large_image",
+            "docsearch:version": "current",
+            "og:title": "Introduction | 🦜️🔗 Langchain",
+            "docusaurus_version": "current",
+            "docsearch:language": "en",
+            "og:description": "LangChain is a framework for developing applications powered by large language models (LLMs).",
+            "twitter:image": "https://js.langchain.com/img/brand/theme-image.png",
+            "docusaurus_tag": "docs-default-current",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "docusaurus_locale": "en",
+            "docsearch:docusaurus_tag": "docs-default-current",
+            "og:url": "https://js.langchain.com/docs/introduction/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://js.langchain.com/img/brand/theme-image.png"
+          }
+        ],
+        "listitem": [
+          {
+            "name": "Introduction",
+            "position": "1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Simple Large Language Models using LangChain and HuggingFace",
+      "htmlTitle": "Simple Large Language Models using \u003cb\u003eLangChain\u003c/b\u003e and HuggingFace",
+      "link": "https://binus.ac.id/bekasi/2023/10/simple-large-language-models-using-langchain-and-huggingface/",
+      "displayLink": "binus.ac.id",
+      "snippet": "LangChain merupakan sebuah kerangka kerja yang dirancang khusus untuk memanfaatkan potensi dari Large Language Models (LLMs) dengan cara yang lebih ...",
+      "htmlSnippet": "\u003cb\u003eLangChain\u003c/b\u003e merupakan sebuah kerangka kerja yang dirancang khusus untuk memanfaatkan potensi dari Large Language Models (LLMs) dengan cara yang lebih ...",
+      "formattedUrl": "https://binus.ac.id/.../simple-large-language-models-using-langchain-and-hu...",
+      "htmlFormattedUrl": "https://binus.ac.id/.../simple-large-language-models-using-\u003cb\u003elangchain\u003c/b\u003e-and-hu...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBXQneF9iAYmh2P_lLD6N5ikIr6wgO9x3CFozgZvlkMz1SBHKr9CRx63Pe&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://binus.ac.id/bekasi/wp-content/uploads/2023/10/Picture1-4.jpg",
+            "og:type": "article",
+            "article:published_time": "2023-10-25T03:04:55+00:00",
+            "og:image:width": "624",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "BINUS @Bekasi - Kampus Beken Asyik | Business Service and Technology",
+            "og:title": "Simple Large Language Models using LangChain and HuggingFace",
+            "og:image:height": "351",
+            "bingbot": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+            "og:description": "LangChain merupakan sebuah kerangka kerja yang dirancang khusus untuk memanfaatkan potensi dari Large Language Models (LLMs) dengan cara yang lebih ...",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:url": "https://binus.ac.id/bekasi/2023/10/simple-large-language-models-using-langchain-and-huggingface/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://binus.ac.id/bekasi/wp-content/uploads/2023/10/Picture1-4.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Deploy Python Function untuk Analisis Sentimen Menggunakan ...",
+      "htmlTitle": "Deploy Python Function untuk Analisis Sentimen Menggunakan ...",
+      "link": "https://medium.com/google-cloud-indonesia/deploy-python-function-untuk-analisis-sentimen-menggunakan-langchain-di-google-cloud-function-31dc3b31c879",
+      "displayLink": "medium.com",
+      "snippet": "May 6, 2023 ... LangChain adalah sebuah library yang dapat menghubungkan antara komponen-komponen yang dibutuhkan untuk menggunakan sebuah LLM (Large Language ...",
+      "htmlSnippet": "May 6, 2023 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eLangChain\u003c/b\u003e adalah sebuah library yang dapat menghubungkan antara komponen-komponen yang dibutuhkan untuk menggunakan sebuah LLM (Large Language&nbsp;...",
+      "formattedUrl": "https://medium.com/.../deploy-python-function-untuk-analisis-sentimen-me...",
+      "htmlFormattedUrl": "https://medium.com/.../deploy-python-function-untuk-analisis-sentimen-me...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcjuymbGvepPsWs3eu3swPspPB-uE01i0-of6DPLP4cHzCf8vDDnEetA&s",
+            "width": "404",
+            "height": "125"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=828256236, app-argument=/google-cloud-indonesia/deploy-python-function-untuk-analisis-sentimen-menggunakan-langchain-di-google-cloud-function-31dc3b31c879, affiliate-data=pt=698524&ct=smart_app_banner&mt=8",
+            "og:image": "https://miro.medium.com/v2/resize:fit:939/1*XG_jQ3Hrzj3vQuek7fKSrw.png",
+            "twitter:app:url:iphone": "medium://p/31dc3b31c879",
+            "theme-color": "#000000",
+            "article:published_time": "2023-06-05T03:44:34.997Z",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Medium",
+            "al:android:package": "com.medium.reader",
+            "twitter:label1": "Reading time",
+            "twitter:app:id:iphone": "828256236",
+            "title": "Deploy Python Function untuk Analisis Sentimen \nMenggunakan LangChain di Google Cloud Function | by Esther Irawati Setiawan | Google Cloud Indonesia | Medium",
+            "al:ios:url": "medium://p/31dc3b31c879",
+            "og:description": "Saat ini, pengembangan machine learning sedang populer untuk berbagai bidang yang diharapkan dapat mempermudah setiap pekerjaan manusia…",
+            "al:ios:app_store_id": "828256236",
+            "twitter:data1": "4 min read",
+            "twitter:site": "@googlecloudtech",
+            "og:type": "article",
+            "twitter:title": "Deploy Python Function untuk Analisis Sentimen \nMenggunakan LangChain di Google Cloud Function",
+            "al:ios:app_name": "Medium",
+            "author": "Esther Irawati Setiawan",
+            "og:title": "Deploy Python Function untuk Analisis Sentimen \nMenggunakan LangChain di Google Cloud Function",
+            "al:web:url": "https://medium.com/google-cloud-indonesia/deploy-python-function-untuk-analisis-sentimen-menggunakan-langchain-di-google-cloud-function-31dc3b31c879",
+            "article:author": "https://medium.com/@esther.irawati",
+            "twitter:image:src": "https://miro.medium.com/v2/resize:fit:939/1*XG_jQ3Hrzj3vQuek7fKSrw.png",
+            "al:android:url": "medium://p/31dc3b31c879",
+            "referrer": "unsafe-url",
+            "fb:app_id": "542599432471018",
+            "viewport": "width=device-width,minimum-scale=1,initial-scale=1,maximum-scale=1",
+            "twitter:description": "Saat ini, pengembangan machine learning sedang populer untuk berbagai bidang yang diharapkan dapat mempermudah setiap pekerjaan manusia…",
+            "og:url": "https://medium.com/google-cloud-indonesia/deploy-python-function-untuk-analisis-sentimen-menggunakan-langchain-di-google-cloud-function-31dc3b31c879",
+            "twitter:app:name:iphone": "Medium",
+            "al:android:app_name": "Medium"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://miro.medium.com/v2/resize:fit:939/1*XG_jQ3Hrzj3vQuek7fKSrw.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "LangChain Adalah: Arti, Fitur, Keunggulan, dan Contoh - dibimbing.id",
+      "htmlTitle": "LangChain Adalah: Arti, Fitur, Keunggulan, dan Contoh - dibimbing.id",
+      "link": "https://dibimbing.id/en/blog/detail/langchain-adalah",
+      "displayLink": "dibimbing.id",
+      "snippet": "Mar 18, 2025 ... LangChain adalah framework open-source yang dirancang untuk membantu pengembang membangun aplikasi AI yang lebih canggih menggunakan model ...",
+      "htmlSnippet": "Mar 18, 2025 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eLangChain\u003c/b\u003e adalah framework open-source yang dirancang untuk membantu pengembang membangun aplikasi AI yang lebih canggih menggunakan model&nbsp;...",
+      "formattedUrl": "https://dibimbing.id/en/blog/detail/langchain-adalah",
+      "htmlFormattedUrl": "https://dibimbing.id/en/blog/detail/\u003cb\u003elangchain\u003c/b\u003e-adalah",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmZldFfATpsh4_GH47vLjmn4IeugEeF-w67S0jIiBXHVzk0Rqqp1yj1tY&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width",
+            "author": "Dibimbing"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://dibimbing-cdn.sgp1.cdn.digitaloceanspaces.com/1742300049653-AI-Machine-Learning-Engineering.webp"
+          }
+        ]
+      }
+    }
+  ]
+}

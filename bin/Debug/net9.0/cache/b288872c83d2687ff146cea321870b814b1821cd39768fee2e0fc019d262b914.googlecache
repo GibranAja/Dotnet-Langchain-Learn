@@ -1,0 +1,417 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - suhu matahari di dalamnya",
+        "totalResults": "1070000",
+        "searchTerms": "suhu matahari di dalamnya",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - suhu matahari di dalamnya",
+        "totalResults": "1070000",
+        "searchTerms": "suhu matahari di dalamnya",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ]
+  },
+  "context": {
+    "title": "LangSearch"
+  },
+  "searchInformation": {
+    "searchTime": 0.411175,
+    "formattedSearchTime": "0.41",
+    "totalResults": "1070000",
+    "formattedTotalResults": "1,070,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Apa Itu Pemanasan Global",
+      "htmlTitle": "Apa Itu Pemanasan Global",
+      "link": "https://www.spmabanjarbaru.sch.id/m/read-artikel/23-apa-itu-pemanasan-global",
+      "displayLink": "www.spmabanjarbaru.sch.id",
+      "snippet": "... dalamnya agar suhu di dalam rumah kaca tetap hangat, dengan begitu tanaman di dalamnya pun akan dapat tumbuh dengan baik karena memiliki panas matahari yang ...",
+      "htmlSnippet": "... \u003cb\u003edalamnya\u003c/b\u003e agar \u003cb\u003esuhu\u003c/b\u003e di dalam rumah kaca tetap hangat, dengan begitu tanaman di \u003cb\u003edalamnya\u003c/b\u003e pun akan dapat tumbuh dengan baik karena memiliki panas \u003cb\u003ematahari\u003c/b\u003e yang&nbsp;...",
+      "formattedUrl": "https://www.spmabanjarbaru.sch.id/m/read.../23-apa-itu-pemanasan-global",
+      "htmlFormattedUrl": "https://www.spmabanjarbaru.sch.id/m/read.../23-apa-itu-pemanasan-global",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1,maximum-scale=1, user-scalable=no",
+            "author": "arisdd31&teddyplg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Apa Itu Perubahan Iklim? Penyebab Dampak Perubahan Iklim ...",
+      "htmlTitle": "Apa Itu Perubahan Iklim? Penyebab Dampak Perubahan Iklim ...",
+      "link": "https://dlhk.mamujukab.go.id/berita-5193-apa-itu-perubahan-iklim-penyebab-dampak-perubahan-iklim.html",
+      "displayLink": "dlhk.mamujukab.go.id",
+      "snippet": "Jul 3, 2023 ... ... matahari didalam bumi, dan menaikkan suhu bumi. Secara alamiah, suhu bumi sangat bergantung pada keseimbangan antara energi yang masuk dan ...",
+      "htmlSnippet": "Jul 3, 2023 \u003cb\u003e...\u003c/b\u003e ... \u003cb\u003ematahari\u003c/b\u003e didalam bumi, dan menaikkan \u003cb\u003esuhu\u003c/b\u003e bumi. Secara alamiah, \u003cb\u003esuhu\u003c/b\u003e bumi sangat bergantung pada keseimbangan antara energi yang masuk dan&nbsp;...",
+      "formattedUrl": "https://dlhk.mamujukab.go.id/berita-5193-apa-itu-perubahan-iklim-penyeb...",
+      "htmlFormattedUrl": "https://dlhk.mamujukab.go.id/berita-5193-apa-itu-perubahan-iklim-penyeb...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKlivUspyYv-j4-tS80n8c-Jwc7gTBeQvPG4bdKXKSozyIg5MeuGkIX8M&s",
+            "width": "299",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://dlhk.mamujukab.go.id/foto_berita/95m.jpg",
+            "copyright": "Zahrani Yazid",
+            "twitter:card": "summary",
+            "twitter:title": "Apa Itu Perubahan Iklim? Penyebab Dampak Perubahan Iklim. - DLHK MAMUJU",
+            "twitter:domain": "https://dlhk.mamujukab.go.id",
+            "twitter:url": "https://dlhk.mamujukab.go.id/berita-5193-apa-itu-perubahan-iklim-penyebab-dampak-perubahan-iklim.html",
+            "og:title": "Apa Itu Perubahan Iklim? Penyebab Dampak Perubahan Iklim. - DLHK MAMUJU",
+            "og:description": "DLHK - Dinas Lingkungan Hidup dan Kebersihan Kabupaten Mamuju",
+            "twitter:creator": "https://twitter.com/@dlhk_mamujukab",
+            "twitter:image": "https://dlhk.mamujukab.go.id/foto_berita/95m.jpg",
+            "twitter:site": "https://twitter.com/@dlhk_mamujukab",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "DLHK - Dinas Lingkungan Hidup dan Kebersihan Kabupaten Mamuju"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://dlhk.mamujukab.go.id/foto_berita/95m.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Misteri Matahari : Energi, Suhu, dan Fenomena Terkait | Jurnal ...",
+      "htmlTitle": "Misteri \u003cb\u003eMatahari\u003c/b\u003e : Energi, \u003cb\u003eSuhu\u003c/b\u003e, dan Fenomena Terkait | Jurnal ...",
+      "link": "https://jptam.org/index.php/jptam/article/view/15753",
+      "displayLink": "jptam.org",
+      "snippet": "Jun 20, 2024 ... ... suhu di fotosfer serta mengidentifikasi penyebab fenomena matahari ... dalamnya mendukung kehidupan di Bumi. Energi matahari dihasilkan ...",
+      "htmlSnippet": "Jun 20, 2024 \u003cb\u003e...\u003c/b\u003e ... \u003cb\u003esuhu\u003c/b\u003e di fotosfer serta mengidentifikasi penyebab fenomena \u003cb\u003ematahari\u003c/b\u003e ... \u003cb\u003edalamnya\u003c/b\u003e mendukung kehidupan di Bumi. Energi \u003cb\u003ematahari\u003c/b\u003e dihasilkan&nbsp;...",
+      "formattedUrl": "https://jptam.org/index.php/jptam/article/view/15753",
+      "htmlFormattedUrl": "https://jptam.org/index.php/jptam/article/view/15753",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_-1THjn3gMXGi_Q4TyLiJmY7AcwF1JYRprQAiwygXuXw2IYXA0Ybjy4A&s",
+            "width": "188",
+            "height": "268"
+          }
+        ],
+        "metatags": [
+          {
+            "citation_keywords": "Matahari",
+            "citation_author_institution": "Universitas Jember",
+            "citation_title": "Misteri Matahari : Energi, Suhu, dan Fenomena Terkait",
+            "citation_journal_abbrev": "jptam",
+            "citation_journal_title": "Jurnal Pendidikan Tambusai",
+            "citation_author": "Lidya Septi Triandini",
+            "citation_date": "2024/06/20",
+            "citation_abstract_html_url": "https://jptam.org/index.php/jptam/article/view/15753",
+            "citation_issue": "2",
+            "citation_firstpage": "24243",
+            "citation_issn": "2614-3097",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "citation_language": "en",
+            "citation_pdf_url": "https://jptam.org/index.php/jptam/article/download/15753/11841",
+            "citation_volume": "8",
+            "citation_lastpage": "24249",
+            "gs_meta_revision": "1.1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://jptam.org/public/journals/1/cover_issue_29_en_US.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "PEMANASAN GLOBAL (GLOBAL WARMING) | Dinas Lingkungan ...",
+      "htmlTitle": "PEMANASAN GLOBAL (GLOBAL WARMING) | Dinas Lingkungan ...",
+      "link": "https://dlh.bulelengkab.go.id/informasi/detail/artikel/pemanasan-global-global-warming-76",
+      "displayLink": "dlh.bulelengkab.go.id",
+      "snippet": "Dua ilmuan dari Duke University mengestimasikan bahwa Matahari mungkin telah berkontribusi terhadap 45-50% peningkatan temperatur rata-rata global selama ...",
+      "htmlSnippet": "Dua ilmuan dari Duke University mengestimasikan bahwa \u003cb\u003eMatahari\u003c/b\u003e mungkin telah berkontribusi terhadap 45-50% peningkatan temperatur rata-rata global selama&nbsp;...",
+      "formattedUrl": "https://dlh.bulelengkab.go.id/.../pemanasan-global-global-warming-76",
+      "htmlFormattedUrl": "https://dlh.bulelengkab.go.id/.../pemanasan-global-global-warming-76",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlYAMoBB2F338SLcR7sFl59b73tqcwGC9TP605Z7Go3d6ug66rcsSquTGW&s",
+            "width": "267",
+            "height": "189"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://dlh.bulelengkab.go.id/uploads/konten/pemanasan-global-global-warming-76.jpg",
+            "og:type": "website",
+            "og:image:width": "400",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "og:image:height": "240",
+            "og:url": "https://dlh.bulelengkab.go.id/informasi/detail/artikel/pemanasan-global-global-warming-76",
+            "og:description": " GIAT DLH\r\nPemanasan global atau Global Warming adalah adanya proses peningkatan suhu rata-rata atmosfer, laut,…"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://dlh.bulelengkab.go.id/uploads/konten/pemanasan-global-global-warming-76.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Berikut informasi suhu maksimum harian di Indonesia pada 25 - 26 ...",
+      "htmlTitle": "Berikut informasi \u003cb\u003esuhu\u003c/b\u003e maksimum harian di Indonesia pada 25 - 26 ...",
+      "link": "https://www.instagram.com/p/DBkpsADh_zB/",
+      "displayLink": "www.instagram.com",
+      "snippet": "Oct 25, 2024 ... ... dalamnya? Informasi terkait cuaca, iklim, kualitas udara, gempa bumi ... 6,407 likes · infobmkg. Aphelion merupakan fenomena astronomi tahunan ...",
+      "htmlSnippet": "Oct 25, 2024 \u003cb\u003e...\u003c/b\u003e ... \u003cb\u003edalamnya\u003c/b\u003e? Informasi terkait \u003cb\u003ecuaca\u003c/b\u003e, iklim, kualitas udara, gempa bumi ... 6,407 likes &middot; infobmkg. Aphelion merupakan fenomena astronomi tahunan&nbsp;...",
+      "formattedUrl": "https://www.instagram.com/p/DBkpsADh_zB/",
+      "htmlFormattedUrl": "https://www.instagram.com/p/DBkpsADh_zB/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0nSJD6bDRuDeVQGgbL2sLBkdZMpdLV_NhfnIjEVBwyWZT3cxvZfPwx4g&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3487095344872104114",
+            "theme-color": "#FFFFFF",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Instagram",
+            "application-title": "Instagram",
+            "al:android:package": "com.instagram.android",
+            "bingbot": "noarchive",
+            "medium": "image",
+            "al:ios:url": "instagram://media?id=3487095355114781889",
+            "og:description": "580 likes, 35 comments - infobmkg on October 25, 2024: \"Berikut informasi suhu maksimum harian di Indonesia pada 25 - 26 Oktober 2024 pukul 07.00 WIB.\n\nYuk dicek, adakah wilayahmu termasuk di dalamnya?\n\nInformasi terkait cuaca, iklim, kualitas udara, gempa bumi & tsunami selengkapnya dapat diakses di www.bmkg.go.id atau di aplikasi info BMKG.\n\n#SuhuMaksimumHarian\n#Infobmkg #BMKG\n#markicugrafis\n#26oktober2024pws\".",
+            "twitter:image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3487095344872104114",
+            "al:ios:app_store_id": "389801252",
+            "twitter:site": "@instagram",
+            "instapp:owner_user_id": "173837791",
+            "og:type": "article",
+            "twitter:title": "BMKG (@infobmkg) • Instagram photos and videos",
+            "al:ios:app_name": "Instagram",
+            "og:title": "BMKG on Instagram: \"Berikut informasi suhu maksimum harian di Indonesia pada 25 - 26 Oktober 2024 pukul 07.00 WIB.\n\nYuk dicek, adakah wilayahmu termasuk di dalamnya?\n\nInformasi terkait cuaca, iklim, kualitas udara, gempa bumi & tsunami selengkapnya dapat diakses di www.bmkg.go.id atau di aplikasi info BMKG.\n\n#SuhuMaksimumHarian\n#Infobmkg #BMKG\n#markicugrafis\n#26oktober2024pws\"",
+            "twitter:maxage": "86400",
+            "color-scheme": "light",
+            "al:android:url": "https://www.instagram.com/p/DBkpsADh_zB/",
+            "fb:app_id": "124024574287414",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.instagram.com/p/DBkpsADh_zB/",
+            "al:android:app_name": "Instagram"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=3487095344872104114"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Peralatan Meteorologi – BMKG Kotawaringin Timur",
+      "htmlTitle": "Peralatan Meteorologi – BMKG Kotawaringin Timur",
+      "link": "https://stamet-kotim.bmkg.go.id/peralatan-meteorologi/",
+      "displayLink": "stamet-kotim.bmkg.go.id",
+      "snippet": "Termometer bola kering: digunakan untuk mengukur suhu udara permukaan. Terdiri dari tabung gelas yang di dalamnya terdapat pipa kapiler yang berisikan air raksa ...",
+      "htmlSnippet": "Termometer bola kering: digunakan untuk mengukur \u003cb\u003esuhu\u003c/b\u003e udara permukaan. Terdiri dari tabung gelas yang di \u003cb\u003edalamnya\u003c/b\u003e terdapat pipa kapiler yang berisikan air raksa&nbsp;...",
+      "formattedUrl": "https://stamet-kotim.bmkg.go.id/peralatan-meteorologi/",
+      "htmlFormattedUrl": "https://stamet-kotim.bmkg.go.id/peralatan-meteorologi/",
+      "pagemap": {
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1",
+            "msapplication-tileimage": "https://stamet-kotim.bmkg.go.id/wp-content/uploads/2022/11/cropped-Logo-BMKG-new-242x300-1-270x270.png"
+          }
+        ],
+        "webpage": [
+          {
+            "text": "Taman alat BMKG Pengamatan meteorologi di Stasiun Meterologi H. Asan Kotawaringin Timur dilakukan setiap 1 jam sekali selama 24 jam berdasarkan waktu standar internasional. Pengamatan cuaca..."
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pengaruh Cahaya dan Suhu Berdasarkan Karakter Fotosintesis ...",
+      "htmlTitle": "Pengaruh Cahaya dan \u003cb\u003eSuhu\u003c/b\u003e Berdasarkan Karakter Fotosintesis ...",
+      "link": "https://jkk.unjani.ac.id/index.php/jkk/article/download/53/29",
+      "displayLink": "jkk.unjani.ac.id",
+      "snippet": "May 31, 2020 ... pengaruh suhu dan intensitas cahaya matahari dalam proses fotosintesis. ... lingkungan termasuk di dalamnya pencemaran sungai [1]. Berbagai ...",
+      "htmlSnippet": "May 31, 2020 \u003cb\u003e...\u003c/b\u003e pengaruh \u003cb\u003esuhu\u003c/b\u003e dan intensitas cahaya \u003cb\u003ematahari\u003c/b\u003e dalam proses fotosintesis. ... lingkungan termasuk di \u003cb\u003edalamnya\u003c/b\u003e pencemaran sungai [1]. Berbagai&nbsp;...",
+      "formattedUrl": "https://jkk.unjani.ac.id/index.php/jkk/article/download/53/29",
+      "htmlFormattedUrl": "https://jkk.unjani.ac.id/index.php/jkk/article/download/53/29",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1sIAKoyuTQDcSd1a1MNH2hgPT2x7YO3TIfFLxUBTrGv3LbI-UQEfVjkw6&s",
+            "width": "266",
+            "height": "190"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20200601162010+07'00'",
+            "creator": "Microsoft® Word 2013",
+            "creationdate": "D:20200601162010+07'00'",
+            "author": "Issana P. Wardhani",
+            "producer": "Microsoft® Word 2013"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///3ee959afc7d9b2bd94f1568ddddce5ae11f1635452b5ab7aa5e2e5af6b261db7"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Global Warming : Sebuah Ancaman bagi Kehidupan Makhluk Hidup ...",
+      "htmlTitle": "Global Warming : Sebuah Ancaman bagi Kehidupan Makhluk Hidup ...",
+      "link": "https://iesr.or.id/en/global-warming-sebuah-ancaman-bagi-kehidupan-makhluk-hidup-di-bumi/",
+      "displayLink": "iesr.or.id",
+      "snippet": "Mar 21, 2012 ... ... matahari di dalamnya sehingga mengakibatkan naiknya suhu di permukaan bumi tersebut. Kenaikan suhu yang ekstrem tersebut dapat berakibat ...",
+      "htmlSnippet": "Mar 21, 2012 \u003cb\u003e...\u003c/b\u003e ... \u003cb\u003ematahari di dalamnya\u003c/b\u003e sehingga mengakibatkan naiknya \u003cb\u003esuhu\u003c/b\u003e di permukaan bumi tersebut. Kenaikan \u003cb\u003esuhu\u003c/b\u003e yang ekstrem tersebut dapat berakibat&nbsp;...",
+      "formattedUrl": "https://iesr.or.id/.../global-warming-sebuah-ancaman-bagi-kehidupan-makh...",
+      "htmlFormattedUrl": "https://iesr.or.id/.../global-warming-sebuah-ancaman-bagi-kehidupan-makh...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "article",
+            "article:published_time": "2012-03-21T00:00:00+00:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "IESR",
+            "author": "IESR",
+            "og:title": "Global Warming : Sebuah Ancaman bagi Kehidupan Makhluk Hidup di Bumi",
+            "twitter:label1": "Ditulis oleh",
+            "twitter:label2": "Estimasi waktu membaca",
+            "msapplication-tileimage": "https://iesr.or.id/wp-content/uploads/2019/04/cropped-IESR_logo-icon-color-hires-270x270.png",
+            "og:description": "Oleh: Kartikaweni Juliansari, Sobat Esensial IESR Batch 3 Pemanasan global (global warming) merupakan sebuah fenomena naiknya suhu permukaan bumi yang diakibatkan oleh emisi gas yang memerangkap panas matahari (gas rumah…",
+            "twitter:creator": "@iesr",
+            "article:publisher": "https://www.facebook.com/IESR.id/",
+            "twitter:data1": "IESR",
+            "twitter:data2": "2 menit",
+            "twitter:site": "@iesr",
+            "article:modified_time": "2019-01-25T07:39:57+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "id_ID",
+            "og:url": "https://iesr.or.id/global-warming-sebuah-ancaman-bagi-kehidupan-makhluk-hidup-di-bumi/",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Memilih Warna Terbaik untuk Tangki Air di Rumah | Grahaexcel",
+      "htmlTitle": "Memilih Warna Terbaik untuk Tangki Air di Rumah | Grahaexcel",
+      "link": "https://www.grahaexcel.com/articles/tips-toren-air/memilih-warna-terbaik-untuk-tangki-air-di-rumah",
+      "displayLink": "www.grahaexcel.com",
+      "snippet": "Oct 22, 2023 ... Warna tangki air dapat mempengaruhi suhu air di dalamnya. Tangki berwarna gelap cenderung menyerap lebih banyak panas dari sinar matahari, ...",
+      "htmlSnippet": "Oct 22, 2023 \u003cb\u003e...\u003c/b\u003e Warna tangki air dapat mempengaruhi \u003cb\u003esuhu\u003c/b\u003e air di \u003cb\u003edalamnya\u003c/b\u003e. Tangki berwarna gelap cenderung menyerap lebih banyak panas dari sinar \u003cb\u003ematahari\u003c/b\u003e,&nbsp;...",
+      "formattedUrl": "https://www.grahaexcel.com/.../memilih-warna-terbaik-untuk-tangki-air-di-...",
+      "htmlFormattedUrl": "https://www.grahaexcel.com/.../memilih-warna-terbaik-untuk-tangki-air-\u003cb\u003edi\u003c/b\u003e-...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdjn7pHvrhlGnJaltL0sH9coL6AhwQMenQ4RNPW-_bA1nxaCSxzs_KXH4&s",
+            "width": "290",
+            "height": "174"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.grahaexcel.com/storage/files/1/2023-10-23-020236-Warna%20Tangki%20Air%20Crema%20Stone.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "PENGERTIAN DAN EFEK RUMAH KACA – Dinas Lingkungan Hidup",
+      "htmlTitle": "PENGERTIAN DAN EFEK RUMAH KACA – Dinas Lingkungan Hidup",
+      "link": "https://dlh.slemankab.go.id/pengertian-dan-penyebab-efek-rumah-kaca/",
+      "displayLink": "dlh.slemankab.go.id",
+      "snippet": "Mar 20, 2018 ... Secara umum efek rumah kaca diartikan sebagai proses naiknya suhu bumi yang disebabkan perubahan komposisi atmosfer. Menyebabkan sinar matahari ...",
+      "htmlSnippet": "Mar 20, 2018 \u003cb\u003e...\u003c/b\u003e Secara umum efek rumah kaca diartikan sebagai proses naiknya \u003cb\u003esuhu\u003c/b\u003e bumi yang disebabkan perubahan komposisi atmosfer. Menyebabkan sinar \u003cb\u003ematahari\u003c/b\u003e&nbsp;...",
+      "formattedUrl": "https://dlh.slemankab.go.id/pengertian-dan-penyebab-efek-rumah-kaca/",
+      "htmlFormattedUrl": "https://dlh.slemankab.go.id/pengertian-dan-penyebab-efek-rumah-kaca/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSvT1of801LiuSEDAMTLh7uufdCtwRWE4DUwWA2lR6hsqr1d7th_9JNjo&s",
+            "width": "273",
+            "height": "185"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://dlh.slemankab.go.id/wp-content/uploads/2018/03/Kaca11.jpg",
+            "og:type": "article",
+            "article:published_time": "2018-03-20T15:40:41+00:00",
+            "og:image:width": "550",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Dinas Lingkungan Hidup",
+            "og:title": "PENGERTIAN DAN EFEK RUMAH KACA",
+            "og:image:height": "324",
+            "msapplication-tileimage": "https://dlh.slemankab.go.id/wp-content/uploads/2017/05/cropped-LOGOSLEMAN-3D-web-1-270x270.jpg",
+            "og:description": "Pengertian dan penyebab efek rumah kaca Oktober 1, 2017 Oleh Muhammad Bukhori                         sumber: Efek rumah kaca-Efek rumah …",
+            "twitter:image": "https://dlh.slemankab.go.id/wp-content/uploads/2018/03/Kaca11.jpg?w=640",
+            "twitter:text:title": "PENGERTIAN DAN EFEK RUMAH KACA",
+            "article:modified_time": "2018-03-20T15:57:40+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:locale": "en_US",
+            "og:url": "https://dlh.slemankab.go.id/pengertian-dan-penyebab-efek-rumah-kaca/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i2.wp.com/3.bp.blogspot.com/_jYE9C2W7p9A/S_pblzl79jI/AAAAAAAAAI4/b0Faxz3OZog/s1600/p0001164-greenhouse-effect.gif?resize=699%2C473"
+          }
+        ]
+      }
+    }
+  ]
+}

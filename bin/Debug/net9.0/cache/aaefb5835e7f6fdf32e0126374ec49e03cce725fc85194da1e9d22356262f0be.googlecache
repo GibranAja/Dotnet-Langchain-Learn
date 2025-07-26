@@ -1,0 +1,606 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - apa itu matahari",
+        "totalResults": "50000000",
+        "searchTerms": "apa itu matahari",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - apa itu matahari",
+        "totalResults": "50000000",
+        "searchTerms": "apa itu matahari",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ]
+  },
+  "context": {
+    "title": "LangSearch"
+  },
+  "searchInformation": {
+    "searchTime": 0.41963,
+    "formattedSearchTime": "0.42",
+    "totalResults": "50000000",
+    "formattedTotalResults": "50,000,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Matahari - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+      "htmlTitle": "\u003cb\u003eMatahari\u003c/b\u003e - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+      "link": "https://id.wikipedia.org/wiki/Matahari",
+      "displayLink": "id.wikipedia.org",
+      "snippet": "Matahari adalah bintang tunggal yang menjadi pusat Tata Surya. Bentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet.",
+      "htmlSnippet": "\u003cb\u003eMatahari\u003c/b\u003e adalah bintang tunggal yang menjadi pusat Tata Surya. Bentuknya nyaris bulat dan terdiri dari plasma panas bercampur medan magnet.",
+      "formattedUrl": "https://id.wikipedia.org/wiki/Matahari",
+      "htmlFormattedUrl": "https://id.wikipedia.org/wiki/\u003cb\u003eMatahari\u003c/b\u003e",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/1200px-The_Sun_in_white_light.jpg",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Matahari - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+            "og:image:height": "1200",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mengenal dan Mengamati Atmosfer Matahari Lebih Dekat - BRIN",
+      "htmlTitle": "Mengenal dan Mengamati Atmosfer Matahari Lebih Dekat - BRIN",
+      "link": "https://www.brin.go.id/news/114779/mengenal-dan-mengamati-atmosfer-matahari-lebih-dekat",
+      "displayLink": "www.brin.go.id",
+      "snippet": "Sep 3, 2023 ... Matahari merupakan bintang yang paling dekat dengan bumi. Cahaya matahari merupakan gelombang elektromagnetik yang mempunyai kecepatan 300.000 ...",
+      "htmlSnippet": "Sep 3, 2023 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMatahari\u003c/b\u003e merupakan bintang yang paling dekat dengan bumi. Cahaya \u003cb\u003ematahari\u003c/b\u003e merupakan gelombang elektromagnetik yang mempunyai kecepatan 300.000&nbsp;...",
+      "formattedUrl": "https://www.brin.go.id/.../mengenal-dan-mengamati-atmosfer-matahari-lebi...",
+      "htmlFormattedUrl": "https://www.brin.go.id/.../mengenal-dan-mengamati-atmosfer-\u003cb\u003ematahari\u003c/b\u003e-lebi...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVSFDdhUsPlAVtp_nil37TUmbHkHvI_x30HfS7ewfOkZxj-1sEiDipofqS&s",
+            "width": "293",
+            "height": "172"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://miniox.brin.go.id/website//uploads/images/posts//2023/09/1694745577-7709195.webp",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "800",
+            "og:image:alt": "-",
+            "og:site_name": "BRIN - Mengenal dan Mengamati Atmosfer Matahari Lebih Dekat",
+            "og:title": "Mengenal dan Mengamati Atmosfer Matahari Lebih Dekat",
+            "og:image:height": "600",
+            "og:image:type": "image",
+            "twitter:creator": "@handle",
+            "og:description": "Badan Riset dan Inovasi Nasional",
+            "next-head-count": "25",
+            "twitter:site": "@site",
+            "viewport": "width=device-width",
+            "og:url": "https://brin.go.id/news/114779/mengenal-dan-mengamati-atmosfer-matahari-lebih-dekat"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://miniox.brin.go.id/website//uploads/images/posts//2023/09/1694745577-7709195.webp"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "apa itu matahari dan jelaskan pengertian matahari\u200b - Brainly.co.id",
+      "htmlTitle": "\u003cb\u003eapa itu matahari\u003c/b\u003e dan jelaskan pengertian \u003cb\u003ematahari\u003c/b\u003e\u200b - Brainly.co.id",
+      "link": "https://brainly.co.id/tugas/22048778",
+      "displayLink": "brainly.co.id",
+      "snippet": "Mar 10, 2019 ... Matahari adalah sebuah bintang yang menjadi pusat Tata Surya kita. Matahari termasuk bintang berukuran sedang, dengan radius sekitar 696.000 ...",
+      "htmlSnippet": "Mar 10, 2019 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMatahari\u003c/b\u003e adalah sebuah bintang yang menjadi pusat Tata Surya kita. \u003cb\u003eMatahari\u003c/b\u003e termasuk bintang berukuran sedang, dengan radius sekitar 696.000&nbsp;...",
+      "formattedUrl": "https://brainly.co.id/tugas/22048778",
+      "htmlFormattedUrl": "https://brainly.co.id/tugas/22048778",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ86TP1z2wxyERlFeC-s60iFnq5mDmlvSsxCVhidPUHt_Em4n6s0PHa8_Oy&s",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://styleguide.brainly.co.id/images/favicons/brainly/favicon200x200-dc867a5866.png",
+            "theme-color": "#ffffff",
+            "tiktok_app_config": "{\"clientKey\":\"\"}",
+            "msvalidate.01": "C71347AFED3CE0CBE24CC900D75EC677",
+            "release": "2.0.32192",
+            "og:title": "apa itu matahari dan jelaskan pengertian matahari\u200b - Brainly.co.id",
+            "locale": "id",
+            "facebook_app_config": "{\"id\":218228351668561}",
+            "og:description": "apa itu matahari dan jelaskan pengertian matahari - 22048778",
+            "google_app_config": "{\"clientId\":\"598975629377-jftb6nmdlsd1jm2siil3pqb76psqbtlg.apps.googleusercontent.com\",\"oneTapEnabled\":false,\"oneTapAutoSelectEnabled\":false}",
+            "market": "id",
+            "viewport": "width=device-width, minimum-scale=1.0, maximum-scale=5.0, user-scalable=1",
+            "apple_app_config": "{\"clientId\":\"com.brainly.siwa.web\",\"redirectURI\":\"https:\\/\\/brainly.co.id\"}",
+            "og:url": "https://brainly.co.id/tugas/22048778"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://styleguide.brainly.co.id/images/favicons/brainly/favicon200x200-dc867a5866.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Matahari: Pengertian, Ciri-ciri, serta Urutan Lapisan atau Bagiannya ...",
+      "htmlTitle": "\u003cb\u003eMatahari\u003c/b\u003e: Pengertian, Ciri-ciri, serta Urutan Lapisan atau Bagiannya ...",
+      "link": "https://nationalgeographic.grid.id/read/134098601/matahari-pengertian-ciri-ciri-serta-urutan-lapisan-atau-bagiannya?page=all",
+      "displayLink": "nationalgeographic.grid.id",
+      "snippet": "Jun 2, 2024 ... Matahari, yang merupakan jantung dari sistem tata surya kita, adalah sebuah bintang dengan massa yang luar biasa besar, yaitu 1.98892 x 10^30 kg ...",
+      "htmlSnippet": "Jun 2, 2024 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMatahari\u003c/b\u003e, yang merupakan jantung dari sistem tata surya kita, adalah sebuah bintang dengan massa yang luar biasa besar, yaitu 1.98892 x 10^30 kg&nbsp;...",
+      "formattedUrl": "https://nationalgeographic.grid.id/.../matahari-pengertian-ciri-ciri-serta-urut...",
+      "htmlFormattedUrl": "https://nationalgeographic.grid.id/.../\u003cb\u003ematahari\u003c/b\u003e-pengertian-ciri-ciri-serta-urut...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LBGMg2K0O-NBXsK-kmunUhlTQ9u2sselqVM8zjt0S1u79EG3kHiorzU&s",
+            "width": "276",
+            "height": "183"
+          }
+        ],
+        "website": [
+          {
+            "image": "https://cdn.grid.id//crop/0x0:0x0/700x465/photo/2024/06/02/matahari-pengertian-ciri-ciri-20240602063348.jpg",
+            "keywords": "matahari, bagian, pengertian, ciri-ciri, urutan lapisan",
+            "name": "Matahari: Pengertian, Ciri-ciri, serta Urutan Lapisan atau Bagiannya - Semua Halaman - National Geographic",
+            "description": "Artikel ini menjelaskan pengertian matahari, ciri-ciri utamanya, serta urutan lapisan dan bagian yang ada di dalamnya."
+          }
+        ],
+        "metatags": [
+          {
+            "content_author": "Ade S",
+            "og:image": "https://cdn.grid.id//crop/0x0:0x0/700x465/photo/2024/06/02/matahari-pengertian-ciri-ciri-20240602063348.jpg",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#000",
+            "og:site_name": "National Geographic",
+            "content_editor": "Ade S",
+            "content_category": "Berita",
+            "content_tag": "matahari, bagian, pengertian, ciri-ciri, urutan lapisan",
+            "content_total_words": "618",
+            "language": "id",
+            "content_section_id": "173",
+            "og:description": "Artikel ini menjelaskan pengertian matahari, ciri-ciri utamanya, serta urutan lapisan dan bagian yang ada di dalamnya.",
+            "twitter:creator": "@grid_id",
+            "geo.country": "id",
+            "twitter:image": "https://cdn.grid.id//crop/0x0:0x0/700x465/photo/2024/06/02/matahari-pengertian-ciri-ciri-20240602063348.jpg",
+            "twitter:site": "@grid_id",
+            "content_type": "Standard",
+            "sso_api": "https://account.grid.id/",
+            "content_site": "National Geographic",
+            "content_site_id": "13",
+            "content_subcategory": "Antariksa",
+            "og:type": "article",
+            "twitter:title": "Matahari: Pengertian, Ciri-ciri, serta Urutan Lapisan atau Bagiannya - Semua Halaman - National Geographic",
+            "content_id": "4098601",
+            "og:title": "Matahari: Pengertian, Ciri-ciri, serta Urutan Lapisan atau Bagiannya - Semua Halaman - National Geographic",
+            "content_eid": "8011",
+            "googlebot-news": "index,follow",
+            "fb:pages": "27821849095",
+            "msapplication-navbutton-color": "#000",
+            "fb:app_id": "1246251635468723",
+            "apple-mobile-web-app-status-bar-style": "#000",
+            "content_publisheddate": "2024-06-02 08:03:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Artikel ini menjelaskan pengertian matahari, ciri-ciri utamanya, serta urutan lapisan dan bagian yang ada di dalamnya.",
+            "apple-mobile-web-app-capable": "yes",
+            "content_aid1": "8011",
+            "content_url": "https://nationalgeographic.grid.id/read/134098601/matahari-pengertian-ciri-ciri-serta-urutan-lapisan-atau-bagiannya",
+            "og:url": "https://nationalgeographic.grid.id/read/134098601/matahari-pengertian-ciri-ciri-serta-urutan-lapisan-atau-bagiannya",
+            "geo.placename": "Indonesia",
+            "base": "https://nationalgeographic.grid.id/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.grid.id//crop/0x0:0x0/700x465/photo/2024/06/02/matahari-pengertian-ciri-ciri-20240602063348.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Apa Itu Matahari? Begini Jawabannya | kumparan.com",
+      "htmlTitle": "\u003cb\u003eApa Itu Matahari\u003c/b\u003e? Begini Jawabannya | kumparan.com",
+      "link": "https://kumparan.com/kabar-harian/apa-itu-matahari-begini-jawabannya-1waDqcj3BHP",
+      "displayLink": "kumparan.com",
+      "snippet": "Sep 23, 2021 ... Matahari adalah bintang di tata surya yang berbentuk seperti bola gas yang panas. Terdapat gas hidrogen di dalamnya yang mendominasi hingga tiga ...",
+      "htmlSnippet": "Sep 23, 2021 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMatahari\u003c/b\u003e adalah bintang di tata surya yang berbentuk seperti bola gas yang panas. Terdapat gas hidrogen di dalamnya yang mendominasi hingga tiga&nbsp;...",
+      "formattedUrl": "https://kumparan.com/.../apa-itu-matahari-begini-jawabannya-1waDqcj3BH...",
+      "htmlFormattedUrl": "https://kumparan.com/.../\u003cb\u003eapa\u003c/b\u003e-\u003cb\u003eitu\u003c/b\u003e-\u003cb\u003ematahari\u003c/b\u003e-begini-jawabannya-1waDqcj3BH...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf_mf4mBAgs5FGuXZgyuuU4_BkSirmc1K2rtYBwFV4MLuKp-upLchcVOw&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "apple-itunes-app": "app-id=1175997267, app-argument=kumparan://kumparan.com/kabar-harian/apa-itu-matahari-begini-jawabannya-1waDqcj3BHP",
+            "og:image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,f_jpg,q_auto,w_600,h_315,c_lpad,b_white/g_south,l_og_user_zprw89/co_rgb:ffffff,g_south_west,l_text:Heebo_20_bold:Konten%20dari%20Pengguna%0DKabar%20Harian,x_140,y_26/rjqffktlm1t718w7yxoa.jpg",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "600",
+            "theme-color": "#00A5AF",
+            "og:site_name": "kumparan",
+            "og:card": "summary",
+            "apple-mobile-web-app-title": "kumparan",
+            "msapplication-tileimage": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best/v1567743613/logo-192_ra4tu7.png",
+            "twitter:creator": "@kumparan",
+            "og:description": "Oleh Kabar Harian",
+            "twitter:image": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,f_jpg,q_auto,w_600,h_315,c_lpad,b_white/g_south,l_og_ugc_mansdf/co_rgb:ffffff,g_south_west,l_text:Heebo_20_bold:Konten%20dari%20Pengguna | Kabar%20Harian,x_60,y_53/rjqffktlm1t718w7yxoa.jpg",
+            "twitter:site": "@kumparan",
+            "news_keywords": "Matahari, Berita Terkini Matahari, Berita Terbaru Matahari, Berita Hari Ini Matahari, Matahari, Energi, Berita Terkini Energi, Berita Terbaru Energi, Berita Hari Ini Energi, Energi, Tata Surya, Berita Terkini Tata Surya, Berita Terbaru Tata Surya, Berita Hari Ini Tata Surya, Apa Itu Matahari?",
+            "og:site": "kumparan",
+            "application-name": "kumparan",
+            "msapplication-tilecolor": "#00a5af",
+            "twitter:title": "Apa Itu Matahari? Begini Jawabannya",
+            "og:type": "article",
+            "msvalidate.01": "1ECA242BBBAF6E5377CEA14061AFF776",
+            "og:title": "Apa Itu Matahari? Begini Jawabannya",
+            "og:image:height": "315",
+            "googlebot-news": "index,follow",
+            "yandex-verification": "bcea1e52eeb7eb85",
+            "msapplication-navbutton-color": "#00a5af",
+            "fb:pages": "1924315711129121",
+            "fb:app_id": "261539327577949",
+            "apple-mobile-web-app-status-bar-style": "white",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=2",
+            "twitter:description": "Oleh Kabar Harian",
+            "apple-mobile-web-app-capable": "yes",
+            "og:locale": "id_ID",
+            "mobile-web-app-capable": "yes",
+            "og:creator": "kumparan",
+            "og:url": "https://kumparan.com/kabar-harian/apa-itu-matahari-begini-jawabannya-1waDqcj3BHP"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,f_jpg,q_auto,w_600,h_315,c_lpad,b_white/g_south,l_og_user_zprw89/co_rgb:ffffff,g_south_west,l_text:Heebo_20_bold:Konten%20dari%20Pengguna%0DKabar%20Harian,x_140,y_26/rjqffktlm1t718w7yxoa.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Kulminasi atau transit atau istiwa' adalah fenomena ketika Matahari ...",
+      "htmlTitle": "Kulminasi atau transit atau istiwa&#39; adalah fenomena ketika \u003cb\u003eMatahari\u003c/b\u003e ...",
+      "link": "https://www.instagram.com/p/CLrJ3-LhDpu/?hl=en",
+      "displayLink": "www.instagram.com",
+      "snippet": "Feb 24, 2021 ... Kulminasi atau transit atau istiwa' adalah fenomena ketika Matahari tepat berada di posisi paling tinggi di langit. Saat deklinasi Matahari sama ...",
+      "htmlSnippet": "Feb 24, 2021 \u003cb\u003e...\u003c/b\u003e Kulminasi atau transit atau istiwa&#39; adalah fenomena ketika \u003cb\u003eMatahari\u003c/b\u003e tepat berada di posisi paling tinggi di langit. Saat deklinasi \u003cb\u003eMatahari\u003c/b\u003e sama&nbsp;...",
+      "formattedUrl": "https://www.instagram.com/p/CLrJ3-LhDpu/?hl=en",
+      "htmlFormattedUrl": "https://www.instagram.com/p/CLrJ3-LhDpu/?hl=en",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToMignbhHpvvFd6l-j-My2mjpHwwiUBGJNNkmaWUnLRneoCY5-JOkz-nZm&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2516148241151032912",
+            "theme-color": "#FFFFFF",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Instagram",
+            "application-title": "Instagram",
+            "al:android:package": "com.instagram.android",
+            "bingbot": "noarchive",
+            "medium": "image",
+            "al:ios:url": "instagram://media?id=2516148245571582574",
+            "og:description": "1,361 likes, 1 comments - infobmkg on February 24, 2021: \"Kulminasi atau transit atau istiwa' adalah fenomena ketika Matahari tepat berada di posisi paling tinggi di langit. Saat deklinasi Matahari sama dengan lintang pengamat, fenomenanya disebut sebagai Kulminasi Utama. Pada saat itu, Matahari akan tepat berada di atas kepala pengamat atau di titik zenit. Akibatnya, bayangan benda tegak akan terlihat \"menghilang\", karena bertumpuk dengan benda itu sendiri. Karena itu, hari kulminasi utama dikenal juga sebagai hari tanpa bayangan.\n\nSecara umum, kulminasi utama pertama tahun 2021 di Indonesia terjadi antara 20 Februari 2021 di Baa, Nusa Tenggara Timur hingga 4 April 2021 di Sabang, Aceh.\nDaftar lengkap kulminasi utama di setiap ibukota provinsi terlampir pada infografis terlampir.\n\n#InfoBMKG #TandaWaktu #KulminasiUtama\".",
+            "twitter:image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2516148241151032912",
+            "al:ios:app_store_id": "389801252",
+            "twitter:site": "@instagram",
+            "instapp:owner_user_id": "173837791",
+            "og:type": "article",
+            "twitter:title": "BMKG (@infobmkg) • Instagram photos and videos",
+            "al:ios:app_name": "Instagram",
+            "og:title": "BMKG on Instagram: \"Kulminasi atau transit atau istiwa' adalah fenomena ketika Matahari tepat berada di posisi paling tinggi di langit. Saat deklinasi Matahari sama dengan lintang pengamat, fenomenanya disebut sebagai Kulminasi Utama. Pada saat itu, Matahari akan tepat berada di atas kepala pengamat atau di titik zenit. Akibatnya, bayangan benda tegak akan terlihat \"menghilang\", karena bertumpuk dengan benda itu sendiri. Karena itu, hari kulminasi utama dikenal juga sebagai hari tanpa bayangan.\n\nSecara umum, kulminasi utama pertama tahun 2021 di Indonesia terjadi antara 20 Februari 2021 di Baa, Nusa Tenggara Timur hingga 4 April 2021 di Sabang, Aceh.\nDaftar lengkap kulminasi utama di setiap ibukota provinsi terlampir pada infografis terlampir.\n\n#InfoBMKG #TandaWaktu #KulminasiUtama\"",
+            "twitter:maxage": "86400",
+            "color-scheme": "light",
+            "al:android:url": "https://www.instagram.com/p/CLrJ3-LhDpu/",
+            "fb:app_id": "124024574287414",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.instagram.com/p/CLrJ3-LhDpu/",
+            "al:android:app_name": "Instagram"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2516148241151032912"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pengertian Matahari adalah Pusat Tata Surya dari Hidrogen dan ...",
+      "htmlTitle": "Pengertian \u003cb\u003eMatahari\u003c/b\u003e adalah Pusat Tata Surya dari Hidrogen dan ...",
+      "link": "https://www.liputan6.com/hot/read/5293977/pengertian-matahari-adalah-pusat-tata-surya-dari-hidrogen-dan-helium-pahami-lapisannya",
+      "displayLink": "www.liputan6.com",
+      "snippet": "May 23, 2023 ... Pengertian matahari adalah sinar cahaya yang paling terang yang didminasi katai merah dengan keterangnnya mencangkup sekitar 85% bintang di ...",
+      "htmlSnippet": "May 23, 2023 \u003cb\u003e...\u003c/b\u003e Pengertian \u003cb\u003ematahari\u003c/b\u003e adalah sinar cahaya yang paling terang yang didminasi katai merah dengan keterangnnya mencangkup sekitar 85% bintang di&nbsp;...",
+      "formattedUrl": "https://www.liputan6.com/.../pengertian-matahari-adalah-pusat-tata-surya-d...",
+      "htmlFormattedUrl": "https://www.liputan6.com/.../pengertian-\u003cb\u003ematahari\u003c/b\u003e-adalah-pusat-tata-surya-d...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStDf4kpC_r1Fb1FpxGW4WVJnp-tiHoVIAV0Upgcd1vtC4cPTtWgATXkG4&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "organization": [
+          {
+            "logo": "https://cdn0-production-assets-kly.akamaized.net/mobile_logos/188/original/040541100_1740988466-Liputan6.png",
+            "url": "https://www.liputan6.com"
+          }
+        ],
+        "metatags": [
+          {
+            "p:domain_verify": "7e8445b49f34d4359b5590ca50e38f8b",
+            "og:image": "https://cdn1-production-images-kly.akamaized.net/v5EQi70QUoOhZsptbnluHfEINyU=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3716589/original/042680800_1639562917-NASA.jpg",
+            "msapplication-config": "https://cdn-production-assets-kly.akamaized.net/assets/images/favicons/new-logo/browserconfig.xml",
+            "article:published_time": "2023-05-23T16:00:00+07:00",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#ffffff",
+            "og:site_name": "liputan6.com",
+            "twitter:url": "https://www.liputan6.com/hot/read/5293977/pengertian-matahari-adalah-pusat-tata-surya-dari-hidrogen-dan-helium-pahami-lapisannya",
+            "adx:sections": "hot",
+            "language": "id",
+            "title": "Pengertian Matahari adalah Pusat Tata Surya dari Hidrogen dan Helium, Pahami Lapisannya - Hot Liputan6.com",
+            "msapplication-tileimage": "https://cdn-production-assets-kly.akamaized.net/assets/images/favicons/new-logo/ms-icon-144x144.png",
+            "og:description": "Matahari adalah benda panas yang tersusun dari gas bertekanan tinggi.",
+            "twitter:creator": "@liputan6dotcom",
+            "geo.country": "id",
+            "twitter:image": "https://cdn1-production-images-kly.akamaized.net/v5EQi70QUoOhZsptbnluHfEINyU=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3716589/original/042680800_1639562917-NASA.jpg",
+            "ahrefs-site-verification": "f0fc43bd1544ebba3e78fc1e77762d498b5372669d65bdbcf5752af599a5d05b",
+            "twitter:site": "@liputan6dotcom",
+            "article:modified_time": "2023-05-23T16:00:00+07:00",
+            "msapplication-tilecolor": "#da532c",
+            "og:type": "article",
+            "twitter:title": "Pengertian Matahari adalah Pusat Tata Surya dari Hidrogen dan Helium, Pahami Lapisannya",
+            "twitter:domain": "liputan6.com",
+            "msvalidate.01": "8A609C27D3037D0B7DB2F607B5A691B8",
+            "author": "Liputan6.com",
+            "og:title": "Pengertian Matahari adalah Pusat Tata Surya dari Hidrogen dan Helium, Pahami Lapisannya",
+            "googlebot-news": "index,follow",
+            "og:updated_time": "2023-05-23T16:00:00+07:00",
+            "fb:app_id": "467800444454528",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Matahari adalah benda panas yang tersusun dari gas bertekanan tinggi.",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.liputan6.com/hot/read/5293977/pengertian-matahari-adalah-pusat-tata-surya-dari-hidrogen-dan-helium-pahami-lapisannya",
+            "device": "mobile-smart",
+            "geo.placename": "Indonesia"
+          }
+        ],
+        "webpage": [
+          {
+            "description": "Liputan6.com, Jakarta Apa itu matahari? Matahari adalah bintang yang paling dekat dengan bumi. Pengertian matahari adalah pusat tata surya yang terdiri dari hidrogen dan helium, menghasilkan..."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn1-production-images-kly.akamaized.net/v5EQi70QUoOhZsptbnluHfEINyU=/1200x675/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3716589/original/042680800_1639562917-NASA.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Matahari Jadi Dua",
+      "htmlTitle": "\u003cb\u003eMatahari\u003c/b\u003e Jadi Dua",
+      "link": "https://dprd.bandung.go.id/warta/matahari-jadi-dua",
+      "displayLink": "dprd.bandung.go.id",
+      "snippet": "Kalangan ilmuwan biasa menyebut fenomena ini sebagai Perihelion atau Sun Dog, yakni fenomena adanya kumpulan cahaya tambahan di kedua sisi matahari. Kadang ...",
+      "htmlSnippet": "Kalangan ilmuwan biasa menyebut fenomena ini sebagai Perihelion atau Sun Dog, yakni fenomena adanya kumpulan cahaya tambahan di kedua sisi \u003cb\u003ematahari\u003c/b\u003e. Kadang&nbsp;...",
+      "formattedUrl": "https://dprd.bandung.go.id/warta/matahari-jadi-dua",
+      "htmlFormattedUrl": "https://dprd.bandung.go.id/warta/\u003cb\u003ematahari\u003c/b\u003e-jadi-dua",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIWlfhTpSPsgDbbl74Pwoul7p_oOVvs46oDujhAhetb1g_TZ822VKGqfVi&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "website": [
+          {
+            "image": "https://dprd.bandung.go.id/images/dprd-bandung.jpg",
+            "name": "Matahari Jadi Dua",
+            "description": "Fenomena alam terjadi bertepatan dengan peringatan Maulid Nabi Muhammad SAW kemarin. Menjelang matahari terbenam, tepatnya pukul 16.45 WIB, ratusan wa..."
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://dprd.bandung.go.id/images/dprd-bandung.jpg",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Matahari Jadi Dua",
+            "og:site_name": "DPRD.Bandung.go.id",
+            "og:title": "Matahari Jadi Dua",
+            "og:description": "Fenomena alam terjadi bertepatan dengan peringatan Maulid Nabi Muhammad SAW kemarin. Menjelang matahari terbenam, tepatnya pukul 16.45 WIB, ratusan wa...",
+            "twitter:creator": "@dprdkotabandung",
+            "twitter:image": "https://dprd.bandung.go.id/images/dprd-bandung.jpg",
+            "twitter:site": "@dprdkotabandung",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=0",
+            "news_keywords": "JDIH, JDIH Kota Bandung, JDIHN, Bagian Hukum Kota Bandung,",
+            "twitter:description": "Fenomena alam terjadi bertepatan dengan peringatan Maulid Nabi Muhammad SAW kemarin. Menjelang matahari terbenam, tepatnya pukul 16.45 WIB, ratusan wa...",
+            "og:locale": "id_ID",
+            "og:url": "https://dprd.bandung.go.id/warta/matahari-jadi-dua"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://dprd.bandung.go.id/images/dprd-bandung.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Apa Itu Fenomena Matahari Kembar di Dunia Kerja? Halaman 1 ...",
+      "htmlTitle": "Apa Itu Fenomena \u003cb\u003eMatahari\u003c/b\u003e Kembar di Dunia Kerja? Halaman 1 ...",
+      "link": "https://www.kompasiana.com/muhammadhelmiazhar6215/670f77feed641519a8721582/apa-itu-fenomena-matahari-kembar-di-dunia-kerja",
+      "displayLink": "www.kompasiana.com",
+      "snippet": "Oct 16, 2024 ... Fenomena matahari kembar di dunia kerja adalah istilah yang sering digunakan untuk menggambarkan situasi di mana terdapat dua orang atau ...",
+      "htmlSnippet": "Oct 16, 2024 \u003cb\u003e...\u003c/b\u003e Fenomena \u003cb\u003ematahari\u003c/b\u003e kembar di dunia kerja adalah istilah yang sering digunakan untuk menggambarkan situasi di mana terdapat dua orang atau&nbsp;...",
+      "formattedUrl": "https://www.kompasiana.com/.../apa-itu-fenomena-matahari-kembar-di-dun...",
+      "htmlFormattedUrl": "https://www.kompasiana.com/.../\u003cb\u003eapa\u003c/b\u003e-\u003cb\u003eitu\u003c/b\u003e-fenomena-\u003cb\u003ematahari\u003c/b\u003e-kembar-di-dun...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9ch4ChGUh0nnRXmpPMwJ8N7isa3raV5dEtD-mh_C6fgTqXTGljQzRo38&s",
+            "width": "277",
+            "height": "138"
+          }
+        ],
+        "metatags": [
+          {
+            "content_author": "M.Helmi Azhar",
+            "og:image": "https://assets-a1.kompasiana.com/items/album/2024/10/16/matahari-kembar-jpg-670f777d34777c2d450e56a2.jpg?t=o&v=1200",
+            "theme-color": "#71C2EA",
+            "article:published_time": "2024-10-16T15:23:26+0700",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "KOMPASIANA",
+            "content_category": "Lyfe",
+            "apple-mobile-web-app-title": "Kompasiana",
+            "adx:sections": "read",
+            "content_lipsus": "kerja,fenomena,matahari,lyfe,worklife",
+            "dailymotion-domain-verification": "dm59upmqfqt5m76ei",
+            "content_tags": "kerja,fenomena,matahari,lyfe,worklife",
+            "msapplication-titlecolor": "#000",
+            "twitter:creator": "@kompasiana",
+            "msapplication-titleimage": "https://assets.kompasiana.com/statics/2018_kompasiana/icons/152.png",
+            "twitter:site": "@kompasiana",
+            "content_type": "article",
+            "content_subcategory": "Worklife",
+            "content_art_length": "295",
+            "og:type": "article",
+            "article:section": "Lyfe",
+            "twitter:title": "Apa Itu Fenomena Matahari Kembar di Dunia Kerja?",
+            "content_id": "670f77feed641519a8721582",
+            "author": "Kompasiana.com",
+            "dable:item_id": "670f77feed641519a8721582",
+            "og:title": "Apa Itu Fenomena Matahari Kembar di Dunia Kerja?",
+            "og:image:height": "630",
+            "google": "notranslate",
+            "googlebot-news": "index,follow",
+            "content_shorturl": "muhammadhelmiazhar6215",
+            "fb:pages": "194032223976103",
+            "content_level": "highlight",
+            "twitter:image:src": "https://assets-a1.kompasiana.com/items/album/2024/10/16/matahari-kembar-jpg-670f777d34777c2d450e56a2.jpg?t=o&v=770",
+            "fb:app_id": "397600276959629",
+            "dable:author": "M.Helmi Azhar",
+            "content_authorstatus": "verified",
+            "apple-mobile-web-app-status-bar-style": "#71C2EA",
+            "content_publisheddate": "2024-10-16T15:23:26+0700",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no",
+            "content_location": "ID",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Fenomena matahari kembar di dunia kerja? Dampak & cara mengatasinya.",
+            "og:url": "https://www.kompasiana.com/muhammadhelmiazhar6215/670f77feed641519a8721582/apa-itu-fenomena-matahari-kembar-di-dunia-kerja"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://assets-a1.kompasiana.com/items/album/2024/10/16/matahari-kembar-jpg-670f777d34777c2d450e56a2.jpg?t=o&v=1200"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mengenal Matahari, Bintang Pusat Tata Surya",
+      "htmlTitle": "Mengenal \u003cb\u003eMatahari\u003c/b\u003e, Bintang Pusat Tata Surya",
+      "link": "https://www.zenius.net/blog/matahari",
+      "displayLink": "www.zenius.net",
+      "snippet": "Jan 27, 2022 ... Matahari merupakan sebuah bintang. Bintang di sini merujuk pada “…benda langit yang mampu memancarkan cahaya dan memproduksi energi sendiri”.",
+      "htmlSnippet": "Jan 27, 2022 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMatahari\u003c/b\u003e merupakan sebuah bintang. Bintang di sini merujuk pada “…benda langit yang mampu memancarkan cahaya dan memproduksi energi sendiri”.",
+      "formattedUrl": "https://www.zenius.net/blog/matahari",
+      "htmlFormattedUrl": "https://www.zenius.net/blog/\u003cb\u003ematahari\u003c/b\u003e",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://www.zenius.net/blog/wp-content/uploads/2022/01/matahari_zenius_education.jpg",
+            "og:image:width": "1251",
+            "article:published_time": "2022-01-27T16:05:47+07:00",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Zenius Blog - Tempatmu Menjelajahi Dunia Ilmu Pengetahuan",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Time to read",
+            "og:image:type": "image/jpeg",
+            "msapplication-tileimage": "https://www.zenius.net/blog/wp-content/uploads/2024/07/cropped-cropped-zenius-270x270.webp",
+            "og:description": "Sudah begitu lama matahari menemani hari-hari kita. Sebenarnya, kita benar-benar kenal nggak sih sama matahari? Yuk, kita cari tahu serba-serbi soal matahari.",
+            "twitter:creator": "@zeniuseducation",
+            "article:publisher": "https://www.facebook.com/zeniuseducation/",
+            "og:image:secure_url": "https://www.zenius.net/blog/wp-content/uploads/2022/01/matahari_zenius_education.jpg",
+            "twitter:image": "https://www.zenius.net/blog/wp-content/uploads/2022/01/matahari_zenius_education.jpg",
+            "twitter:data1": "Gracia Carolina",
+            "twitter:data2": "7 minutes",
+            "twitter:site": "@zeniuseducation",
+            "article:modified_time": "2022-02-03T13:12:19+07:00",
+            "og:type": "article",
+            "article:section": "Perlu Tahu",
+            "og:image:alt": "matahari_zenius_education",
+            "twitter:title": "Mengenal Matahari, Bintang Pusat Tata Surya",
+            "og:title": "Mengenal Matahari, Bintang Pusat Tata Surya",
+            "og:image:height": "667",
+            "og:updated_time": "2022-02-03T13:12:19+07:00",
+            "article:tag": "komposisi matahari",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1",
+            "twitter:description": "Sudah begitu lama matahari menemani hari-hari kita. Sebenarnya, kita benar-benar kenal nggak sih sama matahari? Yuk, kita cari tahu serba-serbi soal matahari.",
+            "og:locale": "en_US",
+            "og:url": "https://www.zenius.net/blog/matahari"
+          }
+        ],
+        "BlogPosting": [
+          {}
+        ]
+      }
+    }
+  ]
+}

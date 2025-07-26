@@ -1,0 +1,517 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - komposisi matahari",
+        "totalResults": "6450000",
+        "searchTerms": "komposisi matahari",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - komposisi matahari",
+        "totalResults": "6450000",
+        "searchTerms": "komposisi matahari",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ]
+  },
+  "context": {
+    "title": "LangSearch"
+  },
+  "searchInformation": {
+    "searchTime": 0.379391,
+    "formattedSearchTime": "0.38",
+    "totalResults": "6450000",
+    "formattedTotalResults": "6,450,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Matahari - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+      "htmlTitle": "\u003cb\u003eMatahari\u003c/b\u003e - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+      "link": "https://id.wikipedia.org/wiki/Matahari",
+      "displayLink": "id.wikipedia.org",
+      "snippet": "Matahari ; 24,85% · 0,77% · 0,29% · 0,16%.",
+      "htmlSnippet": "\u003cb\u003eMatahari\u003c/b\u003e ; 24,85% &middot; 0,77% &middot; 0,29% &middot; 0,16%.",
+      "formattedUrl": "https://id.wikipedia.org/wiki/Matahari",
+      "htmlFormattedUrl": "https://id.wikipedia.org/wiki/\u003cb\u003eMatahari\u003c/b\u003e",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Sun_in_white_light.jpg/1200px-The_Sun_in_white_light.jpg",
+            "theme-color": "#eaecf0",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "viewport": "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
+            "og:title": "Matahari - Wikipedia bahasa Indonesia, ensiklopedia bebas",
+            "og:image:height": "1200",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Kandungan Gizi pada Bunga Matahari + Vitamin, Mineral, dsb ...",
+      "htmlTitle": "Kandungan Gizi pada Bunga \u003cb\u003eMatahari\u003c/b\u003e + Vitamin, Mineral, dsb ...",
+      "link": "https://m.andrafarm.com/_andra.php?_i=0-tanaman-kelompok&topik=gizi&kelompok=Bunga%20Matahari",
+      "displayLink": "m.andrafarm.com",
+      "snippet": "Komposisi (kandungan) gizi per 100 gram \"Biji Bunga Matahari, Kernel, Kering\", seperti berikut ini. ◉ ...",
+      "htmlSnippet": "\u003cb\u003eKomposisi\u003c/b\u003e (kandungan) gizi per 100 gram &quot;Biji Bunga \u003cb\u003eMatahari\u003c/b\u003e, Kernel, Kering&quot;, seperti berikut ini. ◉&nbsp;...",
+      "formattedUrl": "https://m.andrafarm.com/_andra.php?_i=0...gizi...Bunga%20Matahari",
+      "htmlFormattedUrl": "https://m.andrafarm.com/_andra.php?_i=0...gizi...Bunga%20\u003cb\u003eMatahari\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVh7eBgoHWdIflSKCE68OMNmBQGtJZDd--zdS8AYC5xMbU7Na2pOkvwyg&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "content_tag": "kandungan gizi bunga matahari, komposisi gizi bunga matahari, mineral, vitamin, protein, andrafarm,com"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://m.andrafarm.com/_andra_farm/gambar_kelompok/a096.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tahukah kamu gimana komposisi Matahari diketahui? Ketika ...",
+      "htmlTitle": "Tahukah kamu gimana \u003cb\u003ekomposisi Matahari\u003c/b\u003e diketahui? Ketika ...",
+      "link": "https://www.instagram.com/p/CQvRF6khmSE/",
+      "displayLink": "www.instagram.com",
+      "snippet": "Jun 30, 2021 ... Matahari yang biasa menyinari Bumi pada siang hari sebenarnya adalah bintang juga lho, seperti bintang-bintang yang kita lihat pada malam ...",
+      "htmlSnippet": "Jun 30, 2021 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eMatahari\u003c/b\u003e yang biasa menyinari Bumi pada siang hari sebenarnya adalah bintang juga lho, seperti bintang-bintang yang kita lihat pada malam&nbsp;...",
+      "formattedUrl": "https://www.instagram.com/p/CQvRF6khmSE/",
+      "htmlFormattedUrl": "https://www.instagram.com/p/CQvRF6khmSE/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3f0-rj4HUeXmeudkFVnbgYJWt5mVe4OZZAHNirxDfXcR26K26ktdxjt4&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2607377878413083055",
+            "theme-color": "#FFFFFF",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Instagram",
+            "application-title": "Instagram",
+            "al:android:package": "com.instagram.android",
+            "bingbot": "noarchive",
+            "medium": "image",
+            "al:ios:url": "instagram://media?id=2607377882548692100",
+            "og:description": "464 likes, 4 comments - belajarastro.id on June 30, 2021: \"☀️ Tahukah kamu gimana komposisi Matahari diketahui?\n\nKetika seberkas cahaya diarahkan untuk melewati sebuah prisma, cahaya tersebut akan terbagi menjadi tujuh warna penyusunnya (mejikuhibiniu) yang dikenal sebagai spektrum.\n\nNah, ketika percobaan serupa dilakukan pada sinar Matahari oleh ilmuwan Jerman bernama Joseph Von Fraunhofer menggunakan alat khusus yang disebut spektrometer, ternyata spektrum Matahari memiliki garis-garis gelap.\n\nDan ternyata, dari situ lah unsur-unsur pada Matahari bisa diketahui~\n\n#matahari #sun #belajarastro #infoastronomy\".",
+            "twitter:image": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2607377878413083055",
+            "al:ios:app_store_id": "389801252",
+            "twitter:site": "@instagram",
+            "instapp:owner_user_id": "22906614219",
+            "og:type": "article",
+            "twitter:title": "BelajarAstro (@belajarastro.id) • Instagram photos and videos",
+            "al:ios:app_name": "Instagram",
+            "og:title": "BelajarAstro on Instagram: \"☀️ Tahukah kamu gimana komposisi Matahari diketahui?\n\nKetika seberkas cahaya diarahkan untuk melewati sebuah prisma, cahaya tersebut akan terbagi menjadi tujuh warna penyusunnya (mejikuhibiniu) yang dikenal sebagai spektrum.\n\nNah, ketika percobaan serupa dilakukan pada sinar Matahari oleh ilmuwan Jerman bernama Joseph Von Fraunhofer menggunakan alat khusus yang disebut spektrometer, ternyata spektrum Matahari memiliki garis-garis gelap.\n\nDan ternyata, dari situ lah unsur-unsur pada Matahari bisa diketahui~\n\n#matahari #sun #belajarastro #infoastronomy\"",
+            "twitter:maxage": "86400",
+            "color-scheme": "light",
+            "al:android:url": "https://www.instagram.com/p/CQvRF6khmSE/",
+            "fb:app_id": "124024574287414",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, viewport-fit=cover",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.instagram.com/p/CQvRF6khmSE/",
+            "al:android:app_name": "Instagram"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lookaside.instagram.com/seo/google_widget/crawler/?media_id=2607377878413083055"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Bagaimana Cara Mengetahui Isi Kandungan Matahari? - Info ...",
+      "htmlTitle": "Bagaimana Cara Mengetahui Isi Kandungan \u003cb\u003eMatahari\u003c/b\u003e? - Info ...",
+      "link": "https://www.infoastronomy.org/2020/04/cara-mengetahui-isi-kandungan-matahari.html",
+      "displayLink": "www.infoastronomy.org",
+      "snippet": "Garis-garis gelap ini, oleh karena itu, menunjukkan adanya unsur-unsur tertentu, seperti Hidrogen, Kalsium, hingga Oksigen karena mereka mewakili panjang ...",
+      "htmlSnippet": "Garis-garis gelap ini, oleh karena itu, menunjukkan adanya unsur-unsur tertentu, seperti Hidrogen, Kalsium, hingga Oksigen karena mereka mewakili panjang&nbsp;...",
+      "formattedUrl": "https://www.infoastronomy.org/.../cara-mengetahui-isi-kandungan-matahari...",
+      "htmlFormattedUrl": "https://www.infoastronomy.org/.../cara-mengetahui-isi-kandungan-\u003cb\u003ematahari\u003c/b\u003e...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYemcuifQtZ0zWRg7CJPMG9FoAzSDfK6SOWy_l6KFgPKONj5zfn2kCXT4&s",
+            "width": "289",
+            "height": "174"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmfOmass55t2D4WShD9wT2zEU_p7F9w3S27pmNUTPhzBx258k0j1dGqIiSRNE4nql-m_6iVJxMpPZGUI2mg4KKjAmBV7tqRE8JeWO2LLS5mJM7iIX6cqrfUlVhjgn2rWROAAtnnQQNYVw/w0/matahari-01.png",
+            "theme-color": "#204ecf",
+            "og:type": "article",
+            "og:image:alt": "Bagaimana Cara Mengetahui Isi Kandungan Matahari?",
+            "twitter:title": "Bagaimana Cara Mengetahui Isi Kandungan Matahari?",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Info Astronomy",
+            "twitter:url": "https://www.infoastronomy.org/2020/04/cara-mengetahui-isi-kandungan-matahari.html",
+            "og:title": "Bagaimana Cara Mengetahui Isi Kandungan Matahari?",
+            "msapplication-navbutton-color": "#204ecf",
+            "og:description": "Terdiri dari apa saja sih Matahari itu? Gimana para astronom bisa tau kandungan unsur pada Matahari?",
+            "twitter:image:src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmfOmass55t2D4WShD9wT2zEU_p7F9w3S27pmNUTPhzBx258k0j1dGqIiSRNE4nql-m_6iVJxMpPZGUI2mg4KKjAmBV7tqRE8JeWO2LLS5mJM7iIX6cqrfUlVhjgn2rWROAAtnnQQNYVw/w0/matahari-01.png",
+            "twitter:image:alt": "Bagaimana Cara Mengetahui Isi Kandungan Matahari?",
+            "apple-mobile-web-app-status-bar-style": "#204ecf",
+            "viewport": "width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5",
+            "apple-mobile-web-app-capable": "true",
+            "twitter:description": "Terdiri dari apa saja sih Matahari itu? Gimana para astronom bisa tau kandungan unsur pada Matahari?",
+            "og:url": "https://www.infoastronomy.org/2020/04/cara-mengetahui-isi-kandungan-matahari.html"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmfOmass55t2D4WShD9wT2zEU_p7F9w3S27pmNUTPhzBx258k0j1dGqIiSRNE4nql-m_6iVJxMpPZGUI2mg4KKjAmBV7tqRE8JeWO2LLS5mJM7iIX6cqrfUlVhjgn2rWROAAtnnQQNYVw/w0/matahari-01.png"
+          }
+        ],
+        "sitenavigationelement": [
+          {
+            "name": "BelajarAstro",
+            "url": "BelajarAstro"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Beranda",
+            "name": "Beranda",
+            "position": "1"
+          },
+          {
+            "item": "Bintang",
+            "name": "Bintang",
+            "position": "2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Matahari: Pengertian, Ciri-ciri, serta Urutan Lapisan atau Bagiannya ...",
+      "htmlTitle": "\u003cb\u003eMatahari\u003c/b\u003e: Pengertian, Ciri-ciri, serta Urutan Lapisan atau Bagiannya ...",
+      "link": "https://nationalgeographic.grid.id/read/134098601/matahari-pengertian-ciri-ciri-serta-urutan-lapisan-atau-bagiannya?page=all",
+      "displayLink": "nationalgeographic.grid.id",
+      "snippet": "Jun 2, 2024 ... Komposisi utamanya adalah hidrogen dan helium, dengan jarak rata-rata dari bumi sekitar 150 juta kilometer, diameter linier 1.390.000 kilometer, ...",
+      "htmlSnippet": "Jun 2, 2024 \u003cb\u003e...\u003c/b\u003e \u003cb\u003eKomposisi\u003c/b\u003e utamanya adalah hidrogen dan helium, dengan jarak rata-rata dari bumi sekitar 150 juta kilometer, diameter linier 1.390.000 kilometer,&nbsp;...",
+      "formattedUrl": "https://nationalgeographic.grid.id/.../matahari-pengertian-ciri-ciri-serta-urut...",
+      "htmlFormattedUrl": "https://nationalgeographic.grid.id/.../\u003cb\u003ematahari\u003c/b\u003e-pengertian-ciri-ciri-serta-urut...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4LBGMg2K0O-NBXsK-kmunUhlTQ9u2sselqVM8zjt0S1u79EG3kHiorzU&s",
+            "width": "276",
+            "height": "183"
+          }
+        ],
+        "website": [
+          {
+            "image": "https://cdn.grid.id//crop/0x0:0x0/700x465/photo/2024/06/02/matahari-pengertian-ciri-ciri-20240602063348.jpg",
+            "keywords": "matahari, bagian, pengertian, ciri-ciri, urutan lapisan",
+            "name": "Matahari: Pengertian, Ciri-ciri, serta Urutan Lapisan atau Bagiannya - Semua Halaman - National Geographic",
+            "description": "Artikel ini menjelaskan pengertian matahari, ciri-ciri utamanya, serta urutan lapisan dan bagian yang ada di dalamnya."
+          }
+        ],
+        "metatags": [
+          {
+            "content_author": "Ade S",
+            "og:image": "https://cdn.grid.id//crop/0x0:0x0/700x465/photo/2024/06/02/matahari-pengertian-ciri-ciri-20240602063348.jpg",
+            "twitter:card": "summary_large_image",
+            "theme-color": "#000",
+            "og:site_name": "National Geographic",
+            "content_editor": "Ade S",
+            "content_category": "Berita",
+            "content_tag": "matahari, bagian, pengertian, ciri-ciri, urutan lapisan",
+            "content_total_words": "618",
+            "language": "id",
+            "content_section_id": "173",
+            "og:description": "Artikel ini menjelaskan pengertian matahari, ciri-ciri utamanya, serta urutan lapisan dan bagian yang ada di dalamnya.",
+            "twitter:creator": "@grid_id",
+            "geo.country": "id",
+            "twitter:image": "https://cdn.grid.id//crop/0x0:0x0/700x465/photo/2024/06/02/matahari-pengertian-ciri-ciri-20240602063348.jpg",
+            "twitter:site": "@grid_id",
+            "content_type": "Standard",
+            "sso_api": "https://account.grid.id/",
+            "content_site": "National Geographic",
+            "content_site_id": "13",
+            "content_subcategory": "Antariksa",
+            "og:type": "article",
+            "twitter:title": "Matahari: Pengertian, Ciri-ciri, serta Urutan Lapisan atau Bagiannya - Semua Halaman - National Geographic",
+            "content_id": "4098601",
+            "og:title": "Matahari: Pengertian, Ciri-ciri, serta Urutan Lapisan atau Bagiannya - Semua Halaman - National Geographic",
+            "content_eid": "8011",
+            "googlebot-news": "index,follow",
+            "fb:pages": "27821849095",
+            "msapplication-navbutton-color": "#000",
+            "fb:app_id": "1246251635468723",
+            "apple-mobile-web-app-status-bar-style": "#000",
+            "content_publisheddate": "2024-06-02 08:03:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Artikel ini menjelaskan pengertian matahari, ciri-ciri utamanya, serta urutan lapisan dan bagian yang ada di dalamnya.",
+            "apple-mobile-web-app-capable": "yes",
+            "content_aid1": "8011",
+            "content_url": "https://nationalgeographic.grid.id/read/134098601/matahari-pengertian-ciri-ciri-serta-urutan-lapisan-atau-bagiannya",
+            "og:url": "https://nationalgeographic.grid.id/read/134098601/matahari-pengertian-ciri-ciri-serta-urutan-lapisan-atau-bagiannya",
+            "geo.placename": "Indonesia",
+            "base": "https://nationalgeographic.grid.id/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdn.grid.id//crop/0x0:0x0/700x465/photo/2024/06/02/matahari-pengertian-ciri-ciri-20240602063348.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "PENENTUAN KUALITAS DAN KOMPOSISI MINYAK HASIL ...",
+      "htmlTitle": "PENENTUAN KUALITAS DAN \u003cb\u003eKOMPOSISI\u003c/b\u003e MINYAK HASIL ...",
+      "link": "https://jurnal.umsu.ac.id/index.php/agrium/article/view/239",
+      "displayLink": "jurnal.umsu.ac.id",
+      "snippet": "PENENTUAN KUALITAS DAN KOMPOSISI MINYAK HASIL EKSTRAKSI DARI BIJI BUNGA MATAHARI YANG TUMBUH DI DAERAH PANCURBATU KABUPATEN DELISERDANG.",
+      "htmlSnippet": "PENENTUAN KUALITAS DAN \u003cb\u003eKOMPOSISI\u003c/b\u003e MINYAK HASIL EKSTRAKSI DARI BIJI BUNGA \u003cb\u003eMATAHARI\u003c/b\u003e YANG TUMBUH DI DAERAH PANCURBATU KABUPATEN DELISERDANG.",
+      "formattedUrl": "https://jurnal.umsu.ac.id/index.php/agrium/article/view/239",
+      "htmlFormattedUrl": "https://jurnal.umsu.ac.id/index.php/agrium/article/view/239",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtfKsK-aqssns2OwPo-z_zG1sfNauNC_vp9OPZ0rCksKSn7hfAcXpFJZQ&s",
+            "width": "193",
+            "height": "129"
+          }
+        ],
+        "metatags": [
+          {
+            "dc.source.uri": "https://jurnal.umsu.ac.id/index.php/agrium",
+            "dc.creator.personalname": "Mariana Br. Surbakti",
+            "citation_author_institution": "Universitas Muhammadiyah Sumatera Utara",
+            "citation_title": "PENENTUAN KUALITAS DAN KOMPOSISI MINYAK HASIL EKSTRAKSI DARI BIJI BUNGA MATAHARI YANG TUMBUH DI DAERAH PANCURBATU KABUPATEN DELISERDANG",
+            "citation_journal_title": "AGRIUM: Jurnal Ilmu Pertanian",
+            "dc.format": "application/pdf",
+            "dc.rights": "Copyright (c)",
+            "citation_date": "2011",
+            "dc.type.articletype": "Articles",
+            "dc.identifier.uri": "https://jurnal.umsu.ac.id/index.php/agrium/article/view/239",
+            "citation_issn": "2442-7306",
+            "dc.source": "AGRIUM: Jurnal Ilmu Pertanian",
+            "dc.type": "Text.Serial.Journal",
+            "citation_language": "en",
+            "citation_pdf_url": "https://jurnal.umsu.ac.id/index.php/agrium/article/download/239/183",
+            "citation_author": "Mariana Br. Surbakti",
+            "dc.date.created": "2015-02-12",
+            "citation_abstract_html_url": "https://jurnal.umsu.ac.id/index.php/agrium/article/view/239",
+            "dc.date.datesubmitted": "2015-02-12",
+            "citation_issue": "3",
+            "dc.date.issued": "2015-02-12",
+            "dc.identifier.doi": "10.30596/agrium.v16i3.239",
+            "citation_doi": "10.30596/agrium.v16i3.239",
+            "dc.title": "PENENTUAN KUALITAS DAN KOMPOSISI MINYAK HASIL EKSTRAKSI DARI BIJI BUNGA MATAHARI YANG TUMBUH DI DAERAH PANCURBATU KABUPATEN DELISERDANG",
+            "dc.date.modified": "2015-02-12",
+            "dc.source.issue": "3",
+            "dc.identifier": "239",
+            "citation_volume": "16",
+            "dc.language": "en",
+            "dc.source.volume": "16",
+            "dc.source.issn": "2442-7306",
+            "gs_meta_revision": "1.1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://jurnal.umsu.ac.id/public/site/images/agrium/Sertifikat_Sinta_3_B1.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Hubungan Paparan Sinar Matahari dengan Microbiome Kita",
+      "htmlTitle": "Hubungan Paparan Sinar \u003cb\u003eMatahari\u003c/b\u003e dengan Microbiome Kita",
+      "link": "https://nusantics.com/en/blog/hubungan-paparan-sinar-matahari-dengan-microbiome-kita",
+      "displayLink": "nusantics.com",
+      "snippet": "Benarkahn paparan sinar matahari bisa meningkatkan komposisi microbiome dalam tubuh? Seberapa lama kita boleh terkena matahari dan apa saja dampaknya bagi ...",
+      "htmlSnippet": "Benarkahn paparan sinar \u003cb\u003ematahari\u003c/b\u003e bisa meningkatkan \u003cb\u003ekomposisi\u003c/b\u003e microbiome dalam tubuh? Seberapa lama kita boleh terkena \u003cb\u003ematahari\u003c/b\u003e dan apa saja dampaknya bagi&nbsp;...",
+      "formattedUrl": "https://nusantics.com/.../hubungan-paparan-sinar-matahari-dengan-microbi...",
+      "htmlFormattedUrl": "https://nusantics.com/.../hubungan-paparan-sinar-\u003cb\u003ematahari\u003c/b\u003e-dengan-microbi...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR36U2AnHCqWNNyse9BD8iqFGrmE6rTGIyDhHm-NoAKtCa-chyf-7sQrvMh&s",
+            "width": "224",
+            "height": "224"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://d1a39lp0neyni6.cloudfront.net/media/blog/image/282/d6c811b3cfb13e697069bc4b3a8c465e.jpg",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Hubungan Paparan Sinar Matahari dengan Microbiome Kita",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Benarkahn paparan sinar matahari bisa meningkatkan komposisi microbiome dalam tubuh? Seberapa lama kita boleh terkena matahari dan apa saja dampaknya bagi kulit? Mari, simak ulasannya di sini.",
+            "og:title": "Hubungan Paparan Sinar Matahari dengan Microbiome Kita",
+            "og:description": "Benarkahn paparan sinar matahari bisa meningkatkan komposisi microbiome dalam tubuh? Seberapa lama kita boleh terkena matahari dan apa saja dampaknya bagi kulit? Mari, simak ulasannya di sini.",
+            "twitter:image": "https://d1a39lp0neyni6.cloudfront.net/media/blog/image/282/d6c811b3cfb13e697069bc4b3a8c465e.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://d1a39lp0neyni6.cloudfront.net/media/blog/image/282/d6c811b3cfb13e697069bc4b3a8c465e.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pengaruh Komposisi Media Tanam dan Dosis Pupuk NPK ...",
+      "htmlTitle": "Pengaruh \u003cb\u003eKomposisi\u003c/b\u003e Media Tanam dan Dosis Pupuk NPK ...",
+      "link": "http://download.garuda.kemdikbud.go.id/article.php?article=1278857&val=7373&title=Pengaruh%20Komposisi%20Media%20Tanam%20dan%20Dosis%20Pupuk%20NPK%20Terhadap%20Pertumbuhan%20dan%20Hasil%20Bunga%20Matahari%20Helianthus%20annus%20L%20Varietas%20Little%20Leo",
+      "displayLink": "download.garuda.kemdikbud.go.id",
+      "snippet": "Budidaya bunga matahari tipe kerdil di. Indonesia masih tergolong sedikit, kebanyakan dari masyarakat hanya membudidayakan bunga matahari tipe.",
+      "htmlSnippet": "Budidaya bunga \u003cb\u003ematahari\u003c/b\u003e tipe kerdil di. Indonesia masih tergolong sedikit, kebanyakan dari masyarakat hanya membudidayakan bunga \u003cb\u003ematahari\u003c/b\u003e tipe.",
+      "formattedUrl": "http://download.garuda.kemdikbud.go.id/article.php?...Pengaruh%20Komp...",
+      "htmlFormattedUrl": "http://download.garuda.kemdikbud.go.id/article.php?...Pengaruh%20\u003cb\u003eKomp\u003c/b\u003e...",
+      "pagemap": {
+        "metatags": [
+          {
+            "moddate": "D:20190429151744+07'00'",
+            "creator": "Microsoft® Word 2016",
+            "creationdate": "D:20190429151736+07'00'",
+            "author": "HISKIA TARIGAN",
+            "producer": "Microsoft® Word 2016"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Minyak Biji Bunga Matahari, Ketahui Nutrisi serta Manfaatnya untuk ...",
+      "htmlTitle": "Minyak Biji Bunga \u003cb\u003eMatahari\u003c/b\u003e, Ketahui Nutrisi serta Manfaatnya untuk ...",
+      "link": "https://www.alodokter.com/minyak-biji-bunga-matahari-ketahui-nutrisi-serta-manfaatnya-untuk-kesehatan-dan-kecantikan",
+      "displayLink": "www.alodokter.com",
+      "snippet": "May 16, 2025 ... Kandungan utama dalam minyak biji bunga matahari adalah asam linoleat atau omega-6 yang merupakan asam lemak tak jenuh ganda. Selain itu, minyak ...",
+      "htmlSnippet": "May 16, 2025 \u003cb\u003e...\u003c/b\u003e Kandungan utama dalam minyak biji bunga \u003cb\u003ematahari\u003c/b\u003e adalah asam linoleat atau omega-6 yang merupakan asam lemak tak jenuh ganda. Selain itu, minyak&nbsp;...",
+      "formattedUrl": "https://www.alodokter.com/minyak-biji-bunga-matahari-ketahui-nutrisi-sert...",
+      "htmlFormattedUrl": "https://www.alodokter.com/minyak-biji-bunga-\u003cb\u003ematahari\u003c/b\u003e-ketahui-nutrisi-sert...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwpTiCqMej-LY9Z7mfrQyNS1LIGMgptEsEKLJ4MRCVrS6igfwA6tvIVQPq&s",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "remarketing_tags": "nutrisi",
+            "og:image": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1685324422/attached_image/minyak-biji-bunga-matahari-ketahui-nutrisi-serta-manfaatnya-untuk-kesehatan-dan-kecantikan.jpg",
+            "referer": "http://www.google.com",
+            "theme-color": "#3973cf",
+            "og:image:width": "650",
+            "article:published_time": "2023-05-29T08:41:02+07:00",
+            "twitter:card": "summary",
+            "og:site_name": "Alodokter",
+            "apple-mobile-web-app-title": "Alodokter",
+            "twitter:image:height": "433",
+            "og:image:type": "image/jpeg",
+            "postid": "1869722",
+            "og:description": "Minyak biji bunga matahari dapat menjadi pilihan yang lebih menyehatkan daripada minyak kelapa sawit. Meskipun dapat digunakan dalam memasak dan mengolah makanan, minyak biji bunga matahari",
+            "platform": "Mobile",
+            "article:modified_time": "2025-05-16T17:31:56+07:00",
+            "twitter:image:width": "650",
+            "criteo_account": "62444",
+            "alexaverifyid": "n_Kykr_OZlOYYRDisl_bHGZYccc",
+            "application-name": "Alodokter",
+            "msapplication-tilecolor": "#ffffff",
+            "og:type": "post",
+            "article:section": "Hidup Sehat",
+            "twitter:title": "Minyak Biji Bunga Matahari, Ketahui Nutrisi serta Manfaatnya untuk Kesehatan dan Kecantikan",
+            "article:publiher": "https://www.alodokter.com/",
+            "msvalidate.01": "C233DAA628883F2DD70CD54C789D0494",
+            "og:title": "Minyak Biji Bunga Matahari, Ketahui Nutrisi serta Manfaatnya untuk Kesehatan dan Kecantikan",
+            "og:image:height": "433",
+            "wellness_card": "false",
+            "og:updated_time": "2025-05-16T17:31:56+07:00",
+            "article:author": "https://www.alodokter.com/author/ariesta_alo/",
+            "facebook-domain-verification": "v9k4b24zt24dxdo39v3ab3gnt5ns5b",
+            "article:tag": "hidup sehat",
+            "twitter:image:src": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1685324422/attached_image/minyak-biji-bunga-matahari-ketahui-nutrisi-serta-manfaatnya-untuk-kesehatan-dan-kecantikan.jpg",
+            "fb:app_id": "331705120345014",
+            "apple-mobile-web-app-status-bar-style": "#3973cf",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Minyak biji bunga matahari dapat menjadi pilihan yang lebih menyehatkan daripada minyak kelapa sawit. Meskipun dapat digunakan dalam memasak dan mengolah makanan, minyak biji bunga matahari",
+            "posttype": "post",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "og:url": "https://www.alodokter.com/minyak-biji-bunga-matahari-ketahui-nutrisi-serta-manfaatnya-untuk-kesehatan-dan-kecantikan"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1685324422/attached_image/minyak-biji-bunga-matahari-ketahui-nutrisi-serta-manfaatnya-untuk-kesehatan-dan-kecantikan.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "KUALITAS MINYAK BUNGA MATAHARI KOMERSIAL DAN MINYAK ...",
+      "htmlTitle": "KUALITAS MINYAK BUNGA \u003cb\u003eMATAHARI\u003c/b\u003e KOMERSIAL DAN MINYAK ...",
+      "link": "https://ejournal.unsrat.ac.id/v3/index.php/JIS/article/download/403/325/811",
+      "displayLink": "ejournal.unsrat.ac.id",
+      "snippet": "Komposisi minyak biji bunga matahari berkisar antara 23-45%. Minyak biji bunga matahari mengandung asam linoleat 44-72% dan asam oleat 11,7%. Minyak biji ...",
+      "htmlSnippet": "\u003cb\u003eKomposisi\u003c/b\u003e minyak biji bunga \u003cb\u003ematahari\u003c/b\u003e berkisar antara 23-45%. Minyak biji bunga \u003cb\u003ematahari\u003c/b\u003e mengandung asam linoleat 44-72% dan asam oleat 11,7%. Minyak biji&nbsp;...",
+      "formattedUrl": "https://ejournal.unsrat.ac.id/v3/index.php/JIS/article/download/403/.../811",
+      "htmlFormattedUrl": "https://ejournal.unsrat.ac.id/v3/index.php/JIS/article/download/403/.../811",
+      "pagemap": {
+        "metatags": [
+          {
+            "moddate": "D:20120918121227",
+            "creator": "Microsoft® Office Word 2007",
+            "creationdate": "D:20120918121227",
+            "author": "Lefrand Sumampouw",
+            "producer": "Microsoft® Office Word 2007"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    }
+  ]
+}
