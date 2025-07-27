@@ -15,6 +15,7 @@
 		<PackageReference Include="LangChain.Providers.Ollama" Version="0.17.1-dev.48" />
 		<PackageReference Include="LangChain.Providers.OpenAI" Version="0.17.1-dev.48" />
 		<PackageReference Include="LangChain.Splitters.CSharp" Version="0.17.1-dev.51" />
+		<PackageReference Include="OpenAI" Version="2.2.0" />
 		
 	</ItemGroup>
 	

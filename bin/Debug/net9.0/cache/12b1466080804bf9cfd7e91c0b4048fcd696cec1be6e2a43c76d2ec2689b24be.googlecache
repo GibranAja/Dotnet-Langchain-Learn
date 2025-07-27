@@ -1,0 +1,533 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - tahu sutra tahu sumedang culinary uses",
+        "totalResults": "8530",
+        "searchTerms": "tahu sutra tahu sumedang culinary uses",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - tahu sutra tahu sumedang culinary uses",
+        "totalResults": "8530",
+        "searchTerms": "tahu sutra tahu sumedang culinary uses",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ]
+  },
+  "context": {
+    "title": "LangSearch"
+  },
+  "searchInformation": {
+    "searchTime": 0.175577,
+    "formattedSearchTime": "0.18",
+    "totalResults": "8530",
+    "formattedTotalResults": "8,530"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "1+ Hundred Tahu Sutra Royalty-Free Images, Stock Photos ...",
+      "htmlTitle": "1+ Hundred \u003cb\u003eTahu Sutra\u003c/b\u003e Royalty-Free Images, Stock Photos ...",
+      "link": "https://www.shutterstock.com/search/tahu-sutra",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Tahu Goreng or Fried Tofu, Indonesia traditional food, made from fermented soybean extract. ... Tahu Kuning Bandung, Tahu Sutra Sumedang. tahu susu goreng ...",
+      "htmlSnippet": "\u003cb\u003eTahu Goreng\u003c/b\u003e or Fried Tofu, Indonesia traditional \u003cb\u003efood\u003c/b\u003e, made from fermented soybean extract. ... Tahu Kuning Bandung, \u003cb\u003eTahu Sutra\u003c/b\u003e Sumedang. tahu susu goreng&nbsp;...",
+      "formattedUrl": "https://www.shutterstock.com/search/tahu-sutra",
+      "htmlFormattedUrl": "https://www.shutterstock.com/search/\u003cb\u003etahu\u003c/b\u003e-\u003cb\u003esutra\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS4_tT2P7SZa4bzI2DDkGhNMw9RJSQlKabTin9NQiq6ZUJd7CtNz_iog0&s",
+            "width": "262",
+            "height": "192"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.shutterstock.com/shutterstock/photos/2431680989/display_1500/stock-photo-uncooked-white-tofu-on-a-wooden-plate-isolated-on-white-background-2431680989.jpg",
+            "twitter:card": "summary_large_image",
+            "og:type": "website",
+            "og:image:width": "1500",
+            "twitter:site": "@shutterstock",
+            "og:site_name": "Shutterstock",
+            "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+            "og:title": "1+ Hundred Tahu Sutra Royalty-Free Images, Stock Photos & Pictures | Shutterstock",
+            "og:image:height": "1000",
+            "og:ttl": "604800",
+            "og:url": "https://www.shutterstock.com/search/tahu-sutra",
+            "og:description": "Find 1+ Hundred Tahu Sutra stock images in HD and millions of other royalty-free stock photos, 3D objects, illustrations and vectors in the Shutterstock collection. Thousands of new, high-quality pictures added every day."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.shutterstock.com/shutterstock/photos/2431680989/display_1500/stock-photo-uncooked-white-tofu-on-a-wooden-plate-isolated-on-white-background-2431680989.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "66 easy and tasty tahu recipes by home cooks - Cookpad",
+      "htmlTitle": "66 easy and tasty \u003cb\u003etahu\u003c/b\u003e recipes by home cooks - Cookpad",
+      "link": "https://cookpad.com/eng/search/tahu",
+      "displayLink": "cookpad.com",
+      "snippet": "ekitchen's cooksnap of when they made Indonesian Deep Fried Stuffed Tofu (Tahu Isi). 1 Cooksnap. tofu (the fried one) you can get it in any Asian store • ...",
+      "htmlSnippet": "ekitchen&#39;s cooksnap of when they made Indonesian Deep Fried Stuffed Tofu (\u003cb\u003eTahu\u003c/b\u003e Isi). 1 Cooksnap. tofu (the fried one) you can get it in any Asian store •&nbsp;...",
+      "formattedUrl": "https://cookpad.com/eng/search/tahu",
+      "htmlFormattedUrl": "https://cookpad.com/eng/search/\u003cb\u003etahu\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN00qvRY0-tUuzYguvLvkkj2dbr6fXABtXjzE7ppI5bsUCdUQCGuF3lAo&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "thumbnail": [
+          {
+            "src": "https://img-global.cpcdn.com/recipes/1ff651e5c23c5365/1200x630cq80/photo.jpg"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#da532c",
+            "apple-itunes-app": "app-id=585332633, app-argument=https://cookpad.com/eng/search/tahu",
+            "og:image": "https://img-global.cpcdn.com/recipes/1ff651e5c23c5365/1200x630cq80/photo.jpg",
+            "og:type": "website",
+            "og:image:width": "1200",
+            "thumbnail": "https://img-global.cpcdn.com/recipes/1ff651e5c23c5365/1200x630cq80/photo.jpg",
+            "og:site_name": "Cookpad",
+            "al:ios:app_name": "Cookpad",
+            "msvalidate.01": "284DFFB29E8DABE16C08409C5C68F3C6",
+            "og:title": "66 easy and tasty tahu recipes by home cooks",
+            "og:image:height": "630",
+            "al:android:package": "com.mufumbo.android.recipe.search",
+            "turbo-cache-control": "no-preview",
+            "al:ios:url": "https://cookpad.com/eng/search/tahu",
+            "csrf-param": "authenticity_token",
+            "msapplication-tileimage": "//global-web-assets.cpcdn.com/assets/favicons/mstile-144x144-cb5c022c1ab1de670de7a47b739045a8d1ba7a493b7e0da794bee5cc6bb31b62.png",
+            "og:description": "Huge variety of great tahu recipes published by home cooks like you!",
+            "al:ios:app_store_id": "585332633",
+            "al:android:url": "https://cookpad.com/eng/search/tahu",
+            "viewport": "viewport-fit=cover, width=device-width, initial-scale=1.0",
+            "csrf-token": "kvlM_zM90LpppLA5M3mvYc6iT25WKss3-D5KT3wVCR9FIXUxydQeZltPERJweUA2XwA_zHaj4GeNlSqLY54jyw",
+            "og:url": "https://cookpad.com/eng/search/tahu",
+            "al:android:app_name": "Cookpad"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img-global.cpcdn.com/recipes/1ff651e5c23c5365/1200x630cq80/photo.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "5+ Hundred Tahu Pong Royalty-Free Images, Stock Photos ...",
+      "htmlTitle": "5+ Hundred \u003cb\u003eTahu\u003c/b\u003e Pong Royalty-Free Images, Stock Photos ...",
+      "link": "https://www.shutterstock.com/search/tahu-pong?page=2",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Tahu Sumedang (Sumedang Tofu) is a typical Indonesian food from Sumedang Regency, West Java. ... Tahu Sutra Gorang, Indonesian local food called Tahu Crispy ...",
+      "htmlSnippet": "\u003cb\u003eTahu Sumedang\u003c/b\u003e (Sumedang Tofu) is a typical Indonesian \u003cb\u003efood\u003c/b\u003e from Sumedang Regency, West Java. ... \u003cb\u003eTahu Sutra\u003c/b\u003e Gorang, Indonesian local \u003cb\u003efood\u003c/b\u003e called Tahu Crispy&nbsp;...",
+      "formattedUrl": "https://www.shutterstock.com/search/tahu-pong?page=2",
+      "htmlFormattedUrl": "https://www.shutterstock.com/search/\u003cb\u003etahu\u003c/b\u003e-pong?page=2",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZgV8bmq4HpzOjXZNeU_mf_8iu_dezF-K1IMN4kJzNiBUsFwVQFZnGpP_&s",
+            "width": "262",
+            "height": "192"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.shutterstock.com/shutterstock/photos/2575141405/display_1500/stock-photo-semarang-indonesia-january-a-man-enjoys-tahu-gimbal-a-typical-dish-of-semarang-city-2575141405.jpg",
+            "twitter:card": "summary_large_image",
+            "og:type": "website",
+            "og:image:width": "1500",
+            "twitter:site": "@shutterstock",
+            "og:site_name": "Shutterstock",
+            "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+            "og:title": "5+ Hundred Tahu Pong Royalty-Free Images, Stock Photos & Pictures | Shutterstock",
+            "og:image:height": "1000",
+            "og:ttl": "604800",
+            "og:url": "https://www.shutterstock.com/search/tahu-pong",
+            "og:description": "Find 5+ Hundred Tahu Pong stock images in HD and millions of other royalty-free stock photos, 3D objects, illustrations and vectors in the Shutterstock collection. Thousands of new, high-quality pictures added every day."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.shutterstock.com/shutterstock/photos/2575141405/display_1500/stock-photo-semarang-indonesia-january-a-man-enjoys-tahu-gimbal-a-typical-dish-of-semarang-city-2575141405.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mapo Tofu Recipe | TikTok",
+      "htmlTitle": "Mapo Tofu Recipe | TikTok",
+      "link": "https://www.tiktok.com/channel/mapo-tofu-recipe?lang=en",
+      "displayLink": "www.tiktok.com",
+      "snippet": "Resep mapo tofu Bahan: ~1 kotak tahu sutra ~daging ayam cincang marinasi ... Resep Olahan Tahu Sumedang · Tofu Hibachi Buffet · Recette Fufu Sauce Gombo.",
+      "htmlSnippet": "Resep mapo tofu Bahan: ~1 kotak \u003cb\u003etahu sutra\u003c/b\u003e ~daging ayam cincang marinasi ... Resep Olahan \u003cb\u003eTahu Sumedang\u003c/b\u003e &middot; Tofu Hibachi Buffet &middot; Recette Fufu Sauce Gombo.",
+      "formattedUrl": "https://www.tiktok.com/channel/mapo-tofu-recipe?lang=en",
+      "htmlFormattedUrl": "https://www.tiktok.com/channel/mapo-tofu-recipe?lang=en",
+      "pagemap": {
+        "metatags": [
+          {
+            "twitter:app:id:googleplay": "com.zhiliaoapp.musically",
+            "twitter:card": "summary",
+            "og:image:width": "360",
+            "og:site_name": "TikTok",
+            "applicable-device": "pc, mobile",
+            "al:android:package": "com.zhiliaoapp.musically",
+            "pumbaa-ctx": "login=0,ftc=0",
+            "al:ios:url": "snssdk1233://user/profile/",
+            "twitter:app:id:iphone": "835599320",
+            "og:description": "16.7M posts. Discover videos related to Mapo Tofu Recipe on TikTok. See more videos about Mapo Tofu Pizza Recipe, Recette Fufu Sauce Gombo, Nobu Crispy Tofu Recipe, Saoto Soup Recipe, Gonfo Recipe, Taho Recipe.",
+            "al:ios:app_store_id": "835599320",
+            "twitter:site": "TikTok",
+            "og:type": "website",
+            "twitter:title": "Mapo Tofu Recipe | TikTok",
+            "og:image:alt": "Mapo Tofu Recipe | TikTok",
+            "al:ios:app_name": "musical.ly",
+            "og:title": "Mapo Tofu Recipe | TikTok",
+            "og:image:height": "360",
+            "google": "notranslate",
+            "al:android:url": "snssdk1233://user/profile/",
+            "fb:app_id": "597615686992125",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+            "twitter:description": "16.7M posts. Discover videos related to Mapo Tofu Recipe on TikTok. See more videos about Mapo Tofu Pizza Recipe, Recette Fufu Sauce Gombo, Nobu Crispy Tofu Recipe, Saoto Soup Recipe, Gonfo Recipe, Taho Recipe.",
+            "og:url": "https://www.tiktok.com/channel/mapo-tofu-recipe",
+            "al:android:app_name": "musical.ly",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "6+ Hundred Tahu Putih Royalty-Free Images, Stock Photos ...",
+      "htmlTitle": "6+ Hundred \u003cb\u003eTahu\u003c/b\u003e Putih Royalty-Free Images, Stock Photos ...",
+      "link": "https://www.shutterstock.com/search/tahu-putih",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Tahu Putih Sutra Indonesian people's favorite dish. South ... food concept. Tahu putih goreng · Tahu sumedang · Tahu kuning · Tahu pong · Tahu putih top view.",
+      "htmlSnippet": "\u003cb\u003eTahu\u003c/b\u003e Putih \u003cb\u003eSutra\u003c/b\u003e Indonesian people&#39;s favorite dish. South ... \u003cb\u003efood\u003c/b\u003e concept. \u003cb\u003eTahu\u003c/b\u003e putih goreng &middot; \u003cb\u003eTahu sumedang\u003c/b\u003e &middot; \u003cb\u003eTahu\u003c/b\u003e kuning &middot; \u003cb\u003eTahu\u003c/b\u003e pong &middot; \u003cb\u003eTahu\u003c/b\u003e putih top view.",
+      "formattedUrl": "https://www.shutterstock.com/search/tahu-putih",
+      "htmlFormattedUrl": "https://www.shutterstock.com/search/\u003cb\u003etahu\u003c/b\u003e-putih",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1-r-LLuR85bGYllo4ZpHy3suYmDEtFZXnUli28c8DPfnHQ8Fukr32Fw3u&s",
+            "width": "248",
+            "height": "203"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.shutterstock.com/shutterstock/photos/2510937797/display_1500/stock-photo-tahu-putih-or-white-tofu-on-wooden-plate-stacked-piled-isolated-on-white-background-2510937797.jpg",
+            "twitter:card": "summary_large_image",
+            "og:type": "website",
+            "og:image:width": "1500",
+            "twitter:site": "@shutterstock",
+            "og:site_name": "Shutterstock",
+            "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+            "og:title": "6+ Hundred Tahu Putih Royalty-Free Images, Stock Photos & Pictures | Shutterstock",
+            "og:image:height": "1127",
+            "og:ttl": "604800",
+            "og:url": "https://www.shutterstock.com/search/tahu-putih",
+            "og:description": "Find 6+ Hundred Tahu Putih stock images in HD and millions of other royalty-free stock photos, 3D objects, illustrations and vectors in the Shutterstock collection. Thousands of new, high-quality pictures added every day."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.shutterstock.com/shutterstock/photos/2510937797/display_1500/stock-photo-tahu-putih-or-white-tofu-on-wooden-plate-stacked-piled-isolated-on-white-background-2510937797.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tofu Pudding, Soy Milk Pudding or Wedang Tahu Tahwa 19587292 ...",
+      "htmlTitle": "Tofu Pudding, Soy Milk Pudding or Wedang \u003cb\u003eTahu\u003c/b\u003e Tahwa 19587292 ...",
+      "link": "https://www.vecteezy.com/photo/19587292-tofu-pudding-soy-milk-pudding-or-wedang-tahu-tahwa",
+      "displayLink": "www.vecteezy.com",
+      "snippet": "Silk Smooth Tofu or Tahu Sutra on Plastic Supermarket Packaging. ... Tahu Goreng or Fried Tofu, Indonesia traditional food, made from fermented soybean extract.",
+      "htmlSnippet": "Silk Smooth Tofu or \u003cb\u003eTahu Sutra\u003c/b\u003e on Plastic Supermarket Packaging. ... \u003cb\u003eTahu Goreng\u003c/b\u003e or Fried Tofu, Indonesia traditional \u003cb\u003efood\u003c/b\u003e, made from fermented soybean extract.",
+      "formattedUrl": "https://www.vecteezy.com/.../19587292-tofu-pudding-soy-milk-pudding-o...",
+      "htmlFormattedUrl": "https://www.vecteezy.com/.../19587292-tofu-pudding-soy-milk-pudding-o...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJNQzSCH-xhs9MoEbzJFCb3mFqVK16IVdSKLU7AiN7GW0OgVe3a78J4sC&s",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ff7900",
+            "og:image": "https://static.vecteezy.com/system/resources/previews/019/587/292/large_2x/tofu-pudding-soy-milk-pudding-or-wedang-tahu-tahwa-photo.jpg",
+            "theme-color": "#ff7900",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Vecteezy",
+            "analytics_data": "{\"user_status_start\":\"new\",\"user_status_updated\":\"\",\"user_plan\":\"\",\"user_survey\":\"\",\"split_test\":\"\",\"test_block\":6,\"bot_score\":1,\"ja3_hash\":\"36ff100d8fac6fe1dc2e3a7b09d01c85\",\"js_detect_passed\":false,\"verified_bot\":true,\"snowplow_collector\":\"a.vecteezy.com\",\"snowplow_app_id\":\"vecteezy_production\",\"cloudflare_country\":\"US\",\"environment\":\"Live\",\"last_search_terms\":null,\"last_show_page\":19587292,\"last_show_content_type\":\"photo\",\"last_show_resource_type\":\"Pro\",\"locale\":\"en\",\"page_type\":\"Show\",\"pageview_guid\":\"214bbd12-78b0-49c7-af2c-0e752de60e8a\",\"session_guid\":\"5b5b5955-a73f-4976-8914-379ae5e55bc5\",\"sign_in_type\":null,\"feature_flags\":\"browse_pages_v3,bundles_promo_2nd_page\"}",
+            "og:title": "Tofu Pudding, Soy Milk Pudding or Wedang Tahu Tahwa",
+            "turbo-cache-control": "no-cache",
+            "csrf-param": "authenticity_token",
+            "og:description": "Download the Tofu Pudding, Soy Milk Pudding or Wedang Tahu Tahwa 19587292 royalty-free Stock Photo from Vecteezy for your project and explore over a million other images and backgrounds.",
+            "twitter:creator": "@Vecteezy",
+            "wot-verification": "9ce3c11d5b29e35b3823",
+            "twitter:site": "@Vecteezy",
+            "og:locale:alternate": "de_DE",
+            "viewport": "width=device-width, initial-scale=1.0, minimum-scale=1.0",
+            "csrf-token": "zd7XfMomCJhVmEgN0X3y6gncP0mA8Zy0ucnUqb8XXEv1Jcm79_EB5bkwcL_0AVB3l0kKJhykgu3eMZIaufXiew",
+            "og:locale": "en_US",
+            "og:url": "https://www.vecteezy.com/photo/19587292-tofu-pudding-soy-milk-pudding-or-wedang-tahu-tahwa",
+            "turbo-prefetch": "false"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://static.vecteezy.com/system/resources/previews/019/587/292/large_2x/tofu-pudding-soy-milk-pudding-or-wedang-tahu-tahwa-photo.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Berbagai Macam Jenis Tahu Yang Perlu Kamu Ketahui - Cairo Food",
+      "htmlTitle": "Berbagai Macam Jenis \u003cb\u003eTahu\u003c/b\u003e Yang Perlu Kamu Ketahui - Cairo \u003cb\u003eFood\u003c/b\u003e",
+      "link": "https://cairofood.id/berbagai-macam-jenis-tahu/",
+      "displayLink": "cairofood.id",
+      "snippet": "Jun 29, 2021 ... Tahu Kuning · Tahu Sutera · Tahu Pong · Tahu Susu · Tahu Putih · Tahu Bulat · Tahu Sumedang · Tahu Air.",
+      "htmlSnippet": "Jun 29, 2021 \u003cb\u003e...\u003c/b\u003e Tahu Kuning &middot; \u003cb\u003eTahu Sutera\u003c/b\u003e &middot; Tahu Pong &middot; Tahu Susu &middot; Tahu Putih &middot; Tahu Bulat &middot; \u003cb\u003eTahu Sumedang\u003c/b\u003e &middot; Tahu Air.",
+      "formattedUrl": "https://cairofood.id/berbagai-macam-jenis-tahu/",
+      "htmlFormattedUrl": "https://cairofood.id/berbagai-macam-jenis-\u003cb\u003etahu\u003c/b\u003e/",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:type": "article",
+            "article:section": "Artikel",
+            "article:published_time": "2021-06-29T18:36:17+07:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Berbagai Macam Jenis Tahu Yang Perlu Kamu Ketahui - Cairo Food",
+            "og:site_name": "Cairo Food",
+            "og:title": "Berbagai Macam Jenis Tahu Yang Perlu Kamu Ketahui - Cairo Food",
+            "twitter:label1": "Written by",
+            "twitter:label2": "Time to read",
+            "og:updated_time": "2021-08-09T09:06:02+07:00",
+            "msapplication-tileimage": "https://cairofood.id/wp-content/uploads/cropped-site-icon-cairo-food-270x270.png",
+            "og:description": "Ternyata tahu memiliki beragam jenis mulai dari tahu putih biasa, tahu yang sudah dibumbui hingga tahu yang mengandung susu",
+            "twitter:creator": "@cairofoodID",
+            "article:publisher": "https://www.facebook.com/cairofood.id/",
+            "twitter:data1": "Yusri Mawati Warasi",
+            "article:tag": "indonesia",
+            "twitter:data2": "9 minutes",
+            "twitter:site": "@cairofoodID",
+            "article:modified_time": "2021-08-09T09:06:02+07:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Ternyata tahu memiliki beragam jenis mulai dari tahu putih biasa, tahu yang sudah dibumbui hingga tahu yang mengandung susu",
+            "og:locale": "en_US",
+            "og:url": "https://cairofood.id/berbagai-macam-jenis-tahu/"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Effect of different coagulants on yield and quality of tofu from soymilk ...",
+      "htmlTitle": "Effect of different coagulants on yield and quality of tofu from soymilk ...",
+      "link": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+      "displayLink": "www.researchgate.net",
+      "snippet": "... tahu sutra diharapkan dapat meningkatkan mutu tekstur tahu sutra yang dihasilkan. ... Tofu is widely used around the world as an alternative to meat in the food ...",
+      "htmlSnippet": "... \u003cb\u003etahu sutra\u003c/b\u003e diharapkan dapat meningkatkan mutu tekstur \u003cb\u003etahu sutra\u003c/b\u003e yang dihasilkan. ... Tofu is widely \u003cb\u003eused\u003c/b\u003e around the world as an alternative to meat in the \u003cb\u003efood\u003c/b\u003e&nbsp;...",
+      "formattedUrl": "https://www.researchgate.net/.../226424131_Effect_of_different_coagulant...",
+      "htmlFormattedUrl": "https://www.researchgate.net/.../226424131_Effect_of_different_coagulant...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAa8-pHWvH-qGkv71Qm9rfrNoxw6i7ELfip4ndPU0tq1iqh0X-d7xZ3Q&s",
+            "width": "194",
+            "height": "260"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.researchgate.net/images/template/default_publication_preview_large.png",
+            "citation_publication_date": "2007/01/01",
+            "twitter:card": "summary",
+            "citation_title": "Effect of different coagulants on yield and quality of tofu from soymilk",
+            "og:site_name": "ResearchGate",
+            "twitter:url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "citation_publisher": "Springer Nature",
+            "citation_journal_title": "European Food Research and Technology",
+            "twitter:creator": "@ResearchGate",
+            "og:description": "Request PDF | Effect of different coagulants on yield and quality of tofu from soymilk | Soymilk tofu coagulated with four indigenous coagulants was compared in terms of chemical, textural, colour, and sensory attributes with calcium... | Find, read and cite all the research you need on ResearchGate",
+            "citation_issn": "1438-2377",
+            "twitter:site": "@ResearchGate",
+            "og:site": "ResearchGate",
+            "citation_fulltext_html_url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "citation_lastpage": "472",
+            "application-name": "ResearchGate",
+            "og:type": "website",
+            "rg-request-token": "aad-eMr1UjAMHTIuGZgJFqQTaEFI+r854xkR5v63WFN6IqXl0BDZQzKQJJ3eAUuxpsk0G5MoAEk0XsNVMGykMZsgGowZnHlsD2draI600rsvZusU0HpQWnpN7x5esZvrWuNzk71IUunKzgt1PdDQBzpeNwX+nbosBzkrtNwq1GFjVLB012TKNnivwQDfvqnuTqummF5/+K9wIb4KLdu3m/Y4DqMGIxLMArmBZqwypV0hG2bypzWjQDNTQLpx7JwdVnIWjN7FMvETRXe6PZN85rU=",
+            "og:title": "Effect of different coagulants on yield and quality of tofu from soymilk | Request PDF",
+            "citation_author": "Veronica A. Obatolu",
+            "citation_abstract_html_url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "citation_issue": "3",
+            "referrer": "origin",
+            "citation_firstpage": "467",
+            "viewport": "width=device-width,initial-scale=1",
+            "citation_doi": "10.1007/s00217-006-0558-8",
+            "rg:id": "PB:226424131",
+            "dc.identifier": "http://dx.doi.org/10.1007/s00217-006-0558-8",
+            "citation_volume": "226",
+            "og:url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "gs_meta_revision": "1.1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.researchgate.net/images/template/default_publication_preview_large.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Jual Tahu Sutera Super enak tahu sutra fresh made by order tofu ...",
+      "htmlTitle": "Jual \u003cb\u003eTahu Sutera\u003c/b\u003e Super enak \u003cb\u003etahu sutra\u003c/b\u003e fresh made by order tofu ...",
+      "link": "https://www.tokopedia.com/ringcollection/tahu-sutera-super-enak-tahu-sutra-fresh-made-by-order-tofu-enak",
+      "displayLink": "www.tokopedia.com",
+      "snippet": "Pembayaran Aman · Tokopedia Care 24 Jam ; Lainnya di toko ini. Lihat Semua ; Detail produk. Etalasefood n drink. Kategori. Home · Makanan & Minuman · Sayur · Tahu ...",
+      "htmlSnippet": "Pembayaran Aman &middot; Tokopedia Care 24 Jam ; Lainnya di toko ini. Lihat Semua ; Detail produk. Etalase\u003cb\u003efood\u003c/b\u003e n drink. Kategori. Home &middot; Makanan &amp; Minuman &middot; Sayur &middot; \u003cb\u003eTahu\u003c/b\u003e&nbsp;...",
+      "formattedUrl": "https://www.tokopedia.com/.../tahu-sutera-super-enak-tahu-sutra-fresh-mad...",
+      "htmlFormattedUrl": "https://www.tokopedia.com/.../\u003cb\u003etahu\u003c/b\u003e-sutera-super-enak-\u003cb\u003etahu\u003c/b\u003e-\u003cb\u003esutra\u003c/b\u003e-fresh-mad...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCtPiGbEOKTSkH6VnEOyGRmgnV9a3DtzzQxBQEJwjatW280Wccfp2GKJ0&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/5/14/564fcacb-3b3e-429d-8739-99272a6f1690.jpg",
+            "theme-color": "var(--GN500, #00AA5B)",
+            "og:image:width": "500",
+            "twitter:card": "product",
+            "og:site_name": "Tokopedia",
+            "apple-mobile-web-app-title": "Tokopedia",
+            "twitter:label1": "Harga",
+            "branch:deeplink:$android_deeplink_path": "product/850065028",
+            "product:price:amount": "5000",
+            "twitter:label2": "Lokasi",
+            "title": "Jual Tahu Sutera Super enak tahu sutra fresh made by order tofu enak - Kota Administrasi Jakarta Barat - Ring Collection",
+            "og:description": "Beli Tahu Sutera Super enak tahu sutra fresh made by order tofu enak di Ring Collection. Promo khusus pengguna baru di aplikasi Tokopedia!",
+            "twitter:creator": "@tokopedia",
+            "twitter:image": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/5/14/564fcacb-3b3e-429d-8739-99272a6f1690.jpg",
+            "twitter:data1": "Rp 5.000",
+            "twitter:data2": "Kota Administrasi Jakarta Barat",
+            "twitter:site": "@tokopedia",
+            "page-type": "productpage",
+            "branch:deeplink:$ios_deeplink_path": "product/850065028",
+            "og:type": "product",
+            "twitter:title": "Tahu Sutera Super enak tahu sutra fresh made by order tofu enak di Ring Collection | Tokopedia",
+            "handheldfriendly": "true",
+            "msvalidate.01": "3104E882307BB6900F56D266DC8320F6",
+            "og:title": "Tahu Sutera Super enak tahu sutra fresh made by order tofu enak di Ring Collection | Tokopedia",
+            "og:image:height": "500",
+            "branch:deeplink:$desktop_url": "https://www.tokopedia.com/ringcollection/tahu-sutera-super-enak-tahu-sutra-fresh-made-by-order-tofu-enak",
+            "msapplication-navbutton-color": "var(--GN500, #00AA5B)",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "initial-scale=1, minimum-scale=1, maximum-scale=5, user-scalable=no, width=device-width",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Beli Tahu Sutera Super enak tahu sutra fresh made by order tofu enak di Ring Collection. Promo khusus pengguna baru di aplikasi Tokopedia!",
+            "product:price:currency": "IDR",
+            "og:locale": "en_US",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.tokopedia.com/ringcollection/tahu-sutera-super-enak-tahu-sutra-fresh-made-by-order-tofu-enak",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://images.tokopedia.net/img/cache/500-square/VqbcmM/2020/5/14/564fcacb-3b3e-429d-8739-99272a6f1690.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Jual tahu sumedang mentah Harga Terbaik & Termurah Juli 2025 ...",
+      "htmlTitle": "Jual \u003cb\u003etahu sumedang\u003c/b\u003e mentah Harga Terbaik &amp; Termurah Juli 2025 ...",
+      "link": "https://shopee.co.id/search?keyword=tahu%20sumedang%20mentah",
+      "displayLink": "shopee.co.id",
+      "snippet": "Tahu sutra joss segar, tahu sutra, tahu sutra fresh. custom ... flag-label Pureeland Tepung Serbaguna MPASI / Multi Purpose Cooking Flour / Bahan MPASI.",
+      "htmlSnippet": "\u003cb\u003eTahu sutra\u003c/b\u003e joss segar, \u003cb\u003etahu sutra\u003c/b\u003e, \u003cb\u003etahu sutra\u003c/b\u003e fresh. custom ... flag-label Pureeland Tepung Serbaguna MPASI / Multi \u003cb\u003ePurpose Cooking\u003c/b\u003e Flour / Bahan MPASI.",
+      "formattedUrl": "https://shopee.co.id/search?keyword=tahu%20sumedang%20mentah",
+      "htmlFormattedUrl": "https://shopee.co.id/search?keyword=\u003cb\u003etahu\u003c/b\u003e%20\u003cb\u003esumedang\u003c/b\u003e%20mentah",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIVgKPKrhPDb8M9YdtYUC_tTJHz0osmfNR0_4x0KKlXwnJWF_92bweXWKz&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://down-id.img.susercontent.com/file/id-11134207-7rasa-m1zqrailmc4te1",
+            "theme-color": "#ee4d2d",
+            "og:type": "website",
+            "al:ios:app_name": "Shopee ID",
+            "apple-mobile-web-app-title": "Shopee",
+            "og:title": "Jual tahu sumedang mentah Harga Terbaik & Termurah Juli 2025 | Shopee Indonesia",
+            "al:android:package": "com.shopee.id",
+            "al:web:url": "https://shopee.co.id/search?keyword=tahu%20sumedang%20mentah",
+            "al:ios:url": "shopeeid://home?navRoute=eyJwYXRocyI6W3sid2ViTmF2Ijp7InVybCI6Imh0dHBzOi8vc2hvcGVlLmNvLmlkL3NlYXJjaD9rZXl3b3JkPXRhaHUlMjBzdW1lZGFuZyUyMG1lbnRhaCJ9fV19&screen_url=aHR0cHM6Ly9zaG9wZWUuY28uaWQvc2VhcmNoP2tleXdvcmQ9dGFodSUyMHN1bWVkYW5nJTIwbWVudGFo&stm_medium=referral&stm_source=rw",
+            "og:description": "Dapatkan Harga tahu sumedang mentah Murah & Terbaru. Beli tahu sumedang mentah Aman & Garansi Shopee. Bisa COD ✓ Promo & Diskon Terlengkap ✓ Cashback ✓ Gratis Ongkir ✓ Cicilan 0%.",
+            "al:ios:app_store_id": "959841443",
+            "al:android:url": "shopeeid://home?navRoute=eyJwYXRocyI6W3sid2ViTmF2Ijp7InVybCI6Imh0dHBzOi8vc2hvcGVlLmNvLmlkL3NlYXJjaD9rZXl3b3JkPXRhaHUlMjBzdW1lZGFuZyUyMG1lbnRhaCJ9fV19&screen_url=aHR0cHM6Ly9zaG9wZWUuY28uaWQvc2VhcmNoP2tleXdvcmQ9dGFodSUyMHN1bWVkYW5nJTIwbWVudGFo&stm_medium=referral&stm_source=rw",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "width=device-width,initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=no,viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "shopee:version": "sw-WEBFE-MKP-2025.07.v3-1-1",
+            "mobile-web-app-capable": "yes",
+            "shopee:git-sha": "93931f8d73f8a3d6f9c5a75da4f5b2bad6daf20c",
+            "og:url": "https://shopee.co.id/search?keyword=tahu%20sumedang%20mentah",
+            "apple-touch-fullscreen": "yes",
+            "al:android:app_name": "Shopee ID"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://down-id.img.susercontent.com/file/id-11134258-7rbk6-m7byijxbeg4ed7"
+          }
+        ]
+      }
+    }
+  ]
+}

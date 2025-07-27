@@ -14,7 +14,8 @@
           "LangChain.Providers.Automatic1111": "0.17.1-dev.48",
           "LangChain.Providers.Ollama": "0.17.1-dev.48",
           "LangChain.Providers.OpenAI": "0.17.1-dev.48",
-          "LangChain.Splitters.CSharp": "0.17.1-dev.51"
+          "LangChain.Splitters.CSharp": "0.17.1-dev.51",
+          "OpenAI": "2.2.0"
         },
         "runtime": {
           "latihan1.dll": {}
@@ -65,7 +66,7 @@
       "Azure.AI.OpenAI/2.1.0": {
         "dependencies": {
           "Azure.Core": "1.44.1",
-          "OpenAI": "2.1.0"
+          "OpenAI": "2.2.0"
         },
         "runtime": {
           "lib/netstandard2.0/Azure.AI.OpenAI.dll": {
@@ -77,7 +78,7 @@
       "Azure.Core/1.44.1": {
         "dependencies": {
           "Microsoft.Bcl.AsyncInterfaces": "9.0.3",
-          "System.ClientModel": "1.2.1",
+          "System.ClientModel": "1.4.2",
           "System.Diagnostics.DiagnosticSource": "8.0.1",
           "System.Memory.Data": "9.0.5",
           "System.Numerics.Vectors": "4.5.0",
@@ -978,15 +979,14 @@
           }
         }
       },
-      "OpenAI/2.1.0": {
+      "OpenAI/2.2.0": {
         "dependencies": {
-          "System.ClientModel": "1.2.1",
-          "System.Diagnostics.DiagnosticSource": "8.0.1"
+          "System.ClientModel": "1.4.2"
         },
         "runtime": {
-          "lib/net6.0/OpenAI.dll": {
-            "assemblyVersion": "2.1.0.0",
-            "fileVersion": "2.1.0.0"
+          "lib/net8.0/OpenAI.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.0"
           }
         }
       },
@@ -1207,15 +1207,15 @@
           }
         }
       },
-      "System.ClientModel/1.2.1": {
+      "System.ClientModel/1.4.2": {
         "dependencies": {
-          "System.Memory.Data": "9.0.5",
-          "System.Text.Json": "9.0.5"
+          "Microsoft.Extensions.Logging.Abstractions": "9.0.3",
+          "System.Memory.Data": "9.0.5"
         },
         "runtime": {
-          "lib/net6.0/System.ClientModel.dll": {
-            "assemblyVersion": "1.2.1.0",
-            "fileVersion": "1.200.124.50905"
+          "lib/net8.0/System.ClientModel.dll": {
+            "assemblyVersion": "1.4.2.0",
+            "fileVersion": "1.400.225.30508"
           }
         }
       },
@@ -2315,12 +2315,12 @@
       "path": "ollama/1.15.1-dev.13",
       "hashPath": "ollama.1.15.1-dev.13.nupkg.sha512"
     },
-    "OpenAI/2.1.0": {
+    "OpenAI/2.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-zl72nyP4O94ZyEoCLoE8qoc5vp8kSJmRuqR+UdK+jNIjFJGWJYjsb4rAGpMWWRTbPYuk82E8myMJdVQurMLDnQ==",
-      "path": "openai/2.1.0",
-      "hashPath": "openai.2.1.0.nupkg.sha512"
+      "sha512": "sha512-MSFrQXZsgdwcJq3b8159oA0sYRJk0Io5Rg+MhbNs1NFIhwQ7IlSP2jao7V0NqBqCRfVhvoNxPZeVOqgbOiZ/Nw==",
+      "path": "openai/2.2.0",
+      "hashPath": "openai.2.2.0.nupkg.sha512"
     },
     "PdfPig/0.1.9": {
       "type": "package",
@@ -2462,12 +2462,12 @@
       "path": "sqlitepclraw.provider.e_sqlite3/2.1.10",
       "hashPath": "sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512"
     },
-    "System.ClientModel/1.2.1": {
+    "System.ClientModel/1.4.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-s9+M5El+DXdCRRLzxak8uGBKWT8H/eIssGpFtpaMKdJULrQbBDPH/zFbVyHX+NDczhS5EvjHFbBH9/L+0UhmcA==",
-      "path": "system.clientmodel/1.2.1",
-      "hashPath": "system.clientmodel.1.2.1.nupkg.sha512"
+      "sha512": "sha512-goGitN7trB9hoQ01dIpxaSYcruI+lGt/xq471AUv8irFvsIX+4HCqk1pDT/4ZPTLmU6ZUuNzhCb4MJAIwG7+Uw==",
+      "path": "system.clientmodel/1.4.2",
+      "hashPath": "system.clientmodel.1.4.2.nupkg.sha512"
     },
     "System.Collections/4.3.0": {
       "type": "package",

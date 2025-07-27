@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\latihan1\\",
+  "WorkspaceRootPath": "E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\langchain-training\\latihan1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\latihan1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\langchain-training\\latihan1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\latihan1\\latihan1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\langchain-training\\latihan1\\latihan1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:latihan1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "latihan1.csproj",
-              "DocumentMoniker": "E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\latihan1\\latihan1.csproj",
+              "DocumentMoniker": "E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\langchain-training\\latihan1\\latihan1.csproj",
               "RelativeDocumentMoniker": "latihan1.csproj",
-              "ToolTip": "E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\latihan1\\latihan1.csproj",
+              "ToolTip": "E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\langchain-training\\latihan1\\latihan1.csproj",
               "RelativeToolTip": "latihan1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-07-26T13:44:53.998Z"
             },
@@ -52,11 +52,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\latihan1\\Program.cs",
+              "DocumentMoniker": "E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\langchain-training\\latihan1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\latihan1\\Program.cs",
+              "ToolTip": "E:\\Sekolah Skenik\\PKL\\Belajar \u002B Latihan\\langchain-training\\latihan1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAjwAwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T04:07:44.803Z",
               "EditorCaption": ""

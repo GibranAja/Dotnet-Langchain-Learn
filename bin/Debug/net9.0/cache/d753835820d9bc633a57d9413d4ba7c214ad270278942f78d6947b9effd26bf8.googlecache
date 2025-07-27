@@ -1,0 +1,511 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - is tofu safe for cows to eat",
+        "totalResults": "1730000",
+        "searchTerms": "is tofu safe for cows to eat",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - is tofu safe for cows to eat",
+        "totalResults": "1730000",
+        "searchTerms": "is tofu safe for cows to eat",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ]
+  },
+  "context": {
+    "title": "LangSearch"
+  },
+  "searchInformation": {
+    "searchTime": 0.443373,
+    "formattedSearchTime": "0.44",
+    "totalResults": "1730000",
+    "formattedTotalResults": "1,730,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "We have to stop getting this wrong. Most soy does not go to COWS ...",
+      "htmlTitle": "We have to stop getting this wrong. Most \u003cb\u003esoy\u003c/b\u003e does not go to \u003cb\u003eCOWS\u003c/b\u003e ...",
+      "link": "https://www.reddit.com/r/vegan/comments/zk4ugt/we_have_to_stop_getting_this_wrong_most_soy_does/",
+      "displayLink": "www.reddit.com",
+      "snippet": "Dec 12, 2022 ... Most soy does not go to COWS, specifically, but to chickens and pigs. Stay on your toes, people. Infographic.",
+      "htmlSnippet": "Dec 12, 2022 \u003cb\u003e...\u003c/b\u003e Most \u003cb\u003esoy\u003c/b\u003e does not go to \u003cb\u003eCOWS\u003c/b\u003e, specifically, but to chickens and pigs. Stay on your toes, people. Infographic.",
+      "formattedUrl": "https://www.reddit.com/.../we_have_to_stop_getting_this_wrong_most_soy...",
+      "htmlFormattedUrl": "https://www.reddit.com/.../we_have_to_stop_getting_this_wrong_most_soy...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJdR2jmoW2ASE0dmrjTdSt8LcIAn5xz5aGEQlD9lIfV_2UTNNYt0fN5I&s",
+            "width": "266",
+            "height": "190"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://preview.redd.it/we-have-to-stop-getting-this-wrong-most-soy-does-not-go-to-v0-1hts1rscjj5a1.jpg?width=1080&crop=smart&auto=webp&s=3f581de46814e2a8d740cf9a4ed1b7fca7f02158",
+            "theme-color": "#000000",
+            "og:image:width": "1080",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "r/vegan on Reddit: We have to stop getting this wrong. Most soy does not go to COWS, specifically, but to chickens and pigs. Stay on your toes, people.",
+            "og:site_name": "Reddit",
+            "og:title": "r/vegan on Reddit: We have to stop getting this wrong. Most soy does not go to COWS, specifically, but to chickens and pigs. Stay on your toes, people.",
+            "og:image:height": "772",
+            "msapplication-navbutton-color": "#000000",
+            "og:description": "Posted by u/[Deleted Account] - 616 votes and 70 comments",
+            "twitter:image": "https://preview.redd.it/we-have-to-stop-getting-this-wrong-most-soy-does-not-go-to-v0-1hts1rscjj5a1.jpg?width=1080&crop=smart&auto=webp&s=3f581de46814e2a8d740cf9a4ed1b7fca7f02158",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@reddit",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "og:ttl": "600",
+            "og:url": "https://www.reddit.com/r/vegan/comments/zk4ugt/we_have_to_stop_getting_this_wrong_most_soy_does/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://preview.redd.it/we-have-to-stop-getting-this-wrong-most-soy-does-not-go-to-v0-1hts1rscjj5a1.jpg?width=1080&crop=smart&auto=webp&s=3f581de46814e2a8d740cf9a4ed1b7fca7f02158"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "The Wife of a Dairyman ~ Churned in Cali: Do Dairy Cows Eat Tofu?",
+      "htmlTitle": "The Wife of a Dairyman ~ Churned in Cali: Do Dairy \u003cb\u003eCows Eat Tofu\u003c/b\u003e?",
+      "link": "https://thewifeofadairyman.blogspot.com/2010/01/today-we-had-25-tons-of-rolled-corn.html",
+      "displayLink": "thewifeofadairyman.blogspot.com",
+      "snippet": "Jan 26, 2010 ... The chosen mixture of all grains, silage, tofu and alfalfa help to maintain a healthy, balanced diet for the cows which in turn helps to keep ...",
+      "htmlSnippet": "Jan 26, 2010 \u003cb\u003e...\u003c/b\u003e The chosen mixture of all grains, silage, \u003cb\u003etofu\u003c/b\u003e and alfalfa help to maintain a \u003cb\u003ehealthy\u003c/b\u003e, balanced diet for the \u003cb\u003ecows\u003c/b\u003e which in turn helps to keep&nbsp;...",
+      "formattedUrl": "https://thewifeofadairyman.blogspot.com/.../today-we-had-25-tons-of-rolle...",
+      "htmlFormattedUrl": "https://thewifeofadairyman.blogspot.com/.../today-we-had-25-tons-of-rolle...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8YUUvLH0jek0yg4nz6SyF4hUxDlKVFRDsalKM2keTy7pF-S8j--jORfk&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "person": [
+          {
+            "name": "Nancy Grossi ~ Churned In Cali ~ The Wife of a Dairyman",
+            "url": "https://www.blogger.com/profile/14800230886117255959"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDBdUL176w2ntWRSH3riuyx-XBuHi7PggJ_CdSra9zektZovRKxqkjzkCSl42JhnN4-1FHGUd_DiqwKVk-lC7vt6ia9O3strF31UOoBK2gZqKQyn1_FZdPNU4ZUrAM3hQ7QQ0DiTodDI/w1200-h630-p-k-no-nu/feed+truck.jpg",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0",
+            "author": "Nancy Grossi, The Wife of a Dairyman, Churned in Cali",
+            "og:title": "Do Dairy Cows Eat Tofu?",
+            "google-adsense-platform-domain": "blogspot.com",
+            "google-adsense-platform-account": "ca-host-pub-1556223355139109",
+            "og:url": "https://thewifeofadairyman.blogspot.com/2010/01/today-we-had-25-tons-of-rolled-corn.html",
+            "og:description": "food blog,farm blog,farm life, dairy farm, beef ranch, family owned farm, recipes, healthy eating,the wife of a dairyman, churned in cali,"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDBdUL176w2ntWRSH3riuyx-XBuHi7PggJ_CdSra9zektZovRKxqkjzkCSl42JhnN4-1FHGUd_DiqwKVk-lC7vt6ia9O3strF31UOoBK2gZqKQyn1_FZdPNU4ZUrAM3hQ7QQ0DiTodDI/w1200-h630-p-k-no-nu/feed+truck.jpg"
+          }
+        ],
+        "blogposting": [
+          {
+            "articlebody": "Today we had 25 tons of rolled corn grain delivered to our Commodities Barn, one of the many grain deliveries throughout the month. Other shipments that are delivered through the month include:...",
+            "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuDBdUL176w2ntWRSH3riuyx-XBuHi7PggJ_CdSra9zektZovRKxqkjzkCSl42JhnN4-1FHGUd_DiqwKVk-lC7vt6ia9O3strF31UOoBK2gZqKQyn1_FZdPNU4ZUrAM3hQ7QQ0DiTodDI/s72-c/feed+truck.jpg",
+            "name": "Do Dairy Cows Eat Tofu?",
+            "postid": "4665028167240650021",
+            "blogid": "804707549091159852",
+            "url": "https://thewifeofadairyman.blogspot.com/2010/01/today-we-had-25-tons-of-rolled-corn.html",
+            "datepublished": "10:57 AM"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Where does global soy production end up? Animal Feed, Human ...",
+      "htmlTitle": "Where does global \u003cb\u003esoy\u003c/b\u003e production end up? Animal \u003cb\u003eFeed\u003c/b\u003e, Human ...",
+      "link": "https://www.reddit.com/r/farming/comments/11tmbbg/where_does_global_soy_production_end_up_animal/",
+      "displayLink": "www.reddit.com",
+      "snippet": "Mar 17, 2023 ... ... livestock cause people don't want to eat the soy meal. I don't think ... r/news - Yellow mealworm safe for humans to eat, says EU food safety.",
+      "htmlSnippet": "Mar 17, 2023 \u003cb\u003e...\u003c/b\u003e ... \u003cb\u003elivestock\u003c/b\u003e cause people don&#39;t want to \u003cb\u003eeat\u003c/b\u003e the \u003cb\u003esoy\u003c/b\u003e meal. I don&#39;t think ... r/news - Yellow mealworm \u003cb\u003esafe\u003c/b\u003e for humans to \u003cb\u003eeat\u003c/b\u003e, says EU food \u003cb\u003esafety\u003c/b\u003e.",
+      "formattedUrl": "https://www.reddit.com/.../where_does_global_soy_production_end_up_an...",
+      "htmlFormattedUrl": "https://www.reddit.com/.../where_does_global_soy_production_end_up_an...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf69KPnBzxzk45-CLODzqVV7yXPG__spZdHpSXM5PYK-2Nw8EPWMq5F-LP&s",
+            "width": "265",
+            "height": "190"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://preview.redd.it/where-does-global-soy-production-end-up-animal-feed-human-v0-jcuzswidr9oa1.png?width=1080&crop=smart&auto=webp&s=4ac21fbe055256eb045f802846b588d46a2b14a9",
+            "theme-color": "#000000",
+            "og:image:width": "1080",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "r/farming on Reddit: Where does global soy production end up? Animal Feed, Human, Industry",
+            "og:site_name": "Reddit",
+            "og:title": "r/farming on Reddit: Where does global soy production end up? Animal Feed, Human, Industry",
+            "og:image:height": "778",
+            "msapplication-navbutton-color": "#000000",
+            "og:description": "Posted by u/ulfOptimism - 237 votes and 44 comments",
+            "twitter:image": "https://preview.redd.it/where-does-global-soy-production-end-up-animal-feed-human-v0-jcuzswidr9oa1.png?width=1080&crop=smart&auto=webp&s=4ac21fbe055256eb045f802846b588d46a2b14a9",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@reddit",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "og:ttl": "600",
+            "og:url": "https://www.reddit.com/r/farming/comments/11tmbbg/where_does_global_soy_production_end_up_animal/?seeker-session=true"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://preview.redd.it/where-does-global-soy-production-end-up-animal-feed-human-v0-jcuzswidr9oa1.png?width=1080&crop=smart&auto=webp&s=4ac21fbe055256eb045f802846b588d46a2b14a9"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What to eat while breastfeeding when your baby has a cow's milk ...",
+      "htmlTitle": "What to \u003cb\u003eeat\u003c/b\u003e while breastfeeding when your baby has a \u003cb\u003ecow&#39;s\u003c/b\u003e milk ...",
+      "link": "https://www.hamiltonhealthsciences.ca/wp-content/uploads/2019/08/CowMilkProteinAllergyWhatToEatBreastfeeding-trh.pdf",
+      "displayLink": "www.hamiltonhealthsciences.ca",
+      "snippet": "Talk to your doctor or dietitian to find out if these foods are safe for you to eat. ... milks but they have much less protein than cow or soy milk. Example ...",
+      "htmlSnippet": "Talk to your doctor or dietitian to find out if these foods are \u003cb\u003esafe\u003c/b\u003e for you to \u003cb\u003eeat\u003c/b\u003e. ... milks but they have much less protein than \u003cb\u003ecow\u003c/b\u003e or \u003cb\u003esoy\u003c/b\u003e milk. Example&nbsp;...",
+      "formattedUrl": "https://www.hamiltonhealthsciences.ca/.../CowMilkProteinAllergyWhatToE...",
+      "htmlFormattedUrl": "https://www.hamiltonhealthsciences.ca/.../CowMilkProteinAllergyWhatTo\u003cb\u003eE\u003c/b\u003e...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYN6znSMBd24gwcjW6QsUVZK2SxLAuVWCfT3f3vXXKBeGyHaJNR0rqOkm-&s",
+            "width": "196",
+            "height": "205"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20140424110017-04'00'",
+            "creationdate": "D:20131210095334-05'00'",
+            "creator": "Acrobat PDFMaker 10.0 for Word",
+            "sourcemodified": "D:20131210145325",
+            "producer": "Adobe PDF Library 10.0",
+            "company": "HHSC",
+            "title": "Cow's Milk Protein Allergy (CMPA); What to eat while breastfeeding when your baby has a cow's milk protein allergy"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///f2ca68cc06fe944c7e56d2d00614d951d4d492b2da0ecad1f04dc595e0acc774"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cow's milk protein (dairy) and soy - Australasian Society of Clinical ...",
+      "htmlTitle": "\u003cb\u003eCow&#39;s\u003c/b\u003e milk protein (dairy) and \u003cb\u003esoy\u003c/b\u003e - Australasian Society of Clinical ...",
+      "link": "https://www.allergy.org.au/patients/food-allergy/ascia-dietary-avoidance-for-food-allergy/cows-milk-protein-dairy-and-soy",
+      "displayLink": "www.allergy.org.au",
+      "snippet": "Cow's milk and soy are found widely in the foods we eat. Usually people who ... safe, but consumers are advised to contact manufacturers to ask about ...",
+      "htmlSnippet": "\u003cb\u003eCow&#39;s\u003c/b\u003e milk and \u003cb\u003esoy\u003c/b\u003e are found widely in the foods we \u003cb\u003eeat\u003c/b\u003e. Usually people who ... \u003cb\u003esafe\u003c/b\u003e, but consumers are advised to contact manufacturers to ask about&nbsp;...",
+      "formattedUrl": "https://www.allergy.org.au/patients/.../cows-milk-protein-dairy-and-soy",
+      "htmlFormattedUrl": "https://www.allergy.org.au/patients/.../\u003cb\u003ecows\u003c/b\u003e-milk-protein-dairy-and-soy",
+      "pagemap": {
+        "Article": [
+          {
+            "datePublished": "2023-06-12T14:00:00+00:00",
+            "noopener": "Email",
+            "name": "ASCIA Dietary Guide - Cow’s Milk Protein (Dairy) and Soy Allergy",
+            "dateModified": "2024-02-05T01:29:00+00:00",
+            "text": "Email Print This document has been developed by ASCIA, the peak professional body of clinical immunology/allergy specialists in Australia and New Zealand. ASCIA information is based on published...",
+            "articleSection": "Food",
+            "headline": "ASCIA Dietary Guide - Cow’s Milk Protein (Dairy) and Soy Allergy"
+          }
+        ],
+        "metatags": [
+          {
+            "datemodified": "2024-02-05T01:29:00+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "articlesection": "Food",
+            "author": "Administrator",
+            "rights": "Copyrights to the materials included in this website are owned solely by the ASCIA, except for materials which are created by others (or the copyright to which is otherwise owned by others) and for which a copyright notice is posted adjacent to such content or materials. The copyright to each item of material created or otherwise owned by another is owned by such creator or other owner. None of the materials included in this website may be reproduced in any form without the express written permission of ASCIA, the creator or other owner, as the case may be. In this regard, the graphic images and layout of this site are the exclusive property of ASCIA and may not be copied, distributed or displayed except using an HTML browser or as otherwise stated herein, without the express written permission of the ASCIA.",
+            "name": "ASCIA Dietary Guide - Cow’s Milk Protein (Dairy) and Soy Allergy",
+            "datepublished": "2023-06-12T14:00:00+00:00"
+          }
+        ],
+        "Person": [
+          {
+            "author": "Administrator"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cows milk and Soy allergy",
+      "htmlTitle": "\u003cb\u003eCows\u003c/b\u003e milk and \u003cb\u003eSoy\u003c/b\u003e allergy",
+      "link": "https://www.rch.org.au/uploadedFiles/Main/Content/allergy/RCH_Cows%20milk%20and%20Soy%20allergy.pdf",
+      "displayLink": "www.rch.org.au",
+      "snippet": "Cow's milk is found widely in the foods we eat and surprisingly soy is an ingredient in many commercial food products. It is important to read and understand ...",
+      "htmlSnippet": "\u003cb\u003eCow&#39;s\u003c/b\u003e milk is found widely in the foods we \u003cb\u003eeat\u003c/b\u003e and surprisingly \u003cb\u003esoy\u003c/b\u003e is an ingredient in many commercial food products. It is important to read and understand&nbsp;...",
+      "formattedUrl": "https://www.rch.org.au/.../RCH_Cows%20milk%20and%20Soy%20allergy....",
+      "htmlFormattedUrl": "https://www.rch.org.au/.../RCH_\u003cb\u003eCows\u003c/b\u003e%20milk%20and%20Soy%20allergy....",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGsZOJGw7I8xOsXDGJ8YCPc2aqFuY6eX00ZuKlPteFGNtGpL0FjPyKqQ&s",
+            "width": "331",
+            "height": "90"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20161222112459+11'00'",
+            "creationdate": "D:20161222112459+11'00'",
+            "creator": "PScript5.dll Version 5.2.2",
+            "author": "whitehca",
+            "producer": "Acrobat Distiller 10.1.16 (Windows)",
+            "title": "Microsoft Word - RCH_Cows milk and Soy allergyVMfinal"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///d1076977cedcafc223c148773231f6ad93af884bc18b7a7919281785e9a39990"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Straight Talk About Soy • The Nutrition Source",
+      "htmlTitle": "Straight Talk About \u003cb\u003eSoy\u003c/b\u003e • The Nutrition Source",
+      "link": "https://nutritionsource.hsph.harvard.edu/soy/",
+      "displayLink": "nutritionsource.hsph.harvard.edu",
+      "snippet": "Soy is a nutrient-dense source of protein that can safely be consumed several times a week, and probably more often, and is likely to provide health benefits— ...",
+      "htmlSnippet": "\u003cb\u003eSoy\u003c/b\u003e is a nutrient-dense source of protein that can \u003cb\u003esafely\u003c/b\u003e be consumed several times a week, and probably more often, and is likely to provide health benefits—&nbsp;...",
+      "formattedUrl": "https://nutritionsource.hsph.harvard.edu/soy/",
+      "htmlFormattedUrl": "https://nutritionsource.hsph.harvard.edu/soy/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW7suS4cYBFVr5xezaZCC2lHWweXqAZGs5pBqr4K1QJOvvV7KMGofBXPQ&s",
+            "width": "275",
+            "height": "183"
+          }
+        ],
+        "website": [
+          {
+            "query-input": "name=s value",
+            "target": "https://nutritionsource.hsph.harvard.edu//?s={s}"
+          }
+        ],
+        "Article": [
+          {}
+        ],
+        "organization": [
+          {
+            "url": "The Nutrition Source"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2018/08/shutterstock_188146451-1024x683.jpg",
+            "og:type": "article",
+            "og:image:width": "660",
+            "og:image:alt": "a variety of soy foods, including: soybeans, edamame, soy sauce, tofu, tempeh, soy milk",
+            "article:published_time": "2018-08-06T18:42:00-04:00",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Straight Talk About Soy • The Nutrition Source",
+            "og:site_name": "The Nutrition Source - Harvard Chan School",
+            "og:title": "Straight Talk About Soy • The Nutrition Source",
+            "og:image:height": "440",
+            "twitter:label1": "Time to read",
+            "og:image:type": "image/jpeg",
+            "og:updated_time": "2024-11-07T09:59:41-05:00",
+            "msapplication-tileimage": "https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2024/10/cropped-TNS_Favicon-270x270.png",
+            "og:description": "The Takeaway: Soy is a unique food that is widely studied for its estrogenic and anti-estrogenic effects on the body. Studies may seem to present conflicting",
+            "og:image:secure_url": "https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2018/08/shutterstock_188146451-1024x683.jpg",
+            "twitter:image": "https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2018/08/shutterstock_188146451-1024x683.jpg",
+            "twitter:data1": "25 minutes",
+            "twitter:site": "@harvardchansph",
+            "article:modified_time": "2024-11-07T09:59:41-05:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "The Takeaway: Soy is a unique food that is widely studied for its estrogenic and anti-estrogenic effects on the body. Studies may seem to present conflicting",
+            "og:locale": "en_US",
+            "og:url": "https://nutritionsource.hsph.harvard.edu/soy/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://nutritionsource.hsph.harvard.edu/wp-content/uploads/2018/08/shutterstock_188146451-1024x683.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What to feed young children - NHS",
+      "htmlTitle": "What to \u003cb\u003efeed\u003c/b\u003e young children - NHS",
+      "link": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/what-to-feed-young-children/",
+      "displayLink": "www.nhs.uk",
+      "snippet": "Pasteurised whole or semi-skimmed cows' milk, or goats' or sheep's milk, can be given as a main drink from the age of 1. Milk and dairy products are a good ...",
+      "htmlSnippet": "Pasteurised whole or semi-skimmed \u003cb\u003ecows\u003c/b\u003e&#39; milk, or goats&#39; or sheep&#39;s milk, can be given as a main drink from the age of 1. Milk and dairy products are a \u003cb\u003egood\u003c/b\u003e&nbsp;...",
+      "formattedUrl": "https://www.nhs.uk/conditions/baby/...and.../what-to-feed-young-children/",
+      "htmlFormattedUrl": "https://www.nhs.uk/conditions/baby/...and.../what-to-feed-young-children/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwGMeon_6L_Z6Dthwid2tprppeBf_c8r07Ew3ZfeabW75rUEtJk4-YC4k&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#005eb8",
+            "og:image": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png",
+            "msapplication-square70x70logo": "/static/nhsuk/img/favicons/smalltile-70x70.29f75b06cf75.png",
+            "og:type": "website",
+            "og:image:alt": "nhs.uk",
+            "article:published_time": "7 Dec 2020, 11:26 a.m.",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "nhs.uk",
+            "og:title": "What to feed young children",
+            "msapplication-wide310x150logo": "/static/nhsuk/img/favicons/widetile-310x150.535c3996630d.png",
+            "msapplication-tileimage": "/static/nhsuk/img/favicons/mediumtile-144x144.cf4985872492.png",
+            "msapplication-square150x150logo": "/static/nhsuk/img/favicons/mediumtile-150x150.89688d93af5b.png",
+            "og:description": "The different foods your toddler or pre-schooler needs, including milk and dairy; starchy foods; fruit and vegetables; meat, fish and other sources of protein.",
+            "twitter:creator": "@nhsuk",
+            "article:author": "https://www.facebook.com/nhswebsite/",
+            "twitter:image:alt": "nhs.uk",
+            "twitter:site": "@nhsuk",
+            "article:modified_time": "15 Apr 2024, 3:36 p.m.",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "msapplication-square310x310logo": "/static/nhsuk/img/favicons/largetile-310x310.294742e00ff4.png",
+            "og:locale": "en_GB",
+            "og:url": "https://www.nhs.uk/conditions/baby/weaning-and-feeding/what-to-feed-young-children/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.nhs.uk/static/nhsuk/img/default-social-image.a74435697f45.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tofu Myths, Truths and Vagaries - by Andrea Nguyen",
+      "htmlTitle": "\u003cb\u003eTofu\u003c/b\u003e Myths, Truths and Vagaries - by Andrea Nguyen",
+      "link": "https://andreanguyen.substack.com/p/tofu-faq-what-is-tofu-health-risks-water-in-tofu",
+      "displayLink": "andreanguyen.substack.com",
+      "snippet": "Mar 31, 2024 ... ... eating soy is a good long-term approach to health, right? What can be learned? Cows eat plenty of soybeans. Humans eat beef. Spare some ...",
+      "htmlSnippet": "Mar 31, 2024 \u003cb\u003e...\u003c/b\u003e ... \u003cb\u003eeating soy\u003c/b\u003e is a \u003cb\u003egood\u003c/b\u003e long-term approach to health, right? What can be learned? \u003cb\u003eCows eat\u003c/b\u003e plenty of soybeans. Humans \u003cb\u003eeat\u003c/b\u003e beef. Spare some&nbsp;...",
+      "formattedUrl": "https://andreanguyen.substack.com/.../tofu-faq-what-is-tofu-health-risks-wa...",
+      "htmlFormattedUrl": "https://andreanguyen.substack.com/.../\u003cb\u003etofu\u003c/b\u003e-faq-what-\u003cb\u003eis-tofu\u003c/b\u003e-health-risks-wa...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkO7Sut1FvoS86x7Rqty3c9celQvWvFVfi7YVBTufU9wcklSD9JTDqLm3I&s",
+            "width": "282",
+            "height": "179"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://substackcdn.com/image/fetch/$s_!Mu1Z!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F840b79ad-ab95-4d8c-ac7f-aa22c0a82111_943x723.jpeg",
+            "og:type": "article",
+            "theme-color": "#ffffff",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Tofu Myths, Truths and Vagaries",
+            "author": "Andrea Nguyen",
+            "og:title": "Tofu Myths, Truths and Vagaries",
+            "og:description": "What is tofu, tofu health risks, and how to manage water in tofu + a few recipes",
+            "twitter:image": "https://substackcdn.com/image/fetch/$s_!kWZR!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fandreanguyen.substack.com%2Fapi%2Fv1%2Fpost_preview%2F143024453%2Ftwitter.jpg%3Fversion%3D4",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0, viewport-fit=cover",
+            "twitter:description": "What is tofu, tofu health risks, and how to manage water in tofu + a few recipes",
+            "norton-safeweb-site-verification": "24usqpep0ejc5w6hod3dulxwciwp0djs6c6ufp96av3t4whuxovj72wfkdjxu82yacb7430qjm8adbd5ezlt4592dq4zrvadcn9j9n-0btgdzpiojfzno16-fnsnu7xd",
+            "og:url": "https://andreanguyen.substack.com/p/tofu-faq-what-is-tofu-health-risks-water-in-tofu"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://substackcdn.com/image/fetch/$s_!Mu1Z!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F840b79ad-ab95-4d8c-ac7f-aa22c0a82111_943x723.jpeg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Soy | WWF",
+      "htmlTitle": "\u003cb\u003eSoy\u003c/b\u003e | WWF",
+      "link": "https://wwf.panda.org/discover/our_focus/food_practice/sustainable_production/soy/",
+      "displayLink": "wwf.panda.org",
+      "snippet": "In fact, almost 80% of the world's soybean crop is fed to livestock, especially for beef, chicken, egg and dairy production (milk, cheeses, butter, yogurt, etc) ...",
+      "htmlSnippet": "In fact, almost 80% of the world&#39;s soybean crop is fed to \u003cb\u003elivestock\u003c/b\u003e, especially for beef, chicken, egg and dairy production (milk, cheeses, butter, yogurt, etc)&nbsp;...",
+      "formattedUrl": "https://wwf.panda.org/discover/our_focus/food_practice/.../soy/",
+      "htmlFormattedUrl": "https://wwf.panda.org/discover/our_focus/food_practice/.../soy/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4dHR1SlUywknRDrB0EjoiP60Qv8Mf6cQtEnuWVOJRkC6RmaqPMWrRTo&s",
+            "width": "186",
+            "height": "209"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "//d2ouvy59p0dg6k.cloudfront.net/img/original_ww294408_718316.jpg",
+            "expires": "0",
+            "og:type": "Article",
+            "twitter:card": "summary",
+            "twitter:title": "Soy",
+            "twitter:domain": "https://wwf.panda.org",
+            "og:title": "Soy",
+            "rating": "General",
+            "twitter:image": "//d2ouvy59p0dg6k.cloudfront.net/img/original_ww294408_718316.jpg",
+            "fb:app_id": "214972185182116",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "Soy",
+            "twitter:account_id": "1512908459"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdnassets.panda.org/_skins/international/img/logo.png"
+          }
+        ]
+      }
+    }
+  ]
+}

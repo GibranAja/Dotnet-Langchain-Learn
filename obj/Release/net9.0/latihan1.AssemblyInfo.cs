@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("latihan1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11f9aecf6dd66adc448a011fefb1552b1d2af616")]
 [assembly: System.Reflection.AssemblyProductAttribute("latihan1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("latihan1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

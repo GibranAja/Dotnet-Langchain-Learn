@@ -1,0 +1,488 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - what is tahu sutra tahu sumedang differences uses",
+        "totalResults": "3900",
+        "searchTerms": "what is tahu sutra tahu sumedang differences uses",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - what is tahu sutra tahu sumedang differences uses",
+        "totalResults": "3900",
+        "searchTerms": "what is tahu sutra tahu sumedang differences uses",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ]
+  },
+  "context": {
+    "title": "LangSearch"
+  },
+  "searchInformation": {
+    "searchTime": 0.157161,
+    "formattedSearchTime": "0.16",
+    "totalResults": "3900",
+    "formattedTotalResults": "3,900"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Effect of different coagulants on yield and quality of tofu from soymilk ...",
+      "htmlTitle": "Effect of \u003cb\u003edifferent\u003c/b\u003e coagulants on yield and quality of tofu from soymilk ...",
+      "link": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+      "displayLink": "www.researchgate.net",
+      "snippet": "Karakterisasi kimia tahu sutra formula optimal dilakukan dengan analisis kadar air metode vakum (AOAC 2012), analisis kadar abu dengan metode pengabuan kering ( ...",
+      "htmlSnippet": "Karakterisasi kimia \u003cb\u003etahu sutra\u003c/b\u003e formula optimal dilakukan dengan analisis kadar air metode vakum (AOAC 2012), analisis kadar abu dengan metode pengabuan kering (&nbsp;...",
+      "formattedUrl": "https://www.researchgate.net/.../226424131_Effect_of_different_coagulant...",
+      "htmlFormattedUrl": "https://www.researchgate.net/.../226424131_Effect_of_different_coagulant...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAa8-pHWvH-qGkv71Qm9rfrNoxw6i7ELfip4ndPU0tq1iqh0X-d7xZ3Q&s",
+            "width": "194",
+            "height": "260"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.researchgate.net/images/template/default_publication_preview_large.png",
+            "citation_publication_date": "2007/01/01",
+            "twitter:card": "summary",
+            "citation_title": "Effect of different coagulants on yield and quality of tofu from soymilk",
+            "og:site_name": "ResearchGate",
+            "twitter:url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "citation_publisher": "Springer Nature",
+            "citation_journal_title": "European Food Research and Technology",
+            "twitter:creator": "@ResearchGate",
+            "og:description": "Request PDF | Effect of different coagulants on yield and quality of tofu from soymilk | Soymilk tofu coagulated with four indigenous coagulants was compared in terms of chemical, textural, colour, and sensory attributes with calcium... | Find, read and cite all the research you need on ResearchGate",
+            "citation_issn": "1438-2377",
+            "twitter:site": "@ResearchGate",
+            "og:site": "ResearchGate",
+            "citation_fulltext_html_url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "citation_lastpage": "472",
+            "application-name": "ResearchGate",
+            "og:type": "website",
+            "rg-request-token": "aad-eMr1UjAMHTIuGZgJFqQTaEFI+r854xkR5v63WFN6IqXl0BDZQzKQJJ3eAUuxpsk0G5MoAEk0XsNVMGykMZsgGowZnHlsD2draI600rsvZusU0HpQWnpN7x5esZvrWuNzk71IUunKzgt1PdDQBzpeNwX+nbosBzkrtNwq1GFjVLB012TKNnivwQDfvqnuTqummF5/+K9wIb4KLdu3m/Y4DqMGIxLMArmBZqwypV0hG2bypzWjQDNTQLpx7JwdVnIWjN7FMvETRXe6PZN85rU=",
+            "og:title": "Effect of different coagulants on yield and quality of tofu from soymilk | Request PDF",
+            "citation_author": "Veronica A. Obatolu",
+            "citation_abstract_html_url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "citation_issue": "3",
+            "referrer": "origin",
+            "citation_firstpage": "467",
+            "viewport": "width=device-width,initial-scale=1",
+            "citation_doi": "10.1007/s00217-006-0558-8",
+            "rg:id": "PB:226424131",
+            "dc.identifier": "http://dx.doi.org/10.1007/s00217-006-0558-8",
+            "citation_volume": "226",
+            "og:url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "gs_meta_revision": "1.1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.researchgate.net/images/template/default_publication_preview_large.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "2+ Thousand Package Tofu Royalty-Free Images, Stock Photos ...",
+      "htmlTitle": "2+ Thousand Package Tofu Royalty-Free Images, Stock Photos ...",
+      "link": "https://www.shutterstock.com/search/package-tofu",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Silk Smooth Tofu or Tahu Sutra on Plastic Supermarket Packaging. Isolated on ... Tahu Sumedang Is Fried Tofu Indonesian Traditional Food Wrap In Rattan ...",
+      "htmlSnippet": "Silk Smooth Tofu or \u003cb\u003eTahu Sutra\u003c/b\u003e on Plastic Supermarket Packaging. Isolated on ... \u003cb\u003eTahu Sumedang\u003c/b\u003e Is Fried Tofu Indonesian Traditional Food Wrap In Rattan&nbsp;...",
+      "formattedUrl": "https://www.shutterstock.com/search/package-tofu",
+      "htmlFormattedUrl": "https://www.shutterstock.com/search/package-tofu",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo3Lgwrl_1bANvgWnNAXCHihD-oSjBBjGAtQ9-XvIawYjkQF0PJqgbZBk&s",
+            "width": "248",
+            "height": "203"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.shutterstock.com/shutterstock/photos/1743670193/display_1500/stock-photo-top-view-of-japanese-style-tofu-in-a-plastic-tray-for-cooking-ideas-1743670193.jpg",
+            "twitter:card": "summary_large_image",
+            "og:type": "website",
+            "og:image:width": "1500",
+            "twitter:site": "@shutterstock",
+            "og:site_name": "Shutterstock",
+            "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+            "og:title": "2+ Thousand Package Tofu Royalty-Free Images, Stock Photos & Pictures | Shutterstock",
+            "og:image:height": "1125",
+            "og:ttl": "604800",
+            "og:url": "https://www.shutterstock.com/search/package-tofu",
+            "og:description": "Find 2+ Thousand Package Tofu stock images in HD and millions of other royalty-free stock photos, 3D objects, illustrations and vectors in the Shutterstock collection. Thousands of new, high-quality pictures added every day."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.shutterstock.com/shutterstock/photos/1743670193/display_1500/stock-photo-top-view-of-japanese-style-tofu-in-a-plastic-tray-for-cooking-ideas-1743670193.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Characteristics of Tofu Wastewater From Different Soybeans and ...",
+      "htmlTitle": "Characteristics of Tofu Wastewater From \u003cb\u003eDifferent\u003c/b\u003e Soybeans and ...",
+      "link": "http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-a37c0b3e-da85-469e-b333-90808a4bd789/c/05_Hardyanti_Characteristics_EEET_2023_8.pdf",
+      "displayLink": "yadda.icm.edu.pl",
+      "snippet": "Oct 12, 2023 ... ABAH ABU Tahu Sutra located in Jl. Gayamsari ... Penetapan Kadar Protein pada Tahu Sumedang dan Tahu Cina secara Spe- ktrofotometri UV-Vis.",
+      "htmlSnippet": "Oct 12, 2023 \u003cb\u003e...\u003c/b\u003e ABAH ABU \u003cb\u003eTahu Sutra\u003c/b\u003e located in Jl. Gayamsari ... Penetapan Kadar Protein pada \u003cb\u003eTahu Sumedang\u003c/b\u003e dan Tahu Cina secara Spe- ktrofotometri UV-Vis.",
+      "formattedUrl": "http://yadda.icm.edu.pl/.../05_Hardyanti_Characteristics_EEET_2023_8.pd...",
+      "htmlFormattedUrl": "http://yadda.icm.edu.pl/.../05_Hardyanti_Characteristics_EEET_2023_8.pd...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1BAJhPHHC1QKyNUoODQgonts6tVml1AXennQcwfoNtZ0oOLnLCX2V1bvh&s",
+            "width": "255",
+            "height": "198"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20231012185859+02'00'",
+            "creationdate": "D:20231012185857+02'00'",
+            "creator": "Adobe InDesign 18.0 (Windows)",
+            "producer": "Adobe PDF Library 17.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///c59c19f2d4ffbdf3864f2f4247f8a058e2532ffd19a58cfde1e55afdcc63f06d"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mapo Tofu Recipe | TikTok",
+      "htmlTitle": "Mapo Tofu Recipe | TikTok",
+      "link": "https://www.tiktok.com/channel/mapo-tofu-recipe?lang=en",
+      "displayLink": "www.tiktok.com",
+      "snippet": "Resep mapo tofu Bahan: ~1 kotak tahu sutra ~daging ayam cincang marinasi kecap asin , merica, tepung tapioka Bumbu: ~Bawang putih dan jahe cincang ~ la ...",
+      "htmlSnippet": "Resep mapo tofu Bahan: ~1 kotak \u003cb\u003etahu sutra\u003c/b\u003e ~daging ayam cincang marinasi kecap asin , merica, tepung tapioka Bumbu: ~Bawang putih dan jahe cincang ~ la&nbsp;...",
+      "formattedUrl": "https://www.tiktok.com/channel/mapo-tofu-recipe?lang=en",
+      "htmlFormattedUrl": "https://www.tiktok.com/channel/mapo-tofu-recipe?lang=en",
+      "pagemap": {
+        "metatags": [
+          {
+            "twitter:app:id:googleplay": "com.zhiliaoapp.musically",
+            "twitter:card": "summary",
+            "og:image:width": "360",
+            "og:site_name": "TikTok",
+            "applicable-device": "pc, mobile",
+            "al:android:package": "com.zhiliaoapp.musically",
+            "pumbaa-ctx": "login=0,ftc=0",
+            "al:ios:url": "snssdk1233://user/profile/",
+            "twitter:app:id:iphone": "835599320",
+            "og:description": "16.7M posts. Discover videos related to Mapo Tofu Recipe on TikTok. See more videos about Mapo Tofu Pizza Recipe, Recette Fufu Sauce Gombo, Nobu Crispy Tofu Recipe, Saoto Soup Recipe, Gonfo Recipe, Taho Recipe.",
+            "al:ios:app_store_id": "835599320",
+            "twitter:site": "TikTok",
+            "og:type": "website",
+            "twitter:title": "Mapo Tofu Recipe | TikTok",
+            "og:image:alt": "Mapo Tofu Recipe | TikTok",
+            "al:ios:app_name": "musical.ly",
+            "og:title": "Mapo Tofu Recipe | TikTok",
+            "og:image:height": "360",
+            "google": "notranslate",
+            "al:android:url": "snssdk1233://user/profile/",
+            "fb:app_id": "597615686992125",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+            "twitter:description": "16.7M posts. Discover videos related to Mapo Tofu Recipe on TikTok. See more videos about Mapo Tofu Pizza Recipe, Recette Fufu Sauce Gombo, Nobu Crispy Tofu Recipe, Saoto Soup Recipe, Gonfo Recipe, Taho Recipe.",
+            "og:url": "https://www.tiktok.com/channel/mapo-tofu-recipe",
+            "al:android:app_name": "musical.ly",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "xi ABSTRAK Muhammad Ihza Irvani, 1841010232. Uji Coba ...",
+      "htmlTitle": "xi ABSTRAK Muhammad Ihza Irvani, 1841010232. Uji Coba ...",
+      "link": "https://library.iptrisakti.ac.id/index.php?p=fstream-pdf&fid=4555&bid=32067",
+      "displayLink": "library.iptrisakti.ac.id",
+      "snippet": "Dipasaran terdapat beberapa jenis tahu antara lain tahu putih (mentah), tahu kuning, tahu goreng, tahu sumedang, tahu bulat, dan lain-lain. ... 5. Tahu Sutra.",
+      "htmlSnippet": "Dipasaran terdapat beberapa jenis tahu antara lain tahu putih (mentah), tahu kuning, tahu goreng, \u003cb\u003etahu sumedang\u003c/b\u003e, tahu bulat, dan lain-lain. ... 5. \u003cb\u003eTahu Sutra\u003c/b\u003e.",
+      "formattedUrl": "https://library.iptrisakti.ac.id/index.php?p=fstream-pdf&fid=4555...",
+      "htmlFormattedUrl": "https://library.iptrisakti.ac.id/index.php?p=fstream-pdf&amp;fid=4555...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz-HUBihLvEOul8BHwh7ji9VvNKKqHaSYglmYcXew9KThDDkcxHBSRpu8&s",
+            "width": "240",
+            "height": "210"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20230124154505+07'00'",
+            "creator": "Nitro Pro"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///83f139bb376ced0e340b8183708926fa0f8d5231cf013238813630295186e182"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Harganya Murah, Tahu Punya Kaya Manfaat Buat Kesehatan ...",
+      "htmlTitle": "Harganya Murah, \u003cb\u003eTahu\u003c/b\u003e Punya Kaya Manfaat Buat Kesehatan ...",
+      "link": "https://tribunkaltimtravel.tribunnews.com/2020/02/04/harganya-murah-tahu-punya-kaya-manfaat-buat-kesehatan",
+      "displayLink": "tribunkaltimtravel.tribunnews.com",
+      "snippet": "Feb 4, 2020 ... Terms of Use ... Kelima jenis tahu ini adalah tahu takwa yang berwarna kuning, tahu Sumedang, tahu sutra, tahu Bandung hingga tahu Cina.",
+      "htmlSnippet": "Feb 4, 2020 \u003cb\u003e...\u003c/b\u003e Terms of \u003cb\u003eUse\u003c/b\u003e ... Kelima jenis tahu ini adalah tahu takwa yang berwarna kuning, \u003cb\u003etahu Sumedang\u003c/b\u003e, \u003cb\u003etahu sutra\u003c/b\u003e, tahu Bandung hingga tahu Cina.",
+      "formattedUrl": "https://tribunkaltimtravel.tribunnews.com/.../harganya-murah-tahu-punya-k...",
+      "htmlFormattedUrl": "https://tribunkaltimtravel.tribunnews.com/.../harganya-murah-\u003cb\u003etahu\u003c/b\u003e-punya-k...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ64794NN9MKchhPZELbfPDW99ROUC_txukIhDpFDeJxS9zSlUi6CLhtM2&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://asset-2.tstatic.net/tribunkaltimtravel/foto/bank/images/tahu-nestle.jpg",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Harganya Murah, Tahu Punya Kaya Manfaat  Buat Kesehatan - Tribunkaltim Travel",
+            "og:site_name": "Tribunnews.com",
+            "actionjixie": "visit",
+            "og:title": "Harganya Murah, Tahu Punya Kaya Manfaat  Buat Kesehatan - Tribunkaltim Travel",
+            "dailymotion-domain-verification": "dm7g3g9ekdp4yfz80",
+            "google": "notranslate",
+            "googlebot-news": "index,follow",
+            "og:image:type": "image/jpeg",
+            "fb:pages": "357595679961",
+            "og:description": "Selain harganya murah, tahu juga terkenal bergizi dan menjadi salah satu sumber protein nabati yang baik untuk kesehatan tubuh.",
+            "og:image:secure_url": "https://asset-2.tstatic.net/tribunkaltimtravel/foto/bank/images/tahu-nestle.jpg",
+            "twitter:image": "https://asset-2.tstatic.net/tribunkaltimtravel/foto/bank/images/tahu-nestle.jpg",
+            "twitter:image:src": "https://asset-2.tstatic.net/tribunkaltimtravel/foto/bank/images/tahu-nestle.jpg",
+            "fb:app_id": "114488588566911",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "viewport": "width=device-width, target-densityDpi=medium-dpi, initial-scale=1.0, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0",
+            "news_keywords": "Kuliner Nusantara, konten reguler travel, artikel pendek travel, artikel panjang travel, Traveling, Traveler, Kuliner, Kuliner",
+            "twitter:description": "Selain harganya murah, tahu juga terkenal bergizi dan menjadi salah satu sumber protein nabati yang baik untuk kesehatan tubuh.",
+            "og:url": "https://tribunkaltimtravel.tribunnews.com/2020/02/04/harganya-murah-tahu-punya-kaya-manfaat-buat-kesehatan"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://asset-2.tstatic.net/tribunkaltimtravel/foto/bank/images/tahu-nestle.jpg"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Home",
+            "name": "Home",
+            "position": "1"
+          },
+          {
+            "item": "Kuliner",
+            "name": "Kuliner",
+            "position": "2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "X APHP 2 Ulangan Daspro X APHP gasal 10th Grade Quiz ...",
+      "htmlTitle": "X APHP 2 Ulangan Daspro X APHP gasal 10th Grade Quiz ...",
+      "link": "https://wayground.com/admin/quiz/5de5c72977b002001ba6793e/x-aphp-2-ulangan-daspro-x-aphp-gasal",
+      "displayLink": "wayground.com",
+      "snippet": "Perbedaan tekstur tahu sumedang dengan tahu sutra adalah pada bahan penggumpalnya yaitu ... Using i^2 = –1 and different properties (commutative ...",
+      "htmlSnippet": "Perbedaan tekstur \u003cb\u003etahu sumedang\u003c/b\u003e dengan \u003cb\u003etahu sutra\u003c/b\u003e adalah pada bahan penggumpalnya yaitu ... \u003cb\u003eUsing\u003c/b\u003e i^2 = –1 and \u003cb\u003edifferent\u003c/b\u003e properties (commutative&nbsp;...",
+      "formattedUrl": "https://wayground.com/admin/quiz/.../x-aphp-2-ulangan-daspro-x-aphp-ga...",
+      "htmlFormattedUrl": "https://wayground.com/admin/quiz/.../x-aphp-2-ulangan-daspro-x-aphp-ga...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa1PYBPZVVo4K-wdt5sTrOInuG7QWlnEvDhEyCHcsjk3Q5c17UjQ8mY-c&s",
+            "width": "152",
+            "height": "331"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://quizizz.com/media/resource/gs/quizizz-media/quizzes/2a7a587b-5284-4474-a57a-0fab117275c6",
+            "twitter:title": "X APHP 2 Ulangan Daspro X APHP gasal 10th Grade Quiz | Wayground",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "X APHP 2 Ulangan Daspro X APHP gasal quiz for 10th grade students. Find other quizzes for Other and more on Wayground for free!",
+            "og:title": "X APHP 2 Ulangan Daspro X APHP gasal 10th Grade Quiz | Wayground",
+            "og:description": "X APHP 2 Ulangan Daspro X APHP gasal quiz for 10th grade students. Find other quizzes for Other and more on Wayground for free!",
+            "twitter:image": "https://quizizz.com/media/resource/gs/quizizz-media/quizzes/2a7a587b-5284-4474-a57a-0fab117275c6"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://quizizz.com/media/resource/gs/quizizz-media/quizzes/2a7a587b-5284-4474-a57a-0fab117275c6"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Analisis Konsep Kalor Pada Proses Pembuatan Tahu",
+      "htmlTitle": "Analisis Konsep Kalor Pada Proses Pembuatan \u003cb\u003eTahu\u003c/b\u003e",
+      "link": "https://ejurnalunsam.id/index.php/JPFS/article/download/8952/4508/",
+      "displayLink": "ejurnalunsam.id",
+      "snippet": "This process can be done traditionally using a burning stove or also modernly using a boiler to produce hot steam. Even though the methods are different, the ...",
+      "htmlSnippet": "This process can be done traditionally \u003cb\u003eusing\u003c/b\u003e a burning stove or also modernly \u003cb\u003eusing\u003c/b\u003e a boiler to produce hot steam. Even though the methods are \u003cb\u003edifferent\u003c/b\u003e, the&nbsp;...",
+      "formattedUrl": "https://ejurnalunsam.id/index.php/JPFS/article/download/8952/4508/",
+      "htmlFormattedUrl": "https://ejurnalunsam.id/index.php/JPFS/article/download/8952/4508/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9WMnXRwoNbSAHoH2acBcNNtuulLpR0u3_cUkw3mSX2Pbgl56-2uIhzf1q&s",
+            "width": "243",
+            "height": "208"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20231208164929+07'00'",
+            "creator": "Microsoft® Word 2019",
+            "creationdate": "D:20231208164929+07'00'",
+            "author": "ASUS",
+            "producer": "Microsoft® Word 2019"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///ab02ea431b88d5b5e90f1b545432fac1131fa902bc3b91f2c1cb112ab38d3036"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Etnomatematika dalam Proses Pembuatan Tahu Sebagai Sumber ...",
+      "htmlTitle": "Etnomatematika dalam Proses Pembuatan \u003cb\u003eTahu\u003c/b\u003e Sebagai Sumber ...",
+      "link": "https://j-cup.org/index.php/cendekia/article/download/2240/956/",
+      "displayLink": "j-cup.org",
+      "snippet": "Jul 11, 2023 ... tofu can be used as an approach in learning mathematics. The ... Analisis Nlai Tambah Pengelolaan Tahu di UMKM Tahu Sutra Miwa-Malang.",
+      "htmlSnippet": "Jul 11, 2023 \u003cb\u003e...\u003c/b\u003e tofu can be \u003cb\u003eused\u003c/b\u003e as an approach in learning mathematics. The ... Analisis Nlai Tambah Pengelolaan \u003cb\u003eTahu\u003c/b\u003e di UMKM \u003cb\u003eTahu Sutra\u003c/b\u003e Miwa-Malang.",
+      "formattedUrl": "https://j-cup.org/index.php/cendekia/article/download/2240/956/",
+      "htmlFormattedUrl": "https://j-cup.org/index.php/cendekia/article/download/2240/956/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RKQIMYEbhTv6gluAZ_5mmFyp-v7EMnYVGVfmVbtAuGkp36fCWVz4eS85&s",
+            "width": "268",
+            "height": "188"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20230726193631+07'00'",
+            "creator": "Microsoft® Word 2019",
+            "creationdate": "D:20230726193631+07'00'",
+            "author": "okti",
+            "producer": "Microsoft® Word 2019"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///80fb0278de6c74ae6b1c20ba0ac35fd410101863bff283384a9b558d2a4db9eb"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Delicious Crispy Tahu Sumedang Recipes | 2025 pengalaman ...",
+      "htmlTitle": "Delicious Crispy \u003cb\u003eTahu Sumedang\u003c/b\u003e Recipes | 2025 pengalaman ...",
+      "link": "https://www.lemon8-app.com/experience/tahu-sumedang-crispy?region=id",
+      "displayLink": "www.lemon8-app.com",
+      "snippet": "... tahu crispy by incorporating different flours and seasonings to enhance the flavor. Ingredients: 125 grams of all-purpose flour; 15 pieces of tahu (cut into ...",
+      "htmlSnippet": "... \u003cb\u003etahu\u003c/b\u003e crispy by incorporating \u003cb\u003edifferent\u003c/b\u003e flours and seasonings to enhance the flavor. Ingredients: 125 grams of all-\u003cb\u003epurpose\u003c/b\u003e flour; 15 pieces of \u003cb\u003etahu\u003c/b\u003e (cut into&nbsp;...",
+      "formattedUrl": "https://www.lemon8-app.com/experience/tahu-sumedang-crispy?region=id",
+      "htmlFormattedUrl": "https://www.lemon8-app.com/experience/\u003cb\u003etahu\u003c/b\u003e-\u003cb\u003esumedang\u003c/b\u003e-crispy?region=id",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCV9Wn4yletA5Q6GoRHm0WsDhU_-LBCxKUBxFQv7egtzfoyUU7AIgm9cif&s",
+            "width": "168",
+            "height": "300"
+          }
+        ],
+        "metatags": [
+          {
+            "twitter:app:id:googleplay": "com.bd.nproject",
+            "og:image": "https://www.lemon8-app.com/seo/image?item_id=7246366160030073345&index=0&sign=4799fba673433bcf9189c9c7e3704a14",
+            "twitter:card": "summary_large_image",
+            "og:image:width": "540",
+            "og:site_name": "Lemon8",
+            "al:android:package": "com.bd.nproject",
+            "og:image:type": "image/jpeg",
+            "al:ios:url": "snssdk2657://lynxview?channel=search_v2&bundle=result_page%2Ftemplate.js&trans_status_bar=1&enter_anim=search_alpha&exit_anim=search_alpha&business_type=search&business_data=%7B%22query%22%3A%22Tahu+Sumedang+Crispy%22%2C%22tab%22%3A0%2C%22inputClickType%22%3A%22open%22%2C%22logExtra%22%3A%7B%22query%22%3A%22Tahu+Sumedang+Crispy%22%2C%22search_page_from%22%3A%22search_page_general%22%2C%22search_from%22%3A%22seo_click%22%2C%22previous_page_name%22%3A%22seo%22%7D%7D&pid=seo_al_fb&ab_version=%2C73854844%2C74105555%2C74167187&amp_extra=%7B%22traffic_type%22%3A%22website_direct%22%2C%22enter_page_type%22%3A%22experience_article%22%2C%22seo_page_id%22%3A%22130691916034161082%22%2C%22web_id%22%3A%227528118540936840720%22%2C%22enter_position%22%3A%22seo_al_fb%22%7D",
+            "twitter:app:id:iphone": "1498607143",
+            "og:description": "Tahu Sumedang, known for its crispy exterior and soft interior, is a beloved snack in Indonesia. This article compiles several delicious recipes for making crispy tahu, perfect for snacking or selling. Each recipe highlights the essential ingredients, detailed steps, and tips for achieving that perfect crunch. Let’s dive into the world of crispy tahu and explore how to make it at home!",
+            "al:ios:app_store_id": "1498607143",
+            "hostname": "lemon8-app.com",
+            "twitter:site": "@Lemon8",
+            "on": "x-dns-prefetch-control",
+            "msapplication-tilecolor": "#FFF",
+            "og:type": "article",
+            "twitter:title": "Delicious Crispy Tahu Sumedang Recipes | 2025 pengalaman pengguna asli di Lemon8",
+            "al:ios:app_name": "Lemon8",
+            "og:title": "Delicious Crispy Tahu Sumedang Recipes | 2025 pengalaman pengguna asli di Lemon8",
+            "og:image:height": "960",
+            "al:web:url": "https://www.lemon8-app.com/experience/tahu-sumedang-crispy?region=id",
+            "al:android:url": "snssdk2657://lynxview?channel=search_v2&bundle=result_page%2Ftemplate.js&trans_status_bar=1&enter_anim=search_alpha&exit_anim=search_alpha&business_type=search&business_data=%7B%22query%22%3A%22Tahu+Sumedang+Crispy%22%2C%22tab%22%3A0%2C%22inputClickType%22%3A%22open%22%2C%22logExtra%22%3A%7B%22query%22%3A%22Tahu+Sumedang+Crispy%22%2C%22search_page_from%22%3A%22search_page_general%22%2C%22search_from%22%3A%22seo_click%22%2C%22previous_page_name%22%3A%22seo%22%7D%7D&pid=seo_al_fb&ab_version=%2C73854844%2C74105555%2C74167187&amp_extra=%7B%22traffic_type%22%3A%22website_direct%22%2C%22enter_page_type%22%3A%22experience_article%22%2C%22seo_page_id%22%3A%22130691916034161082%22%2C%22web_id%22%3A%227528118540936840720%22%2C%22enter_position%22%3A%22seo_al_fb%22%7D",
+            "referrer": "origin",
+            "fb:app_id": "426786581540674",
+            "apple-mobile-web-app-status-bar-style": "#fff",
+            "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover, user-scalable=0",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Tahu Sumedang, known for its crispy exterior and soft interior, is a beloved snack in Indonesia. This article compiles several delicious recipes for making crispy tahu, perfect for snacking or selling. Each recipe highlights the essential ingredients, detailed steps, and tips for achieving that perfect crunch. Let’s dive into the world of crispy tahu and explore how to make it at home!",
+            "og:url": "https://www.lemon8-app.com/experience/tahu-sumedang-crispy?region=id",
+            "al:android:app_name": "Lemon8"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.lemon8-app.com/seo/image?item_id=7246366160030073345&index=0&sign=4799fba673433bcf9189c9c7e3704a14"
+          }
+        ]
+      }
+    }
+  ]
+}

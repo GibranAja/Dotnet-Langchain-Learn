@@ -189,3 +189,4 @@ E:\Sekolah Skenik\PKL\Belajar + Latihan\langchain-training\latihan1\bin\Debug\ne
 E:\Sekolah Skenik\PKL\Belajar + Latihan\langchain-training\latihan1\bin\Debug\net9.0\CommunityToolkit.HighPerformance.dll
 E:\Sekolah Skenik\PKL\Belajar + Latihan\langchain-training\latihan1\bin\Debug\net9.0\LangChain.Providers.Automatic1111.dll
 E:\Sekolah Skenik\PKL\Belajar + Latihan\langchain-training\latihan1\bin\Debug\net9.0\LLamaSharp.dll
+E:\Sekolah Skenik\PKL\Belajar + Latihan\langchain-training\latihan1\obj\Debug\net9.0\latihan1.sourcelink.json

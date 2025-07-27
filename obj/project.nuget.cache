@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jPJGVouTgLU=",
+  "dgSpecHash": "rT5AovV8VuM=",
   "success": true,
   "projectFilePath": "E:\\Sekolah Skenik\\PKL\\Belajar + Latihan\\langchain-training\\latihan1\\latihan1.csproj",
   "expectedPackageFiles": [
@@ -70,7 +70,7 @@
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\ollama\\1.15.1-dev.13\\ollama.1.15.1-dev.13.nupkg.sha512",
-    "C:\\Users\\LENOVO\\.nuget\\packages\\openai\\2.1.0\\openai.2.1.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\openai\\2.2.0\\openai.2.2.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\pdfpig\\0.1.9\\pdfpig.0.1.9.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.2\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.2.nupkg.sha512",
@@ -91,7 +91,7 @@
     "C:\\Users\\LENOVO\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
-    "C:\\Users\\LENOVO\\.nuget\\packages\\system.clientmodel\\1.2.1\\system.clientmodel.1.2.1.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.clientmodel\\1.4.2\\system.clientmodel.1.4.2.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",

@@ -1,0 +1,504 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - are soy products safe for cows",
+        "totalResults": "23800000",
+        "searchTerms": "are soy products safe for cows",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - are soy products safe for cows",
+        "totalResults": "23800000",
+        "searchTerms": "are soy products safe for cows",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ]
+  },
+  "context": {
+    "title": "LangSearch"
+  },
+  "searchInformation": {
+    "searchTime": 0.509112,
+    "formattedSearchTime": "0.51",
+    "totalResults": "23800000",
+    "formattedTotalResults": "23,800,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "We have to stop getting this wrong. Most soy does not go to COWS ...",
+      "htmlTitle": "We have to stop getting this wrong. Most \u003cb\u003esoy\u003c/b\u003e does not go to \u003cb\u003eCOWS\u003c/b\u003e ...",
+      "link": "https://www.reddit.com/r/vegan/comments/zk4ugt/we_have_to_stop_getting_this_wrong_most_soy_does/",
+      "displayLink": "www.reddit.com",
+      "snippet": "Dec 12, 2022 ... The vast majority of soybean crops are crushed to separate oil and protein cake, you can see that the animal feed portion on this graphic is ...",
+      "htmlSnippet": "Dec 12, 2022 \u003cb\u003e...\u003c/b\u003e The vast majority of \u003cb\u003esoybean\u003c/b\u003e crops are crushed to separate oil and \u003cb\u003eprotein\u003c/b\u003e cake, you can see that the animal feed portion on this graphic is&nbsp;...",
+      "formattedUrl": "https://www.reddit.com/.../we_have_to_stop_getting_this_wrong_most_soy...",
+      "htmlFormattedUrl": "https://www.reddit.com/.../we_have_to_stop_getting_this_wrong_most_\u003cb\u003esoy\u003c/b\u003e...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvJdR2jmoW2ASE0dmrjTdSt8LcIAn5xz5aGEQlD9lIfV_2UTNNYt0fN5I&s",
+            "width": "266",
+            "height": "190"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://preview.redd.it/we-have-to-stop-getting-this-wrong-most-soy-does-not-go-to-v0-1hts1rscjj5a1.jpg?width=1080&crop=smart&auto=webp&s=3f581de46814e2a8d740cf9a4ed1b7fca7f02158",
+            "theme-color": "#000000",
+            "og:image:width": "1080",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "r/vegan on Reddit: We have to stop getting this wrong. Most soy does not go to COWS, specifically, but to chickens and pigs. Stay on your toes, people.",
+            "og:site_name": "Reddit",
+            "og:title": "r/vegan on Reddit: We have to stop getting this wrong. Most soy does not go to COWS, specifically, but to chickens and pigs. Stay on your toes, people.",
+            "og:image:height": "772",
+            "msapplication-navbutton-color": "#000000",
+            "og:description": "Posted by u/[Deleted Account] - 616 votes and 70 comments",
+            "twitter:image": "https://preview.redd.it/we-have-to-stop-getting-this-wrong-most-soy-does-not-go-to-v0-1hts1rscjj5a1.jpg?width=1080&crop=smart&auto=webp&s=3f581de46814e2a8d740cf9a4ed1b7fca7f02158",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@reddit",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "og:ttl": "600",
+            "og:url": "https://www.reddit.com/r/vegan/comments/zk4ugt/we_have_to_stop_getting_this_wrong_most_soy_does/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://preview.redd.it/we-have-to-stop-getting-this-wrong-most-soy-does-not-go-to-v0-1hts1rscjj5a1.jpg?width=1080&crop=smart&auto=webp&s=3f581de46814e2a8d740cf9a4ed1b7fca7f02158"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cow's Milk Alternatives: Parent FAQs - HealthyChildren.org",
+      "htmlTitle": "\u003cb\u003eCow&#39;s Milk\u003c/b\u003e Alternatives: Parent FAQs - HealthyChildren.org",
+      "link": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/milk-allergy-foods-and-ingredients-to-avoid.aspx",
+      "displayLink": "www.healthychildren.org",
+      "snippet": "Jun 2, 2022 ... While soy milk has traditionally been the most commonly used cow's milk alternative, there are many options available. In addition, soy protein ...",
+      "htmlSnippet": "Jun 2, 2022 \u003cb\u003e...\u003c/b\u003e While \u003cb\u003esoy milk\u003c/b\u003e has traditionally been the most commonly used \u003cb\u003ecow&#39;s\u003c/b\u003e milk alternative, there are many options available. In addition, \u003cb\u003esoy protein\u003c/b\u003e&nbsp;...",
+      "formattedUrl": "https://www.healthychildren.org/.../milk-allergy-foods-and-ingredients-to-a...",
+      "htmlFormattedUrl": "https://www.healthychildren.org/.../milk-allergy-foods-and-ingredients-to-a...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr8bec-3XzkVBLCtYx9s5fkpR2vPOCG986kR8MRzxWvT9VuIkypdGviaY8&s",
+            "width": "328",
+            "height": "154"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.healthychildren.org//SiteCollectionImagesArticleImages/milk-allergy-foods-and-ingredients-to-avoid.jpg?RenditionID=3",
+            "twitter:card": "summary_large_image",
+            "og:type": "article",
+            "og:site_name": "HealthyChildren.org",
+            "og:fb:app_id": "115427621803",
+            "og:title": "Cow’s Milk Alternatives: Parent FAQs",
+            "publish_image": "https://www.healthychildren.org//SiteCollectionImagesArticleImages/milk-allergy-foods-and-ingredients-to-avoid.jpg?RenditionID=3",
+            "og:article:published_time": "2011-12-22T00:00:00",
+            "progid": "SharePoint.WebPartPage.Document",
+            "og:description": "The nutritional content in the various dairy alternative products is important for parents to be aware of when shopping. Choices range from other animal-based beverages (i.e. goat's milk) to products made from nuts (i.e. almond milk), beans (i.e. soy milk), grains, and other plants. \u200b",
+            "webpartpageexpansion": "full",
+            "viewport": "width=device-width, initial-scale=1",
+            "og:url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/milk-allergy-foods-and-ingredients-to-avoid.aspx",
+            "publish_date": "2011-12-22"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.healthychildren.org//SiteCollectionImagesArticleImages/milk-allergy-foods-and-ingredients-to-avoid.jpg?RenditionID=3"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cow's Milk and Milk Alternatives | Infant and Toddler Nutrition | CDC",
+      "htmlTitle": "\u003cb\u003eCow&#39;s Milk\u003c/b\u003e and \u003cb\u003eMilk\u003c/b\u003e Alternatives | Infant and Toddler Nutrition | CDC",
+      "link": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html",
+      "displayLink": "www.cdc.gov",
+      "snippet": "Mar 20, 2025 ... Pasteurized, whole cow's milk and fortified soy beverages are good sources of vitamin D and calcium for children 12 months and older.",
+      "htmlSnippet": "Mar 20, 2025 \u003cb\u003e...\u003c/b\u003e Pasteurized, whole \u003cb\u003ecow&#39;s milk\u003c/b\u003e and fortified \u003cb\u003esoy\u003c/b\u003e beverages are \u003cb\u003egood\u003c/b\u003e sources of vitamin D and calcium for children 12 months and older.",
+      "formattedUrl": "https://www.cdc.gov/infant-toddler.../cows-milk-and-milk-alternatives.html",
+      "htmlFormattedUrl": "https://www.cdc.gov/infant-toddler.../\u003cb\u003ecows\u003c/b\u003e-milk-and-milk-alternatives.html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8wdVd-6fFyrENxgzGlcX82LQE5XPagXZbT5UpDXSRjWj3Z06J8ML8Ij1E&s",
+            "width": "192",
+            "height": "262"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.cdc.gov/infant-toddler-nutrition/media/images/cows-milk.jpg?_=26676",
+            "theme-color": "#0056b3",
+            "twitter:card": "summary",
+            "cdc:content_id": "118",
+            "og:site_name": "Infant and Toddler Nutrition",
+            "cdc:maintained_by": "NATIONAL CENTER FOR CHRONIC DISEASE PREVENTION AND HEALTH PROMOTION; DIVISION OF NUTRITION, PHYSICAL ACTIVITY, AND OBESITY",
+            "cdc:page_origin": "dfe",
+            "twitter:url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html",
+            "cdc:page_type": "cdc_dfe",
+            "cdc:first_published": "December 17, 2024",
+            "og:image:type": "image/jpeg",
+            "og:description": "This page provides information on feeding your child cow's milk and milk alternatives.",
+            "twitter:creator": "@CDCgov",
+            "cdc:version": "4.25.1",
+            "cdc:last_published": "2025-03-21T08:43:04Z",
+            "cdc:dfe_content_type": "cdc_generic",
+            "twitter:site": "@CDCgov",
+            "cdc:last_reviewed": "March 20, 2025",
+            "cdc:build": "4737",
+            "msapplication-tilecolor": "#0056b3",
+            "cdc:content_source": "NATIONAL CENTER FOR CHRONIC DISEASE PREVENTION AND HEALTH PROMOTION; DIVISION OF NUTRITION, PHYSICAL ACTIVITY, AND OBESITY",
+            "cdc:dfe_version": "0.3",
+            "og:type": "article",
+            "twitter:title": "Cow's Milk and Milk Alternatives",
+            "og:title": "Cow's Milk and Milk Alternatives",
+            "cdc:last_updated": "March 20, 2025",
+            "dc.date": "2025-03-20T09:24:24Z",
+            "og:updated_time": "2025-03-20T09:24:24-04:00",
+            "article:author": "CDC",
+            "twitter:image:src": "https://www.cdc.gov/infant-toddler-nutrition/media/images/cows-milk.jpg?_=26676",
+            "cdc:wcms_build": "4.25.1 - b.4737",
+            "cdc:template_version": "5.0",
+            "fb:app_id": "205691699516606",
+            "viewport": "width=device-width, initial-scale=1, shrink-to-fit=no",
+            "apple-mobile-web-app-capable": "yes",
+            "og:author": "CDC",
+            "twitter:description": "This page provides information on feeding your child cow's milk and milk alternatives.",
+            "mobile-web-app-capable": "yes",
+            "og:url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/cows-milk-and-milk-alternatives.html",
+            "cdc:dfe_content_type_version": "1.2.4"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.cdc.gov/infant-toddler-nutrition/media/images/cows-milk.jpg?_=26676"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "What to eat while breastfeeding when your baby has a cow's milk ...",
+      "htmlTitle": "What to eat while breastfeeding when your baby has a \u003cb\u003ecow&#39;s milk\u003c/b\u003e ...",
+      "link": "https://www.hamiltonhealthsciences.ca/wp-content/uploads/2019/08/CowMilkProteinAllergyWhatToEatBreastfeeding-trh.pdf",
+      "displayLink": "www.hamiltonhealthsciences.ca",
+      "snippet": "Note: Soy lecithin and refined soybean oil do not contain soy proteins. Talk to your doctor or dietitian to find out if these foods are safe for you to eat.",
+      "htmlSnippet": "Note: \u003cb\u003eSoy\u003c/b\u003e lecithin and refined \u003cb\u003esoybean\u003c/b\u003e oil do not contain \u003cb\u003esoy\u003c/b\u003e proteins. Talk to your doctor or dietitian to find out if these \u003cb\u003efoods\u003c/b\u003e are \u003cb\u003esafe\u003c/b\u003e for you to eat.",
+      "formattedUrl": "https://www.hamiltonhealthsciences.ca/.../CowMilkProteinAllergyWhatToE...",
+      "htmlFormattedUrl": "https://www.hamiltonhealthsciences.ca/.../CowMilkProteinAllergyWhatToE...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYN6znSMBd24gwcjW6QsUVZK2SxLAuVWCfT3f3vXXKBeGyHaJNR0rqOkm-&s",
+            "width": "196",
+            "height": "205"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20140424110017-04'00'",
+            "creationdate": "D:20131210095334-05'00'",
+            "creator": "Acrobat PDFMaker 10.0 for Word",
+            "sourcemodified": "D:20131210145325",
+            "producer": "Adobe PDF Library 10.0",
+            "company": "HHSC",
+            "title": "Cow's Milk Protein Allergy (CMPA); What to eat while breastfeeding when your baby has a cow's milk protein allergy"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///f2ca68cc06fe944c7e56d2d00614d951d4d492b2da0ecad1f04dc595e0acc774"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cows milk and Soy allergy",
+      "htmlTitle": "\u003cb\u003eCows milk\u003c/b\u003e and \u003cb\u003eSoy\u003c/b\u003e allergy",
+      "link": "https://www.rch.org.au/uploadedFiles/Main/Content/allergy/RCH_Cows%20milk%20and%20Soy%20allergy.pdf",
+      "displayLink": "www.rch.org.au",
+      "snippet": "It is important to read and understand food labels to be able to choose foods that are safe for your child. Page 2. Cows Milk and Soy Allergy - 22/12/2016/2.",
+      "htmlSnippet": "It is important to read and understand food labels to be able to choose \u003cb\u003efoods\u003c/b\u003e that are \u003cb\u003esafe\u003c/b\u003e for your child. Page 2. \u003cb\u003eCows Milk\u003c/b\u003e and \u003cb\u003eSoy\u003c/b\u003e Allergy - 22/12/2016/2.",
+      "formattedUrl": "https://www.rch.org.au/.../RCH_Cows%20milk%20and%20Soy%20allergy....",
+      "htmlFormattedUrl": "https://www.rch.org.au/.../RCH_\u003cb\u003eCows\u003c/b\u003e%20milk%20and%20\u003cb\u003eSoy\u003c/b\u003e%20allergy....",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGsZOJGw7I8xOsXDGJ8YCPc2aqFuY6eX00ZuKlPteFGNtGpL0FjPyKqQ&s",
+            "width": "331",
+            "height": "90"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20161222112459+11'00'",
+            "creationdate": "D:20161222112459+11'00'",
+            "creator": "PScript5.dll Version 5.2.2",
+            "author": "whitehca",
+            "producer": "Acrobat Distiller 10.1.16 (Windows)",
+            "title": "Microsoft Word - RCH_Cows milk and Soy allergyVMfinal"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///d1076977cedcafc223c148773231f6ad93af884bc18b7a7919281785e9a39990"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cow's milk protein (dairy) and soy - Australasian Society of Clinical ...",
+      "htmlTitle": "\u003cb\u003eCow&#39;s milk protein\u003c/b\u003e (\u003cb\u003edairy\u003c/b\u003e) and \u003cb\u003esoy\u003c/b\u003e - Australasian Society of Clinical ...",
+      "link": "https://www.allergy.org.au/patients/food-allergy/ascia-dietary-avoidance-for-food-allergy/cows-milk-protein-dairy-and-soy",
+      "displayLink": "www.allergy.org.au",
+      "snippet": "The ASCIA diet sheet – general information should be printed in conjunction with the ASCIA Dietary Guide for Cow's Milk Protein (Dairy) and Soy Allergy.",
+      "htmlSnippet": "The ASCIA diet sheet – general information should be printed in conjunction with the ASCIA Dietary Guide for \u003cb\u003eCow&#39;s Milk Protein\u003c/b\u003e (\u003cb\u003eDairy\u003c/b\u003e) and \u003cb\u003eSoy\u003c/b\u003e Allergy.",
+      "formattedUrl": "https://www.allergy.org.au/patients/.../cows-milk-protein-dairy-and-soy",
+      "htmlFormattedUrl": "https://www.allergy.org.au/patients/.../\u003cb\u003ecows\u003c/b\u003e-milk-protein-dairy-and-\u003cb\u003esoy\u003c/b\u003e",
+      "pagemap": {
+        "Article": [
+          {
+            "datePublished": "2023-06-12T14:00:00+00:00",
+            "noopener": "Email",
+            "name": "ASCIA Dietary Guide - Cow’s Milk Protein (Dairy) and Soy Allergy",
+            "dateModified": "2024-02-05T01:29:00+00:00",
+            "text": "Email Print This document has been developed by ASCIA, the peak professional body of clinical immunology/allergy specialists in Australia and New Zealand. ASCIA information is based on published...",
+            "articleSection": "Food",
+            "headline": "ASCIA Dietary Guide - Cow’s Milk Protein (Dairy) and Soy Allergy"
+          }
+        ],
+        "metatags": [
+          {
+            "datemodified": "2024-02-05T01:29:00+00:00",
+            "viewport": "width=device-width, initial-scale=1",
+            "articlesection": "Food",
+            "author": "Administrator",
+            "rights": "Copyrights to the materials included in this website are owned solely by the ASCIA, except for materials which are created by others (or the copyright to which is otherwise owned by others) and for which a copyright notice is posted adjacent to such content or materials. The copyright to each item of material created or otherwise owned by another is owned by such creator or other owner. None of the materials included in this website may be reproduced in any form without the express written permission of ASCIA, the creator or other owner, as the case may be. In this regard, the graphic images and layout of this site are the exclusive property of ASCIA and may not be copied, distributed or displayed except using an HTML browser or as otherwise stated herein, without the express written permission of the ASCIA.",
+            "name": "ASCIA Dietary Guide - Cow’s Milk Protein (Dairy) and Soy Allergy",
+            "datepublished": "2023-06-12T14:00:00+00:00"
+          }
+        ],
+        "Person": [
+          {
+            "author": "Administrator"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Formula Options For Infants With Food Allergies",
+      "htmlTitle": "Formula Options For Infants With Food Allergies",
+      "link": "https://kidswithfoodallergies.org/recipes-diet/nutrition-and-health/formula-options-for-kids-with-food-allergies/",
+      "displayLink": "kidswithfoodallergies.org",
+      "snippet": "Cow's milk allergy is one of the most common types of infant food allergy. Soy Formulas (e.g., Similac® Soy Isomil®, Enfamil® ProSobee® or Gerber Good Start Soy ...",
+      "htmlSnippet": "\u003cb\u003eCow&#39;s milk\u003c/b\u003e allergy is one of the most common types of infant food allergy. \u003cb\u003eSoy\u003c/b\u003e Formulas (e.g., Similac® \u003cb\u003eSoy\u003c/b\u003e Isomil®, Enfamil® ProSobee® or Gerber \u003cb\u003eGood\u003c/b\u003e Start \u003cb\u003eSoy\u003c/b\u003e&nbsp;...",
+      "formattedUrl": "https://kidswithfoodallergies.org/.../formula-options-for-kids-with-food-alle...",
+      "htmlFormattedUrl": "https://kidswithfoodallergies.org/.../formula-options-for-kids-with-food-alle...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://kidswithfoodallergies.cdn.adglare.net/tad10aebb/img/29rma_6fv9yg_88d6e7b3.png",
+            "og:type": "article",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Formula Options For Infants With Food Allergies",
+            "og:site_name": "Kids with Food Allergies",
+            "tec-api-origin": "https://kidswithfoodallergies.org",
+            "og:title": "Formula Options for Kids with Food Allergies",
+            "twitter:label1": "Est. reading time",
+            "msapplication-tileimage": "https://kidswithfoodallergies.org/wp-content/uploads/2023/09/cropped-KFA-favicon-270x270.png",
+            "og:description": "The article describes some formula options for infants with food allergies",
+            "twitter:data1": "9 minutes",
+            "article:modified_time": "2024-04-02T19:56:08+00:00",
+            "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0",
+            "twitter:description": "The article describes some formula options for infants with food allergies",
+            "og:locale": "en_US",
+            "og:url": "https://kidswithfoodallergies.org/recipes-diet/nutrition-and-health/formula-options-for-kids-with-food-allergies/",
+            "tec-api-version": "v1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Use of Soy-Based Formulas and Cow's Milk Allergy: Lights and ...",
+      "htmlTitle": "Use of \u003cb\u003eSoy\u003c/b\u003e-Based Formulas and \u003cb\u003eCow&#39;s Milk\u003c/b\u003e Allergy: Lights and ...",
+      "link": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707102/",
+      "displayLink": "pmc.ncbi.nlm.nih.gov",
+      "snippet": "Nov 17, 2020 ... These studies show that SF can be a safe alternative to cow's milk in children with IgE-associated CMA and reported that infants allergic to ...",
+      "htmlSnippet": "Nov 17, 2020 \u003cb\u003e...\u003c/b\u003e These studies show that SF can be a \u003cb\u003esafe\u003c/b\u003e alternative to \u003cb\u003ecow&#39;s milk\u003c/b\u003e in children with IgE-associated CMA and reported that infants allergic to&nbsp;...",
+      "formattedUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707102/",
+      "htmlFormattedUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707102/",
+      "pagemap": {
+        "metatags": [
+          {
+            "msapplication-config": "/static/img/favicons/browserconfig.xml",
+            "citation_publication_date": "2020 Nov 17",
+            "theme-color": "#ffffff",
+            "citation_title": "Use of Soy-Based Formulas and Cow's Milk Allergy: Lights and Shadows",
+            "citation_author_institution": "Department of Health Sciences, University of Milan, Milan, Italy",
+            "og:site_name": "PubMed Central (PMC)",
+            "citation_journal_title": "Frontiers in Pediatrics",
+            "ncbi_pdid": "article",
+            "ncbi_pcid": "journal",
+            "ncbi_phid": "FF20B81186BF372303B811000B940147.m_1",
+            "og:description": "Soybean (Glycine max) is a species of legume native to East Asia and used in childhood diet for over 2,000 years in the East. Soy protein formulas have been available for almost a century. Nowadays, the increase in cow's milk allergy and vegetarian ...",
+            "ncbi_db": "pmc",
+            "ncbi_pinger_stat_url": "https://pmc.ncbi.nlm.nih.gov/stat",
+            "citation_fulltext_html_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707102/",
+            "citation_pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707102/pdf/fped-08-591988.pdf",
+            "ncbi_type": "fulltext",
+            "citation_pmid": "33313028",
+            "og:type": "article",
+            "handheldfriendly": "True",
+            "ncbi_app": "cloudpmc-viewer",
+            "og:title": "Use of Soy-Based Formulas and Cow's Milk Allergy: Lights and Shadows",
+            "citation_author": "Elvira Verduci",
+            "citation_abstract_html_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707102/",
+            "citation_firstpage": "591988",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "citation_doi": "10.3389/fped.2020.591988",
+            "mobileoptimized": "320",
+            "ncbi_domain": "frontpediatrics",
+            "citation_volume": "8",
+            "og:url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7707102/"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Cow's milk and children: MedlinePlus Medical Encyclopedia",
+      "htmlTitle": "\u003cb\u003eCow&#39;s milk\u003c/b\u003e and children: MedlinePlus Medical Encyclopedia",
+      "link": "https://medlineplus.gov/ency/article/001973.htm",
+      "displayLink": "medlineplus.gov",
+      "snippet": "Jul 1, 2023 ... It is safe though, to give cow's milk to children after they're 1 year old. A child who is 1 or 2 years old should only drink whole milk.",
+      "htmlSnippet": "Jul 1, 2023 \u003cb\u003e...\u003c/b\u003e It is \u003cb\u003esafe\u003c/b\u003e though, to give \u003cb\u003ecow&#39;s milk\u003c/b\u003e to children after they&#39;re 1 year old. A child who is 1 or 2 years old should only drink whole \u003cb\u003emilk\u003c/b\u003e.",
+      "formattedUrl": "https://medlineplus.gov/ency/article/001973.htm",
+      "htmlFormattedUrl": "https://medlineplus.gov/ency/article/001973.htm",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7vdtClphhBnAsC-kXYtwji5rxLa-mfqr8gAB52VqiDXhA425FZ9Y3Oo0&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "ac-dictionary": "medlineplus-ac-dictionary",
+            "og:image": "https://medlineplus.gov/images/share_ency_1.jpg",
+            "fb:app_id": "1042245625821448",
+            "expires": "Fri, 01 08 2025",
+            "twitter:title": "Cow's milk and children: MedlinePlus Medical Encyclopedia",
+            "twitter:card": "summary_large_image",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "If your child is under 1 year old, you should not feed your baby cow's milk, according to the American Academy of Pediatrics (AAP). This is because cow's milk doesn't provide enough of certain nutrients",
+            "og:title": "Cow's milk and children: MedlinePlus Medical Encyclopedia",
+            "og:url": "https://medlineplus.gov/ency/article/001973.htm",
+            "og:description": "If your child is under 1 year old, you should not feed your baby cow's milk, according to the American Academy of Pediatrics (AAP). This is because cow's milk doesn't provide enough of certain nutrients",
+            "twitter:image": "https://medlineplus.gov/images/share_ency_1.jpg"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://medlineplus.gov/images/share_ency_1.jpg"
+          }
+        ],
+        "medicalwebpage": [
+          {
+            "audience": "http://schema.org/Patient",
+            "name": "Cow's milk and children",
+            "description": "If your child is under 1 year old, you should not feed your baby cow's milk, according to the American Academy of Pediatrics (AAP). This is because cow's milk doesn't provide enough of certain...",
+            "url": "https://medlineplus.gov/ency/article/001973.htm"
+          }
+        ],
+        "listitem": [
+          {
+            "item": "Home",
+            "name": "Home",
+            "position": "1"
+          },
+          {
+            "item": "Medical Encyclopedia",
+            "name": "Medical Encyclopedia",
+            "position": "2"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Soy | WWF",
+      "htmlTitle": "\u003cb\u003eSoy\u003c/b\u003e | WWF",
+      "link": "https://wwf.panda.org/discover/our_focus/food_practice/sustainable_production/soy/",
+      "displayLink": "wwf.panda.org",
+      "snippet": "In fact, almost 80% of the world's soybean crop is fed to livestock, especially for beef, chicken, egg and dairy production (milk, cheeses, butter, yogurt, etc) ...",
+      "htmlSnippet": "In fact, almost 80% of the world&#39;s \u003cb\u003esoybean\u003c/b\u003e crop is fed to \u003cb\u003elivestock\u003c/b\u003e, especially for beef, chicken, egg and \u003cb\u003edairy\u003c/b\u003e production (\u003cb\u003emilk\u003c/b\u003e, cheeses, butter, yogurt, etc)&nbsp;...",
+      "formattedUrl": "https://wwf.panda.org/discover/our_focus/food_practice/.../soy/",
+      "htmlFormattedUrl": "https://wwf.panda.org/discover/our_focus/food_practice/.../\u003cb\u003esoy\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU4dHR1SlUywknRDrB0EjoiP60Qv8Mf6cQtEnuWVOJRkC6RmaqPMWrRTo&s",
+            "width": "186",
+            "height": "209"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "//d2ouvy59p0dg6k.cloudfront.net/img/original_ww294408_718316.jpg",
+            "expires": "0",
+            "og:type": "Article",
+            "twitter:card": "summary",
+            "twitter:title": "Soy",
+            "twitter:domain": "https://wwf.panda.org",
+            "og:title": "Soy",
+            "rating": "General",
+            "twitter:image": "//d2ouvy59p0dg6k.cloudfront.net/img/original_ww294408_718316.jpg",
+            "fb:app_id": "214972185182116",
+            "viewport": "width=device-width, initial-scale=1, maximum-scale=1",
+            "twitter:description": "Soy",
+            "twitter:account_id": "1512908459"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://cdnassets.panda.org/_skins/international/img/logo.png"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,513 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - tahu sutra vs tahu sumedang differences",
+        "totalResults": "5400",
+        "searchTerms": "tahu sutra vs tahu sumedang differences",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - tahu sutra vs tahu sumedang differences",
+        "totalResults": "5400",
+        "searchTerms": "tahu sutra vs tahu sumedang differences",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f3c5ff8d6b31e41e3"
+      }
+    ]
+  },
+  "context": {
+    "title": "LangSearch"
+  },
+  "searchInformation": {
+    "searchTime": 0.434708,
+    "formattedSearchTime": "0.43",
+    "totalResults": "5400",
+    "formattedTotalResults": "5,400"
+  },
+  "spelling": {
+    "correctedQuery": "tahu sutra dan tahu sumedang differences",
+    "htmlCorrectedQuery": "tahu sutra \u003cb\u003e\u003ci\u003edan\u003c/i\u003e\u003c/b\u003e tahu sumedang differences"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "3+ Hundred Pressed Bean Curd Royalty-Free Images, Stock Photos ...",
+      "htmlTitle": "3+ Hundred Pressed Bean Curd Royalty-Free Images, Stock Photos ...",
+      "link": "https://www.shutterstock.com/search/pressed-bean-curd",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Silk Smooth Tofu or Tahu Sutra on Plastic Supermarket Packaging. ... Tahu Sumedang or Fried Tofu, Indonesian Food. Tofu or bean curd, is a food ...",
+      "htmlSnippet": "Silk Smooth Tofu \u003cb\u003eor Tahu Sutra\u003c/b\u003e on Plastic Supermarket Packaging. ... \u003cb\u003eTahu Sumedang or\u003c/b\u003e Fried Tofu, Indonesian Food. Tofu \u003cb\u003eor\u003c/b\u003e bean curd, is a food&nbsp;...",
+      "formattedUrl": "https://www.shutterstock.com/search/pressed-bean-curd",
+      "htmlFormattedUrl": "https://www.shutterstock.com/search/pressed-bean-curd",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSpxzx9Y4JdjWFOs1T0C2O4mPpC7tKuIa9WmeuOV3yepzgReJvRTWwgs0&s",
+            "width": "217",
+            "height": "232"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.shutterstock.com/shutterstock/photos/2524956617/display_1500/stock-vector-flat-illustration-is-a-single-rectangular-piece-of-feta-cheese-highlighted-in-white-a-large-piece-2524956617.jpg",
+            "twitter:card": "summary_large_image",
+            "og:type": "website",
+            "og:image:width": "1500",
+            "twitter:site": "@shutterstock",
+            "og:site_name": "Shutterstock",
+            "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+            "og:title": "3+ Hundred Pressed Bean Curd Royalty-Free Images, Stock Photos & Pictures | Shutterstock",
+            "og:image:height": "1500",
+            "og:ttl": "604800",
+            "og:url": "https://www.shutterstock.com/search/pressed-bean-curd",
+            "og:description": "Find 3+ Hundred Pressed Bean Curd stock images in HD and millions of other royalty-free stock photos, 3D objects, illustrations and vectors in the Shutterstock collection. Thousands of new, high-quality pictures added every day."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.shutterstock.com/shutterstock/photos/2524956617/display_1500/stock-vector-flat-illustration-is-a-single-rectangular-piece-of-feta-cheese-highlighted-in-white-a-large-piece-2524956617.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Effect of different coagulants on yield and quality of tofu from soymilk ...",
+      "htmlTitle": "Effect of \u003cb\u003edifferent\u003c/b\u003e coagulants on yield and quality of tofu from soymilk ...",
+      "link": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+      "displayLink": "www.researchgate.net",
+      "snippet": "... compared to that of other different types of tofu. ... Penambahan karagenan pada pembuatan tahu sutra diharapkan dapat meningkatkan mutu tekstur tahu sutra yang ...",
+      "htmlSnippet": "... \u003cb\u003ecompared\u003c/b\u003e to that of other \u003cb\u003edifferent\u003c/b\u003e types of tofu. ... Penambahan karagenan pada pembuatan \u003cb\u003etahu sutra\u003c/b\u003e diharapkan dapat meningkatkan mutu tekstur \u003cb\u003etahu sutra\u003c/b\u003e yang&nbsp;...",
+      "formattedUrl": "https://www.researchgate.net/.../226424131_Effect_of_different_coagulant...",
+      "htmlFormattedUrl": "https://www.researchgate.net/.../226424131_Effect_of_different_coagulant...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLAa8-pHWvH-qGkv71Qm9rfrNoxw6i7ELfip4ndPU0tq1iqh0X-d7xZ3Q&s",
+            "width": "194",
+            "height": "260"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.researchgate.net/images/template/default_publication_preview_large.png",
+            "citation_publication_date": "2007/01/01",
+            "twitter:card": "summary",
+            "citation_title": "Effect of different coagulants on yield and quality of tofu from soymilk",
+            "og:site_name": "ResearchGate",
+            "twitter:url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "citation_publisher": "Springer Nature",
+            "citation_journal_title": "European Food Research and Technology",
+            "twitter:creator": "@ResearchGate",
+            "og:description": "Request PDF | Effect of different coagulants on yield and quality of tofu from soymilk | Soymilk tofu coagulated with four indigenous coagulants was compared in terms of chemical, textural, colour, and sensory attributes with calcium... | Find, read and cite all the research you need on ResearchGate",
+            "citation_issn": "1438-2377",
+            "twitter:site": "@ResearchGate",
+            "og:site": "ResearchGate",
+            "citation_fulltext_html_url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "citation_lastpage": "472",
+            "application-name": "ResearchGate",
+            "og:type": "website",
+            "rg-request-token": "aad-eMr1UjAMHTIuGZgJFqQTaEFI+r854xkR5v63WFN6IqXl0BDZQzKQJJ3eAUuxpsk0G5MoAEk0XsNVMGykMZsgGowZnHlsD2draI600rsvZusU0HpQWnpN7x5esZvrWuNzk71IUunKzgt1PdDQBzpeNwX+nbosBzkrtNwq1GFjVLB012TKNnivwQDfvqnuTqummF5/+K9wIb4KLdu3m/Y4DqMGIxLMArmBZqwypV0hG2bypzWjQDNTQLpx7JwdVnIWjN7FMvETRXe6PZN85rU=",
+            "og:title": "Effect of different coagulants on yield and quality of tofu from soymilk | Request PDF",
+            "citation_author": "Veronica A. Obatolu",
+            "citation_abstract_html_url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "citation_issue": "3",
+            "referrer": "origin",
+            "citation_firstpage": "467",
+            "viewport": "width=device-width,initial-scale=1",
+            "citation_doi": "10.1007/s00217-006-0558-8",
+            "rg:id": "PB:226424131",
+            "dc.identifier": "http://dx.doi.org/10.1007/s00217-006-0558-8",
+            "citation_volume": "226",
+            "og:url": "https://www.researchgate.net/publication/226424131_Effect_of_different_coagulants_on_yield_and_quality_of_tofu_from_soymilk",
+            "gs_meta_revision": "1.1"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.researchgate.net/images/template/default_publication_preview_large.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "2+ Thousand Package Tofu Royalty-Free Images, Stock Photos ...",
+      "htmlTitle": "2+ Thousand Package Tofu Royalty-Free Images, Stock Photos ...",
+      "link": "https://www.shutterstock.com/search/package-tofu",
+      "displayLink": "www.shutterstock.com",
+      "snippet": "Silk Smooth Tofu or Tahu Sutra on Plastic Supermarket Packaging. Isolated on ... Tahu Sumedang Is Fried Tofu Indonesian Traditional Food Wrap In Rattan ...",
+      "htmlSnippet": "Silk Smooth Tofu \u003cb\u003eor Tahu Sutra\u003c/b\u003e on Plastic Supermarket Packaging. Isolated on ... \u003cb\u003eTahu Sumedang\u003c/b\u003e Is Fried Tofu Indonesian Traditional Food Wrap In Rattan&nbsp;...",
+      "formattedUrl": "https://www.shutterstock.com/search/package-tofu",
+      "htmlFormattedUrl": "https://www.shutterstock.com/search/package-tofu",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo3Lgwrl_1bANvgWnNAXCHihD-oSjBBjGAtQ9-XvIawYjkQF0PJqgbZBk&s",
+            "width": "248",
+            "height": "203"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.shutterstock.com/shutterstock/photos/1743670193/display_1500/stock-photo-top-view-of-japanese-style-tofu-in-a-plastic-tray-for-cooking-ideas-1743670193.jpg",
+            "twitter:card": "summary_large_image",
+            "og:type": "website",
+            "og:image:width": "1500",
+            "twitter:site": "@shutterstock",
+            "og:site_name": "Shutterstock",
+            "viewport": "minimum-scale=1, initial-scale=1, width=device-width",
+            "og:title": "2+ Thousand Package Tofu Royalty-Free Images, Stock Photos & Pictures | Shutterstock",
+            "og:image:height": "1125",
+            "og:ttl": "604800",
+            "og:url": "https://www.shutterstock.com/search/package-tofu",
+            "og:description": "Find 2+ Thousand Package Tofu stock images in HD and millions of other royalty-free stock photos, 3D objects, illustrations and vectors in the Shutterstock collection. Thousands of new, high-quality pictures added every day."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.shutterstock.com/shutterstock/photos/1743670193/display_1500/stock-photo-top-view-of-japanese-style-tofu-in-a-plastic-tray-for-cooking-ideas-1743670193.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Characteristics of Tofu Wastewater From Different Soybeans and ...",
+      "htmlTitle": "Characteristics of Tofu Wastewater From \u003cb\u003eDifferent\u003c/b\u003e Soybeans and ...",
+      "link": "http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-a37c0b3e-da85-469e-b333-90808a4bd789/c/05_Hardyanti_Characteristics_EEET_2023_8.pdf",
+      "displayLink": "yadda.icm.edu.pl",
+      "snippet": "Oct 12, 2023 ... ABAH ABU Tahu Sutra located in Jl. Gayamsari ... Penetapan Kadar Protein pada Tahu Sumedang dan Tahu Cina secara Spe- ktrofotometri UV-Vis.",
+      "htmlSnippet": "Oct 12, 2023 \u003cb\u003e...\u003c/b\u003e ABAH ABU \u003cb\u003eTahu Sutra\u003c/b\u003e located in Jl. Gayamsari ... Penetapan Kadar Protein pada \u003cb\u003eTahu Sumedang\u003c/b\u003e dan Tahu Cina secara Spe- ktrofotometri UV-Vis.",
+      "formattedUrl": "http://yadda.icm.edu.pl/.../05_Hardyanti_Characteristics_EEET_2023_8.pd...",
+      "htmlFormattedUrl": "http://yadda.icm.edu.pl/.../05_Hardyanti_Characteristics_EEET_2023_8.pd...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1BAJhPHHC1QKyNUoODQgonts6tVml1AXennQcwfoNtZ0oOLnLCX2V1bvh&s",
+            "width": "255",
+            "height": "198"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20231012185859+02'00'",
+            "creationdate": "D:20231012185857+02'00'",
+            "creator": "Adobe InDesign 18.0 (Windows)",
+            "producer": "Adobe PDF Library 17.0"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///c59c19f2d4ffbdf3864f2f4247f8a058e2532ffd19a58cfde1e55afdcc63f06d"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mapo Tofu Recipe | TikTok",
+      "htmlTitle": "Mapo Tofu Recipe | TikTok",
+      "link": "https://www.tiktok.com/channel/mapo-tofu-recipe?lang=en",
+      "displayLink": "www.tiktok.com",
+      "snippet": "Resep mapo tofu Bahan: ~1 kotak tahu sutra ~daging ayam cincang marinasi kecap asin , merica, tepung tapioka Bumbu: ~Bawang putih dan jahe cincang ~ la ...",
+      "htmlSnippet": "Resep mapo tofu Bahan: ~1 kotak \u003cb\u003etahu sutra\u003c/b\u003e ~daging ayam cincang marinasi kecap asin , merica, tepung tapioka Bumbu: ~Bawang putih dan jahe cincang ~ la&nbsp;...",
+      "formattedUrl": "https://www.tiktok.com/channel/mapo-tofu-recipe?lang=en",
+      "htmlFormattedUrl": "https://www.tiktok.com/channel/mapo-tofu-recipe?lang=en",
+      "pagemap": {
+        "metatags": [
+          {
+            "twitter:app:id:googleplay": "com.zhiliaoapp.musically",
+            "twitter:card": "summary",
+            "og:image:width": "360",
+            "og:site_name": "TikTok",
+            "applicable-device": "pc, mobile",
+            "al:android:package": "com.zhiliaoapp.musically",
+            "pumbaa-ctx": "login=0,ftc=0",
+            "al:ios:url": "snssdk1233://user/profile/",
+            "twitter:app:id:iphone": "835599320",
+            "og:description": "16.7M posts. Discover videos related to Mapo Tofu Recipe on TikTok. See more videos about Mapo Tofu Pizza Recipe, Recette Fufu Sauce Gombo, Nobu Crispy Tofu Recipe, Saoto Soup Recipe, Gonfo Recipe, Taho Recipe.",
+            "al:ios:app_store_id": "835599320",
+            "twitter:site": "TikTok",
+            "og:type": "website",
+            "twitter:title": "Mapo Tofu Recipe | TikTok",
+            "og:image:alt": "Mapo Tofu Recipe | TikTok",
+            "al:ios:app_name": "musical.ly",
+            "og:title": "Mapo Tofu Recipe | TikTok",
+            "og:image:height": "360",
+            "google": "notranslate",
+            "al:android:url": "snssdk1233://user/profile/",
+            "fb:app_id": "597615686992125",
+            "viewport": "width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no",
+            "twitter:description": "16.7M posts. Discover videos related to Mapo Tofu Recipe on TikTok. See more videos about Mapo Tofu Pizza Recipe, Recette Fufu Sauce Gombo, Nobu Crispy Tofu Recipe, Saoto Soup Recipe, Gonfo Recipe, Taho Recipe.",
+            "og:url": "https://www.tiktok.com/channel/mapo-tofu-recipe",
+            "al:android:app_name": "musical.ly",
+            "format-detection": "telephone=no"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "5 Jenis Tahu di Indonesia | tempo.co",
+      "htmlTitle": "5 Jenis \u003cb\u003eTahu\u003c/b\u003e di Indonesia | tempo.co",
+      "link": "https://www.tempo.co/gaya-hidup/5-jenis-tahu-di-indonesia-1171528",
+      "displayLink": "www.tempo.co",
+      "snippet": "Nov 21, 2024 ... 1. Tahu Pong · 2. Tahu Sutra · 3. Tahu Putih · 4. Tahu Kuning · 5. Tahu Sumedang.",
+      "htmlSnippet": "Nov 21, 2024 \u003cb\u003e...\u003c/b\u003e 1. Tahu Pong &middot; 2. \u003cb\u003eTahu Sutra\u003c/b\u003e &middot; 3. Tahu Putih &middot; 4. Tahu Kuning &middot; 5. \u003cb\u003eTahu Sumedang\u003c/b\u003e.",
+      "formattedUrl": "https://www.tempo.co/gaya-hidup/5-jenis-tahu-di-indonesia-1171528",
+      "htmlFormattedUrl": "https://www.tempo.co/gaya-hidup/5-jenis-\u003cb\u003etahu\u003c/b\u003e-di-indonesia-1171528",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs59eNbTYXVUeIl8r4YllBH55AHWQAgZ-88z_KM_hfV9adJBaSjXChS672&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://statik.tempo.co/data/2023/04/03/id_1194063/1194063_720.jpg",
+            "article:published_time": "21 November 2024 | 18.40 WIB",
+            "og:image:width": "720",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "5 Jenis Tahu di Indonesia",
+            "og:type": "article",
+            "og:site_name": "Tempo",
+            "baggage": "sentry-environment=production,sentry-release=88f568552d4a83a6768422a7411e14d07c8ec3a2,sentry-public_key=50b458e425c70d41d2ec8ad454e3b1fe,sentry-trace_id=17c72e3a014e2a9286a1112063de35c8,sentry-sampled=false",
+            "sentry-trace": "17c72e3a014e2a9286a1112063de35c8-551e6b6f5f92c8df-0",
+            "og:title": "5 Jenis Tahu di Indonesia | tempo.co",
+            "og:image:height": "405",
+            "googlebot-news": "index, follow",
+            "fb:pages": "160355148441",
+            "og:description": "Tahu salah satu makanan berbahan kedelai yang beragam variasinya di Indonesia",
+            "twitter:image:src": "https://statik.tempo.co/data/2023/04/03/id_1194063/1194063_720.jpg",
+            "fb:app_id": "332404380172618",
+            "twitter:site": "@tempodotco",
+            "viewport": "width=device-width, initial-scale=1",
+            "yahoobot": "index, follow",
+            "twitter:description": "Tahu salah satu makanan berbahan kedelai yang beragam variasinya di Indonesia",
+            "og:locale": "id_ID",
+            "og:url": "https://www.tempo.co/gaya-hidup/5-jenis-tahu-di-indonesia-1171528"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://statik.tempo.co/data/2023/04/03/id_1194063/1194063_720.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tahu sutra goreng dengan sambal kecap",
+      "htmlTitle": "\u003cb\u003eTahu sutra goreng\u003c/b\u003e dengan sambal kecap",
+      "link": "https://id.pinterest.com/pin/478859372898596477/",
+      "displayLink": "id.pinterest.com",
+      "snippet": "Delicious and crispy Tahu Sutra fried to perfection, served with a flavorful sambal kecap dipping sauce. A popular Indonesian dish that is a favorite among ...",
+      "htmlSnippet": "Delicious and crispy \u003cb\u003eTahu Sutra\u003c/b\u003e fried to perfection, served with a flavorful sambal kecap dipping sauce. A popular Indonesian dish that is a favorite among&nbsp;...",
+      "formattedUrl": "https://id.pinterest.com/pin/478859372898596477/",
+      "htmlFormattedUrl": "https://id.pinterest.com/pin/478859372898596477/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2piYmptOwgcPfXehDiaswzuZfN2Rsn_C9dfh6CK0bBRcx6PZanmT9D1n&s",
+            "width": "194",
+            "height": "259"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Pinterest",
+            "msapplication-tilecolor": "#ffffff",
+            "og:image": "https://i.pinimg.com/736x/57/41/05/5741055ebcc092b60d64beb622313941.jpg",
+            "og:image:width": "736",
+            "og:type": "pinterestapp:pin",
+            "twitter:title": "Tahu Sutra Goreng with Sambal Kecap",
+            "og:site_name": "Pinterest",
+            "og:title": "Tahu Sutra Goreng with Sambal Kecap",
+            "og:image:height": "980",
+            "msapplication-tileimage": "https://s.pinimg.com/webapp/logo_transparent_144x144-3da7a67b.png",
+            "og:updated_time": "2025-04-15T16:29:55.000Z",
+            "pinterestapp:repins": "0",
+            "pinterestapp:pinboard": "https://id.pinterest.com/deianeirarose/pawon-mami/",
+            "og:description": "Delicious and crispy Tahu Sutra fried to perfection, served with a flavorful sambal kecap dipping sauce. A popular Indonesian dish that is a favorite among many. Enjoy this flavorful and spicy treat!",
+            "twitter:image:src": "https://i.pinimg.com/736x/57/41/05/5741055ebcc092b60d64beb622313941.jpg",
+            "pinterestapp:pinner": "https://id.pinterest.com/deianeirarose/",
+            "referrer": "origin",
+            "fb:app_id": "274266067164",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Delicious and crispy Tahu Sutra fried to perfection, served with a flavorful sambal kecap dipping sauce. A popular Indonesian dish that is a favorite among many. Enjoy this flavorful and spicy treat!",
+            "og:url": "https://id.pinterest.com/pin/478859372898596477/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.pinimg.com/736x/57/41/05/5741055ebcc092b60d64beb622313941.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Tahu Goreng Sambel Kecap",
+      "htmlTitle": "\u003cb\u003eTahu Goreng\u003c/b\u003e Sambel Kecap",
+      "link": "https://www.pinterest.com/pin/841258405432807048/",
+      "displayLink": "www.pinterest.com",
+      "snippet": "a glass plate filled with different types of food. Tempe tahu goreng. More ... Tahu sutra goreng dengan sambal kecap. More about this Pin. 22. Saves. Board ...",
+      "htmlSnippet": "a glass plate filled with \u003cb\u003edifferent\u003c/b\u003e types of food. Tempe \u003cb\u003etahu goreng\u003c/b\u003e. More ... \u003cb\u003eTahu sutra\u003c/b\u003e goreng dengan sambal kecap. More about this Pin. 22. Saves. Board&nbsp;...",
+      "formattedUrl": "https://www.pinterest.com/pin/841258405432807048/",
+      "htmlFormattedUrl": "https://www.pinterest.com/pin/841258405432807048/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdDqS19ZO00jf6wVphQG5ljp-unriJFM0M9ZPsQI2mor8jE2Y2gCV1Kr8&s",
+            "width": "201",
+            "height": "251"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Pinterest",
+            "msapplication-tilecolor": "#ffffff",
+            "og:see_also": "https://resepmamiku.com/tahu-goreng-sambel-kecap-yscooking",
+            "og:image": "https://i.pinimg.com/736x/77/cc/45/77cc455aa707b8b7aa0cdc929deecef8.jpg",
+            "og:image:width": "736",
+            "og:type": "pinterestapp:pin",
+            "twitter:title": "Tahu Goreng Sambel Kecap",
+            "pinterestapp:source": "https://resepmamiku.com/tahu-goreng-sambel-kecap-yscooking",
+            "og:site_name": "Pinterest",
+            "og:title": "Tahu Goreng Sambel Kecap",
+            "og:image:height": "920",
+            "msapplication-tileimage": "https://s.pinimg.com/webapp/logo_transparent_144x144-3da7a67b.png",
+            "og:updated_time": "2024-12-28T13:23:59.000Z",
+            "pinterestapp:repins": "0",
+            "pinterestapp:pinboard": "https://www.pinterest.com/faisaladik/canva-element/",
+            "og:description": "Sajian lezat Tahu Goreng Sambel Kecap siap menggoyang lidah Anda. Dapatkan resepnya dari @yscooking dan buat hidangan yang menggugah selera.",
+            "twitter:image:src": "https://i.pinimg.com/736x/77/cc/45/77cc455aa707b8b7aa0cdc929deecef8.jpg",
+            "pinterestapp:pinner": "https://www.pinterest.com/faisaladik/",
+            "referrer": "origin",
+            "fb:app_id": "274266067164",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Sajian lezat Tahu Goreng Sambel Kecap siap menggoyang lidah Anda. Dapatkan resepnya dari @yscooking dan buat hidangan yang menggugah selera.",
+            "og:url": "https://id.pinterest.com/pin/resep-tahu-goreng-sambel-kecap-dari-yscooking--662592163943852656/"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.pinimg.com/736x/77/cc/45/77cc455aa707b8b7aa0cdc929deecef8.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Etnomatematika dalam Proses Pembuatan Tahu Sebagai Sumber ...",
+      "htmlTitle": "Etnomatematika dalam Proses Pembuatan \u003cb\u003eTahu\u003c/b\u003e Sebagai Sumber ...",
+      "link": "https://j-cup.org/index.php/cendekia/article/download/2240/956/",
+      "displayLink": "j-cup.org",
+      "snippet": "Jul 11, 2023 ... Mapan;. Jurnal Matematika Dan Pembelajaran, 7(1), 32–40. Fitriani, N. A. (2019). Analisis Nlai Tambah Pengelolaan Tahu di UMKM Tahu Sutra Miwa- ...",
+      "htmlSnippet": "Jul 11, 2023 \u003cb\u003e...\u003c/b\u003e Mapan;. Jurnal Matematika Dan Pembelajaran, 7(1), 32–40. Fitriani, N. A. (2019). Analisis Nlai Tambah Pengelolaan \u003cb\u003eTahu\u003c/b\u003e di UMKM \u003cb\u003eTahu Sutra\u003c/b\u003e Miwa-&nbsp;...",
+      "formattedUrl": "https://j-cup.org/index.php/cendekia/article/download/2240/956/",
+      "htmlFormattedUrl": "https://j-cup.org/index.php/cendekia/article/download/2240/956/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-RKQIMYEbhTv6gluAZ_5mmFyp-v7EMnYVGVfmVbtAuGkp36fCWVz4eS85&s",
+            "width": "268",
+            "height": "188"
+          }
+        ],
+        "metatags": [
+          {
+            "moddate": "D:20230726193631+07'00'",
+            "creator": "Microsoft® Word 2019",
+            "creationdate": "D:20230726193631+07'00'",
+            "author": "okti",
+            "producer": "Microsoft® Word 2019"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "x-raw-image:///80fb0278de6c74ae6b1c20ba0ac35fd410101863bff283384a9b558d2a4db9eb"
+          }
+        ]
+      },
+      "mime": "application/pdf",
+      "fileFormat": "PDF/Adobe Acrobat"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Resep Tahu Pong Khas Semarang oleh Dapur Halal (Indri) - Cookpad",
+      "htmlTitle": "Resep \u003cb\u003eTahu\u003c/b\u003e Pong Khas Semarang oleh Dapur Halal (Indri) - Cookpad",
+      "link": "https://cookpad.com/id/resep/24021089-tahu-pong-khas-semarang",
+      "displayLink": "cookpad.com",
+      "snippet": "Aug 26, 2024 ... Cara Membuat · 1. Siapkan tahu emplek seperti ini, boleh pakai tahu putih biasa/tahu sutra.. · 2. Goreng tahu yang kita belah jadi 2 tadi di ...",
+      "htmlSnippet": "Aug 26, 2024 \u003cb\u003e...\u003c/b\u003e Cara Membuat &middot; 1. Siapkan \u003cb\u003etahu\u003c/b\u003e emplek seperti ini, boleh pakai \u003cb\u003etahu\u003c/b\u003e putih biasa/\u003cb\u003etahu sutra\u003c/b\u003e.. &middot; 2. \u003cb\u003eGoreng tahu\u003c/b\u003e yang kita belah jadi 2 tadi di&nbsp;...",
+      "formattedUrl": "https://cookpad.com/id/resep/24021089-tahu-pong-khas-semarang",
+      "htmlFormattedUrl": "https://cookpad.com/id/resep/24021089-\u003cb\u003etahu\u003c/b\u003e-pong-khas-semarang",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSenTZpNMGwsauHYoosLPCXU6xQ7DGrKBBdMnt_ybESEkslb7r3wWXvX4U&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "p:domain_verify": "34b4186390ed936e063b9ad79aa2f278",
+            "apple-itunes-app": "app-id=585332633, app-argument=https://cookpad.com/id/resep/24021089",
+            "og:image": "https://img-global.cpcdn.com/recipes/58c3ad261fcc14d3/1200x630cq90/photo.jpg",
+            "og:image:width": "1200",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Cookpad",
+            "al:android:package": "com.mufumbo.android.recipe.search",
+            "al:ios:url": "https://cookpad.com/id/resep/24021089",
+            "msapplication-tileimage": "//global-web-assets.cpcdn.com/assets/favicons/mstile-144x144-cb5c022c1ab1de670de7a47b739045a8d1ba7a493b7e0da794bee5cc6bb31b62.png",
+            "og:description": "Resep Tahu Pong Khas Semarang. Hayooo siapa disini yang taunya kalo tahu pong itu tahu kopong alias tahu yang gak ada isian nya??? Memang ada sih tahu pong gitu biasanya buat bikin tahu isi di abang2 gorengan atau bikin tahu gejrot. Nah kalo tahu pong khas Semarang bukan yang gitu ya maksutnya,...",
+            "al:ios:app_store_id": "585332633",
+            "csrf-token": "OQ5wSTzRZiLMpb_OjHiTWucC4bWf7liYJqCGJy05UBj3RrTRncB6EMxlkXXzdaQ_dK16ARfC3BFpGq8eTiHxdw",
+            "msapplication-tilecolor": "#da532c",
+            "twitter:title": "Tahu Pong Khas Semarang",
+            "al:ios:app_name": "Cookpad",
+            "msvalidate.01": "284DFFB29E8DABE16C08409C5C68F3C6",
+            "og:title": "Resep Tahu Pong Khas Semarang oleh Dapur Halal (Indri)",
+            "og:image:height": "630",
+            "turbo-cache-control": "no-preview",
+            "csrf-param": "authenticity_token",
+            "al:android:url": "https://cookpad.com/id/resep/24021089",
+            "viewport": "viewport-fit=cover, width=device-width, initial-scale=1.0",
+            "twitter:description": "Hayooo siapa disini yang taunya kalo tahu pong itu tahu kopong alias tahu yang gak ada isian nya??? Memang ada sih tahu pong gitu biasanya buat bikin tahu isi di abang2 gorengan atau bikin tahu gejrot. Nah kalo tahu pong khas Semarang bukan yang gitu ya maksutnya, jadi olahan tahu emplek atau tahu putih yang digoreng lalu disiran dengan kuah petis yang rasanya manis dan gurih serta ditambah dengan acar lobak.. Udah pernah nyobain belum? Aku cari resep di cookpad blm nemu sih resep tahu pong khas Semarang yang seperti ini 🥲 jadi ini resepnya ala2 aku aja ya hehee 😚 #cookpadcommunity_semarang #semangcookhokyahokye24 #masakandaerahku #semangcook_masakandaerahku",
+            "og:url": "https://cookpad.com/id/resep/24021089",
+            "al:android:app_name": "Cookpad"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://img-global.cpcdn.com/recipes/58c3ad261fcc14d3/1200x630cq90/photo.jpg"
+          }
+        ]
+      }
+    }
+  ]
+}
